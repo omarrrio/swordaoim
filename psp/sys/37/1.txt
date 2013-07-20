@@ -9,16 +9,16 @@
 9＾Lv
 10＾HP
 11＾SP
-12＾ダメージ値
-13＾攻撃間隔
-14＾攻撃力
-15＾防御力
+12＾Damage
+13＾Atk Delay
+14＾ATK
+15＾DEF
 16＾STR
 17＾VIT
 18＾AGI
 19＾DEX
-20＾命中
-21＾回避
+20＾Accuracy
+21＾Evade
 22＾EQUIPMENT
 23＾SKILL
 24＾ITEM
@@ -32,12 +32,12 @@
 32＾-
 33＾%
 34＾　
-35＾所持アイテムから、自分の装備品を変更することができます
-36＾スキル構成の変更や、スキルの習得をすることができます
-37＾所持アイテムの閲覧や、使用することができます
-38＾今までに登録されたフレンドを確認することができます
-39＾攻略組の現在層の攻略状況を確認することができます
-40＾受領したクエストの情報を確認することができます
-41＾現在地のマップを開きます
-42＾システム設定を変更することができます
-43＾ログアウトします：ログアウトは現在使用できません
+35＾Change your equipment
+36＾Check the currently acquired skill
+37＾Check and use items you have acquired
+38＾Check the list of friends you have registered
+39＾Check the status of the current frontline team
+40＾Check currently pending quests
+41＾Open map of your current location
+42＾You can change yor system settings
+43＾Logout: You cannot logout
