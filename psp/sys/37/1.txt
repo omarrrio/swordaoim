@@ -1,43 +1,45 @@
-1OLv
-2OATK
-3ODEF
-4OStrength
-5OVitality
-6ODexterity
-7OAgility
-8OHP
-9OLv
-10OHP
-11OSP
-12ODamage
-13OAtk Delay
-14OATK
-15ODEF
-16OSTR
-17OVIT
-18OAGI
-19ODEX
-20OAccuracy
-21OEvade
-22OEQUIPMENT
-23OSKILL
-24OITEM
-25OFRIEND
-26OGUILDS
-27OQUEST
-28OMAP
-29OOPTION
-30OLOGOUT
-31O+
-32O-
-33O%
-34O@
-35OChange your equipment
-36OCheck the currently acquired skill
-37OCheck and use items you have acquired
-38OCheck the list of friends you have registered
-39OCheck the status of the current frontline team
-40OCheck currently pending quests
-41OOpen map of your current location
-42OYou can change yor system settings
-43OLogout: You cannot logout
+1ï¿½OLv
+2ï¿½OATK
+3ï¿½ODEF
+4ï¿½OStrength
+5ï¿½OVitality
+6ï¿½ODexterity
+7ï¿½OAgility
+8ï¿½OHP
+9ï¿½OLv
+10ï¿½OHP
+11ï¿½OSP
+12ï¿½ODamage
+13ï¿½OAtk Delay
+14ï¿½OATK
+15ï¿½ODEF
+16ï¿½OSTR
+17ï¿½OVIT
+18ï¿½OAGI
+19ï¿½ODEX
+20ï¿½OAccuracy
+21ï¿½OEvade
+22ï¿½OEQUIPMENT
+23ï¿½OSKILL
+24ï¿½OITEM
+25ï¿½OFRIEND
+26ï¿½OGUILDS
+27ï¿½OQUEST
+28ï¿½OMAP
+29ï¿½OOPTION
+30ï¿½OLOGOUT
+31ï¿½O+
+32ï¿½O-
+33ï¿½O%
+34ï¿½Oï¿½@
+35ï¿½OChange your equipment
+36ï¿½OCheck the currently acquired skill
+37ï¿½OCheck and use items you have acquired
+38ï¿½OCheck the list of friends you have registered
+39ï¿½OCheck the status of the current frontline team
+40ï¿½OCheck currently pending quests
+41ï¿½OOpen map of your current location
+42ï¿½OYou can change yor system settings
+43ï¿½OLogout: You cannot logout
+
+This is an edit!
