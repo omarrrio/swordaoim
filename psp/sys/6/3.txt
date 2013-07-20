@@ -1,0 +1,5 @@
+1O[Gimmick]Effect: PoisonOGMK_EFF_PoisonOActivating a Field Skill dummy.
+2O[Gimmick]Effect: ParalysisOGMK_EFF_ParalyzeOActivating a Field Skill dummy.
+3O[Gimmick]Effect: DarknessOGMK_EFF_BlindOActivating a Field Skill dummy.
+4O[Gimmick]Effect: AgilityOGMK_EFF_SlowOActivating a Field Skill dummy.
+5O[Gimmick]Effect: MovementOGMK_EFF_StopOActivating a Field Skill dummy.

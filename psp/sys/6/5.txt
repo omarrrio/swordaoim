@@ -1,0 +1,50 @@
+1OSwitchOSwitchOSwitch With Your Partner, Less Risk of Rigidity
+2OUse SkillOUse SkillOUse and Offensive Sword Skill
+3OSkill StopOSkill StopOIf Possible, Use a Skill to Stun Target
+4OGo AroundOGo AroundOGet Behind Target Monster
+5OChange TargetOTarget PleaseOWhen You are Targeted, Switch Attack to Ally
+6OGo Heal!OHealOHeals Partner, if Partner Has Items, Can Heal You Too
+7OAttack TogetherOJoin AttackOAttack Target Monster Together
+8OFall BackOWait PleaseOWithdraw From Frontline to Recover
+9OGuardOGuardOUse Defensive Skill
+10OCall Dummy 7OCall Dummy 7O
+11OCall Ally 1OParty Call 1O
+12OCall Ally 2OParty Call 2O
+13OCall Ally 3OParty Call 3O
+14OCall Ally 4OParty Call 4O
+15OCall Ally 5OParty Call 5O
+16OCall Ally 6OParty Call 6O
+17OCall Ally 7OParty Call 7O
+18OCall Ally 8OParty Call 8O
+19OCall Ally 9OParty Call 9O
+20OCall Ally 10OParty Call 10O
+21ODummy 1OSuccess 1O
+22ODummy 2OSuccess 2O
+23ODummy 3OSuccess 3O
+24ODummy 4OSuccess 4O
+25ODummy 5OSuccess 5O
+26OSwitch (Ally)OSwitchOSwitch With Your Partner, Less Risk of Rigidity
+27OAttack Together (Ally)OJoin AttackOAttack Target Monster Together
+28ORetreat (Ally)OWait PleaseOAlly Withdraws From Frontline to Recover
+29O‰ñ‚è‚ß(–¡•û)OGo AroundO‘ÎÛƒ‚ƒ“ƒXƒ^[‚Ì”wŒã‚Ö‰ñ‚è‚Ş
+30O‰ñ•œ‚µ‚ë(–¡•û)OHealOHP‚Ì‰ñ•œ‚·‚éB—]—Í‚ª‚ ‚ê‚Î‘¼‚Ìl‚Ì‰ñ•œ‚às‚¤
+31OƒXƒLƒ‹‚ğg‚¦(–¡•û)OUse SkillOUŒ‚“I‚Èƒ\[ƒhƒXƒLƒ‹‚ğg‚¤
+32O–hŒä‚µ‚ë(–¡•û)OGuardO–hŒäƒXƒLƒ‹‚ğg‚¤
+33O‚ ‚Ì‹Z‚ğ~‚ß‚ë(–¡•û)OSkill StopO‰Â”\‚È‚ç‚ÎAƒ^[ƒQƒbƒg‚ÖƒXƒ^ƒ“‹Z‚ğg‚¤
+34Oƒ^[ƒQƒbƒg‚ğ—Š‚Ş(–¡•û)OTarget PleaseO“¯‚¶ƒ^[ƒQƒbƒg‚ğ‚Á‚Ä‚¢‚éAƒ^[ƒQƒbƒgˆø‚«‚Â‚¯‚é
+35OƒR[ƒ‹ƒ_ƒ~[‚R‚QOCall Dummy 32O
+36OƒR[ƒ‹ƒ_ƒ~[‚R‚ROCall Dummy 33O
+37OƒR[ƒ‹ƒ_ƒ~[‚R‚SOCall Dummy 34O
+38OƒR[ƒ‹ƒ_ƒ~[‚R‚TOCall Dummy 35O
+39OƒR[ƒ‹ƒ_ƒ~[‚R‚UOCall Dummy 36O
+40OƒR[ƒ‹ƒ_ƒ~[‚R‚VOCall Dummy 37O
+41OƒR[ƒ‹ƒ_ƒ~[‚R‚WOCall Dummy 38O
+42OƒR[ƒ‹ƒ_ƒ~[‚R‚XOCall Dummy 39O
+43OƒR[ƒ‹ƒ_ƒ~[‚S‚OOCall Dummy 40O
+44OƒR[ƒ‹ƒ_ƒ~[‚S‚POCall Dummy 41O
+45OƒR[ƒ‹ƒ_ƒ~[‚S‚QOCall Dummy 42O
+46OƒR[ƒ‹ƒ_ƒ~[‚S‚ROCall Dummy 43O
+47OƒR[ƒ‹ƒ_ƒ~[‚S‚SOCall Dummy 44O
+48OƒR[ƒ‹ƒ_ƒ~[‚S‚TOCall Dummy 45O
+49OƒR[ƒ‹ƒ_ƒ~[‚S‚UOCall Dummy 46O
+50OƒR[ƒ‹ƒ_ƒ~[‚S‚VOCall Dummy 47O
