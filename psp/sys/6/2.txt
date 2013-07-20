@@ -304,6 +304,7 @@ Note: Should be tested in game.
 294^Infinity Guard^Infinity Guard^Dark Knight Special Attack, 3 Self-Reinforcement, Become Briefly Invincible
 295^Limit Prison^Limit Prison^Minotaur Special Attack, 3 Self-Reinforcement (Armor), Defense +50%
 296^Kill Avenger^Kill Avenger^Dark Knight Special Attack, 3 Self-Reinforcement (Red), Attack +50%
+Note: 3 Self-Reinforcement seems weird, your thoughts Tsuna?
 297^Knock Back^Knock Back^Boss Normal Attack
 298^Howling^Berserk^For a While Attack Up (Small), Special Effect
 299^Limit Break^Limit Break^Enemy Battle Skill Dummy
