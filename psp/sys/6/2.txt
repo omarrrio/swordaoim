@@ -1,299 +1,299 @@
-1�O����1�OBattle Skill�O
-2�O����1�OBattle Skill�O
-3�O�n�C�f�B���O�X���C�h�OBattle Skill�O���f���Ȃ���G�̉����֑f�����X�e�b�v����B�w�C�g�␳�}�C�i�X
-4�O�X�e���X�|�W�V�����OBattle Skill�O�w�C�g�̕␳�Ƀ}�C�i�X�̌��ʁB�G�ɑ_���ɂ����Ȃ�
-5�O�X�P�A�N���E�OBattle Skill�O��u�Ńw�C�g��啝�ɏ��������A�G�̑_�����]��
-6�O�o�b�N�X�^�u�OBattle Skill�O��莞�ԁA��납��̍U���ɃN���e�B�J���{�[�i�X�𓾂�
-7�O�C���r�W�u���OBattle Skill�O�����ɂȂ�A�G�̎��o���m���瓦���
-8�O�X�j�[�L���O�OBattle Skill�O������߁A�G�̒��o���m���瓦���
-9�OHIDE�|�[�V�����g�p�OBattle Skill�O�G�̎��o���m�ƒ��o���m���瓦���
-10�O�~�X�f�B���N�V�����OBattle Skill�O�����̊Ԃ����A�G�̖�����傫�������ē����ɍ����w�C�g������
-11�O�G�l�~�[�T�[�`�OBattle Skill�O�}�b�v�ɕ\�������G�̍��G�͈͂��L����
-12�O�f�B�e�N�g���x���OBattle Skill�O�G�̋�����F�Ń}�b�v�ɕ\������B�G�̎�_�����ɂ߂��邩������Ȃ�
-13�O�Q�C���G�N�X�y���G���X�OBattle Skill�O������o���l�𑝉�������
-14�O�N���C���T�[�o���g�OBattle Skill�O������o���l��S�ăp�[�g�i�[�֌��シ��
-15�O�o�b�N�X�e�b�v�OBattle Skill�O�w��ɃX�e�b�v���ĉ��������ŁA���̓ːi�͂����͂ȍU���͂ɕς���
-16�O�T�C�h�X�e�b�v�OBattle Skill�O�^�[�Q�b�g�Ώۂ𒆐S�ɒZ���X�e�b�v����B�ꎞ�I�ɃN���e�B�J�����㏸
-17�O�^�[���E�B���h�OBattle Skill�O���΂炭�̊ԁA���̓A�b�v
-18�O�C���^�[�Z�v�e�B���O�OBattle Skill�O�u���ɍ�������𓾂āA���̌���͂���������
-19�O�X�^�[�Z�C�o�[�OBattle Skill�O�h����̂Ăč�������ƍU�����x�𓾂�
-20�O�o�g���V���E�g�OBattle Skill�O�u�ԓI�ɔ��ɍ����w�C�g�𓾂�
-21�O�\�E���t�H�[�X�OBattle Skill�O��莞�ԁA�w�C�g�␳�Ƀv���X
-22�O�E�F�|���o�b�V���OBattle Skill�O����ŋ��ł��āA����̓������~�߂�
-23�OSP�`���[�W�OBattle Skill�OSP150�𓾂�
-24�O�V���C�j���O�G�R�[�OBattle Skill�O�G�ɑ傫�ȉ���_�E���̌��ʁB�����Ƀp�[�e�B�S���̍U���̓A�b�v
-25�O�f�B�t�F���X�R�[���OBattle Skill�O���΂炭�̊ԁA�p�[�e�B�����o�[�̖h��͂��A�b�v�B����Ɏ��g�̍U�����x�_�E��
-26�O�V�[���h�R�[�e�B���O�OBattle Skill�O�h��͂���莞�ԃA�b�v������
-27�O�f�B�t�F���X�X�^���X�OBattle Skill�O�U���͂��̂ĂāA�����h��͂�HP���W�F�l�𓾂�
-28�O�_���[�W�J�b�g�OBattle Skill�O���΂炭�̊ԁA�a�E�ˁE�őϐ��̂���A�[�}�[���܂Ƃ�
-29�O�v���e�N�V�����V�[���OBattle Skill�O�����o���A�̌��ʁB���ʂ̃_���[�W�𖳌���
-30�O�g���C���W�X�g�OBattle Skill�O���g�̏�Ԉُ�ɒ�R�����݂�
-31�O�T�o�C�o�����r�h�[�OBattle Skill�OMAXHP���㏸������Ɠ�����HP���W�F�l�𓾂�
-32�O���W�F�l���[�V�����OBattle Skill�OHP���}���񕜂���
-33�O�t�B�W�J���r�[�g�OBattle Skill�O���̌n��Ԉُ�ɑ΂��鍂����R�ƁA�킸���Ȃg�o���W�F�l�𓾂�
-34�O�o�g���q�[�����O�OBattle Skill�O����HP���W�F�l�𓾂�
-35�O�X���E�E�B�[�N�l�X�OBattle Skill�O�ꎞ�I�ɁA�G�̍U���Ԋu����ɒx������
-36�O�X�s�[�h�}�X�^�[�OBattle Skill�O�U���Ԋu�̒Z�k���ʂ𓾂�
-37�O���C�g�j���O�A�^�b�N�OBattle Skill�O��u�ɂ���SP��MAX�ɂ���B�����Ɉ�莞�Ԗh��̓_�E��
-38�O�\�[�h�_���T�[�OBattle Skill�O�\�[�h�X�L���̔������Ԃ�Z�k���A�U���Ԋu���������߂�
-39�O�u���C�u�X�g���[���OBattle Skill�O�U�����x��啝�ɏ㏸�����A�_�u���A�^�b�N�m��������
-40�OSPD�|�[�V�����g�p�OBattle Skill�O�U���Ԋu�̒Z�k���ʂ𓾂�
-41�O�^�[�Q�b�g�T�C�g�OBattle Skill�O�ꎞ�I�ɖ�������啝�ɏ㏸������
-42�O�f�N�X�^���e�B�OBattle Skill�O�ꎞ�I��DEX�𑝉������A�X�L���d��������������
-43�O�_�u���n���h�OBattle Skill�O�_�u���A�^�b�N�m�����㏸����Ɠ����ɁA�N���e�B�J�������㏸������
-44�O�N���e�B�J���o�C�g�OBattle Skill�O�U���ɍ��킹�A�^�C�~���O�ǂ��X�L���𔭓�����ƁA�N���e�B�J�������㏸����
-45�O�p�[�t�F�N�V�����X�^�C���OBattle Skill�O��莞�ԁA����U���ɕK���𓾂�B�����ɃN���e�B�J�����㏸
-46�ODEX�|�[�V�����g�p�OBattle Skill�O�ꎞ�I��DEX�𑝉������A�X�L���d��������������
-47�OHIT�|�[�V�����g�p�OBattle Skill�O��莞�ԁA����U���ɕK���𓾂�B�����ɃN���e�B�J�����㏸
-48�OSP���W�F�l�OBattle Skill�O���΂炭�̊ԁASP�̉񕜂𑁂߂�
-49�O�\�E�����W�X�g�OBattle Skill�O���_�n�U���ɑ΂��A�����ϐ��𓾂�
-50�O�X�g���C�N�G���h�OBattle Skill�O�U����������邱�Ƃ�SP�𓾂��ԂɂȂ�
-51�O�X�s���b�g�����N�OBattle Skill�O��莞�ԁASP�ʂɉ����čU���͂��㏸������
-52�O�\�E���t���X�^���h�OBattle Skill�OMAXSP��+150�㏸������
-53�O�p�����O�OBattle Skill�O����̍U���ɍ��킹�Ĕ�������ƁA�U���𖳌�������
-54�O�G�O�U�N�g�I���X���[�g�OBattle Skill�O�ɗ�Ȉꌂ��^���A�G���̂������Ԃɂ���B���L���X�g���͌��ʂ�������
-55�O�G�A���[�V�[���h�OBattle Skill�O�G�̃u���X�U����h��
-56�O�t�@���g���u���C�N�OBattle Skill�O��������΁A���΂炭�̊ԃ����X�^�[�̃X�L���𕕈󂷂�
-57�O�u���C�W���O�E�F�|���OBattle Skill�O�^�C�~���O�ǂ��X�L���𔭓����邱�ƂŃ����X�^�[�̖�����������������
-58�O�t�@�[�X�g�X�e�b�v�OBattle Skill�O�p�[�e�B�S�̂̍U�����x�𑝉�������
-59�O�A�{�C�f���X�X�L���OBattle Skill�O�G�̍U�����󂯂�u�ԁA�^�C�~���O�ǂ��X�L���𔭓�����ƁA��𗦂��㏸����
-60�O�_���V���O�u���C�h�OBattle Skill�O�p�[�e�B�S�̂̃_�u���A�^�b�N�m�����㏸������
-61�O�q�[�����O�T�[�N���OBattle Skill�O�p�[�e�B�S�̂�HP�����ʉ񕜂�����
-62�O�~���[�e�b�h�G�b�W�OBattle Skill�O�U���Ԋu�𑁂߁A����̒ǌ����ʂ�+2����(�ő�ǌ�5��ɂȂ�)
-63�O���̋F��OBattle Skill�O�p�[�e�B�S�̂�HP���W�F�l�\�͂����߂�
-64�O��@�̌��e�OBattle Skill�O�����U���ɑ΂��镪�g�𓾂�
-65�O�Ђւ̎��OBattle Skill�O��Ԉُ�ɑ΂��镪�g�𓾂�
-66�O���߂̈߁OBattle Skill�O�p�[�e�B�S�̂ɕ����U���ɑ΂��镪�g�𓾂�
-67�O�򉻂̉��OBattle Skill�O�p�[�e�B�S���́A��Ԉُ���񕜂���
-68�O�n�C�p�[�A�[�}�[�OBattle Skill�O��莞�ԁA�_���[�W�𖳌�������A�[�}�[��Z��
-69�O�X�g�����O�X�OBattle Skill�O�ꎞ�I��STR�ƍU���͂𑝉�������
-70�O�o�C�^���e�B�OBattle Skill�O�ꎞ�I��VIT�ƍU���͂𑝉�������
-71�O�}�b�X�����W�X�g�OBattle Skill�O��Ԉُ�ɑ΂��ă��W�X�g�����݂�B���̌サ�΂炭�̊Ԃl�`�w�g�o���㏸
-72�O�O���E�X�Q�C���OBattle Skill�OMAXHP��啝�ɑ���
-73�OSTR�|�[�V�����g�p�OBattle Skill�O�ꎞ�I��STR�ƍU���͂𑝉�������
-74�OVIT�|�[�V�����g�p�OBattle Skill�O�ꎞ�I��VIT�ƍU���͂𑝉�������
-75�O�N�����]���E�F�|���OBattle Skill�OHP���������ɍU���̓A�b�v
-76�O�}�b�h�l�X�u���E�OBattle Skill�O�h��͂��������ɍU���̓A�b�v
-77�O�X�g�����[�g�V�����O�����OBattle Skill�O������������ɃN���e�B�J�����A�b�v
-78�O�u���b�f�B�r�[�N�OBattle Skill�O��莞�ԁAHP�z�����ʂ𓾂�
-79�O�C���T�j�e�B�i�C�g�OBattle Skill�O�R��̔��˂���I�[����Z���A�󂯂��_���[�W������������������ɕԂ�
-80�O�E�H�[�N���C�OBattle Skill�O�p�[�e�B�S���̍U���͂�HP�񕜗͂����߂�
-81�O�u���C�u�\�E���OBattle Skill�O�p�[�e�B�S���̖������A�b�v����
-82�O�X�g�[���}�C���h�OBattle Skill�O�p�[�e�B�S����SP���W�F�l�̌���
-83�O�V���[�v���C�W�OBattle Skill�O�p�[�e�B�S���ɃN���e�B�J�����㏸
-84�O�o���A�u���X�g�[���OBattle Skill�O�p�[�e�B�S����SP�𓾂�
-85�O�_�u���A�^�b�N�OBattle Skill�O�_�u���A�^�b�N�m�����㏸����
-86�O�J�E���^�[�OBattle Skill�O�G�̍U�����]���A��������
-87�O�p���[�G���t�H�[�T�[�OBattle Skill�O�^�C�~���O�ǂ��X�L���𔭓�����ƍU���͂��㏸�B��������������ƌ��ʂ͏�������
-88�O�o�[�X�g�G���[�OBattle Skill�OHP�����葱��������SP���W�F�l�𓾂�
-89�O���X�g���]�[�g�OBattle Skill�O�U���͂��㏸���A�S�Ă̍U��������̖h��͂𖳎��B�㏞�Ɉ�莞��SP����
-90�O�v���e�N�g�X���b�V���OBattle Skill�O�a�����ɍ����h��͂𓾂�
-91�O�v���e�N�g�X���X�g�OBattle Skill�O�ˑ����ɍ����h��͂𓾂�
-92�O�v���e�N�g�u���E�OBattle Skill�O�ő����ɍ����h��͂𓾂�
-93�O�v���e�N�V�����A�[�}�[�OBattle Skill�O�p�[�e�B�S���ɁA�_���[�W�����̌��ʂ�t�^
-94�O�w�C�g�`�F���W�OBattle Skill�O�p�[�g�i�[�ƃw�C�g����������
-95�O�댯����̎w���OBattle Skill�O�p�[�e�B�S���ɁA�������\�͂�^����
-96�O�A�C�e���g�p���xUP�OBattle Skill�O���΂炭�̊ԁA�A�C�e���̎g�p���x���㏸������
-97�O���ȋ]���̐S�OBattle Skill�O�p�[�e�B�S����HP���񕜁B���������g�͈�莞��HP�����X�Ɍ����ԂƂȂ�
-98�O�Ǎ��̗E�ҁOBattle Skill�O�������g�𓾂A�����w�C�g���҂��B�������A��莞�Ԗh��͌���
-99�O�X�L���֎~�OBattle Skill�O��莞�ԃ����X�^�[�̃X�L�����֎~����
-100�O�h�䖳���OBattle Skill�O���΂炭�̊ԁA�S�Ă̍U��������̖h��͂𖳎�����
-101�O�N�C�b�N�X�L���OBattle Skill�O�\�[�h�X�L�������܂ł̎��ԂƁA�Z��̍d�����Ԃ�啝�ɒZ������
-102�O�e�N�j�J���r�[�X�g�OBattle Skill�O�U���͂ƈ��������ɁAAGI�Ɖ���Ɩ������㏸������
-103�O�}�[�V�i���[�f�r���OBattle Skill�O�^�C�~���O�ǂ��X�L���𔭓��������邱�ƂŁA�G�Ɏ�̌��ʂ�^�������N���グ��
-104�O�~�[���u���n�[�g�OBattle Skill�O�����X�^�[�Ɋ|���Ă����Ԉُ�̌��ʂ������グ��
-105�OAGI�|�[�V�����g�p�OBattle Skill�OAGI���㏸������B�����ɉ�����㏸
-106�O�����_�E��Lv1�OPinaSkill�O
-107�O�����_�E��Lv2�OPinaSkill�O
-108�O�����_�E��Lv3�OPinaSkill�O
-109�O�����_�E��Lv4�OPinaSkill�O
-110�O�U���̓A�b�vLv1�OPinaSkill�O
-111�O�U���̓A�b�vLv2�OPinaSkill�O
-112�O�U���̓A�b�vLv3�OPinaSkill�O
-113�O�h��̓A�b�vLv1�OPinaSkill�O
-114�O�h��̓A�b�vLv2�OPinaSkill�O
-115�O�h��̓A�b�vLv3�OPinaSkill�O
-116�O���x�A�b�vLv1�OPinaSkill�O
-117�O���x�A�b�vLv2�OPinaSkill�O
-118�O���x�A�b�vLv3�OPinaSkill�O
-119�OHP��Lv1�OPinaSkill�O
-120�OHP��Lv2�OPinaSkill�O
-121�OHP��Lv3�OPinaSkill�O
-122�OHP��Lv4�OPinaSkill�O
-123�OSP��Lv1�OPinaSkill�O
-124�OSP��Lv2�OPinaSkill�O
-125�OSP��Lv3�OPinaSkill�O
-126�O��ԉ�Lv1�OPinaSkill�O
-127�O��ԉ�Lv2�OPinaSkill�O
-128�O��ԉ�Lv3�OPinaSkill�O
-129�O������΂��OPinaSkill�O
-130�O�f�o�b�O�n�C�p�[�A�[�}�[�OBattle Skill�O�ꎞ�I�ɂ��ׂẴ_���[�W�𖳌�������B���f�o�b�O�p
-131�O�f���G���V���E�g�OBattle Skill�O
-132�O�V�[���h�f�B�t�F���X�OBattle Skill�O�S���ɖh��͏㏸��HP���W�F�l��^����B�����������̂ݎg�p�\
-133�O�����O�L���X�g�OBattle Skill�O
-134�O�X�e�b�v�C���OBattle Skill�O�ΏۂƂ̋������l�߁A�����̂܂܂ɍU������
-135�O�\�[�h�E�A�T���g�OBattle Skill�O
-136�O�s���j�Q�i�����j�OAlly Attack Obstruct�O�G���U�����悤�Ƃ���̂�W�Q����B���������݂̂̃X�L��
-137�O�p�����O�i�����j�OAllyParrying�O�G���U�����Ă����̂�e���B���������݂̂̃X�L��
-138�O�r�s�q�o�t�i�����j�OAlly STR Plus�O�����Ɩ�����STR����x�ɏ㏸������B���������݂̂̃X�L��
-139�O��b��Ԃ̈ێ��OTalk Status�O�ԓ��X�L���i���j
-140�O��b��Ԃ̍폜�OTalk Delete�O
-141�O�g�o�{�R�O�O�^�R�O���ORegenerate�T�O�A�C�e���p����
-142�O�g�o�{�U�O�O�^�U�O���ORegenerate�U�O�A�C�e���p����
-143�O�g�o�{�P�O�O�O�^�U�O���ORegenerate�V�O�A�C�e���p����
-144�O�r�o�{�P�O�^�R�O���OSPCharge�T�O�A�C�e���p����
-145�O�r�o�{�Q�O�^�U�O���OSPCharge�U�O�A�C�e���p����
-146�O�r�o�{�T�O�^�P�Q�O���OSPCharge�V�O�A�C�e���p����
-147�O�]�ځOTeleporter�O
-148�O�g�o�{�R�O���OHeal�T�O�A�C�e���p����
-149�O�g�o�{�U�O���OHeal�U�O�A�C�e���p����
-150�O�g�o�{�P�O�O���OHeal�V�O�A�C�e���p����
-151�O�r�o�{�R�O���OGetSP�T�O�A�C�e���p����
-152�O�r�o�{�U�O���OGetSP�U�O�A�C�e���p����
-153�O�r�o�{�P�O�O���OGetSP�V�O�A�C�e���p����
-154�O��ԉ񕜁F�ŁOCurePoison�O�A�C�e���p����
-155�O��ԉ񕜁F�o���OCureBleed�O�A�C�e���p����
-156�O��ԉ񕜁F��ჁOCureParalyze�O�A�C�e���p����
-157�O��ԉ񕜁F�ÈŁOCureBlind�O�A�C�e���p����
-158�O��ԉ񕜁F�����OCureBreak�O�A�C�e���p����
-159�O��ԉ񕜁F�ړ��OCureStop�O�A�C�e���p����
-160�O��ԉ񕜁F�􂢁OCureCurse�O�A�C�e���p����
-161�O��ԉ񕜁F����OCureSeal�O�A�C�e���p����
-162�O��ԉ񕜁F�X���b�v�OCureDisperse�O�A�C�e���p����
-163�O��ԉ񕜁F�����OCureSleep�O�A�C�e���p����
-164�O��ԉ񕜁F�S���OCureAll�O�A�C�e���p����
-165�O�}�[�V�i���[�f�r��Lv1�OStun Lv1�O�}�[�V�i���[�f�r��Lv1
-166�O�}�[�V�i���[�f�r��Lv2�OStun Lv2�O�}�[�V�i���[�f�r��Lv2
-167�O�}�[�V�i���[�f�r��Lv3�OStun Lv3�O�}�[�V�i���[�f�r��Lv3
-168�O�}�[�V�i���[�f�r��Lv4�OBody Break�O�}�[�V�i���[�f�r��Lv4
-169�O�}�[�V�i���[�f�r��Lv5�OArm Break�O�}�[�V�i���[�f�r��Lv5
-170�O�|�ʏ�U���OBow�O�|�Œʏ�U��������ꍇ�͂�����g�p����
-171�O�O�b�h�m�C�̏㏸�OGOOD�OGOOD�������Ƃ���SP�񕜍s��
-172�O����W�F�l�p�OWeap Gene�O����W�F�l�p�̌���
-173�O����W�F�l�p�OWeap Gene�O����W�F�l�p�̌���
-174�O�f�o�b�O���j���[�p�ODebug Menu�O�f�o�b�O���j���[�p�̌���
-175�O���ʁF�X�^��Lv1�OStun Lv1�O��Ԉُ�p�̌���
-176�O���ʁF�X�^��Lv2�OStun Lv2�O��Ԉُ�p�̌���
-177�O���ʁF�X�^��Lv3�OStun Lv3�O��Ԉُ�p�̌���
-178�O���ʁF���������OBody Break�O��Ԉُ�p�̌���
-179�O���ʁF�r�������OArm Break�O��Ԉُ�p�̌���
-180�O���ʁF�r�������OLeg Break�O��Ԉُ�p�̌���
-181�O���ʁF�ړ��s��Lv1�OStop Lv1�O��Ԉُ�p�̌���
-182�O���ʁF�ړ��s��Lv2�OStop Lv2�O��Ԉُ�p�̌���
-183�O���ʁF�ݑ�Lv1�OSlow Lv1�O��Ԉُ�p�̌���
-184�O���ʁF�ݑ�Lv2�OSlow Lv2�O��Ԉُ�p�̌���
-185�O���ʁF�X�L������Lv1�OSeal Lv1�O��Ԉُ�p�̌���
-186�O���ʁF�X�L������Lv2�OSeal Lv2�O��Ԉُ�p�̌���
-187�O���ʁF�����_�E��Lv1�OBreak Lv1�O��Ԉُ�p�̌���
-188�O���ʁF����_�E��Lv1�OBreak Lv1�O��Ԉُ�p�̌���
-189�O���ʁF�U���̓_�E��Lv1�OBreak Lv1�O��Ԉُ�p�̌���
-190�O���ʁF�h��̓_�E��Lv1�OBreak Lv1�O��Ԉُ�p�̌���
-191�O���ʁFHPMAX�_�E��Lv1�OBreak Lv1�O��Ԉُ�p�̌���
-192�O���ʁFSPMAX�_�E��Lv1�OBreak Lv1�O��Ԉُ�p�̌���
-193�O���ʁF�����_�E��Lv2�OBreak Lv2�O��Ԉُ�p�̌���
-194�O���ʁF����_�E��Lv2�OBreak Lv2�O��Ԉُ�p�̌���
-195�O���ʁF�U���̓_�E��Lv2�OBreak Lv2�O��Ԉُ�p�̌���
-196�O���ʁF�h��̓_�E��Lv2�OBreak Lv2�O��Ԉُ�p�̌���
-197�O���ʁFHPMAX�_�E��Lv2�OBreak Lv2�O��Ԉُ�p�̌���
-198�O���ʁFSPMAX�_�E��Lv2�OBreak Lv2�O��Ԉُ�p�̌���
-199�O���ʁF�ڂ���܂��ODizziness�O��Ԉُ�p�̌���
-200�O���ʁF���X�N���Z�ORisk�O��Ԉُ�p�̌���
-201�O���ʁF���X�N�Œ�ORisk�O��Ԉُ�p�̌���
-202�O���ʁF���Lv1�OParalyze Lv1�O��Ԉُ�p�̌���
-203�O���ʁF���Lv2�OParalyze Lv2�O��Ԉُ�p�̌���
-204�O���ʁF���Lv3�OParalyze Lv3�O��Ԉُ�p�̌���
-205�O���ʁF�o��Lv1�OBleed Lv1�O��Ԉُ�p�̌���
-206�O���ʁF�o��Lv2�OBleed Lv2�O��Ԉُ�p�̌���
-207�O���ʁF�o��Lv3�OBleed Lv3�O��Ԉُ�p�̌���
-208�O���ʁF�o��Lv4�OBleed Lv4�O��Ԉُ�p�̌���
-209�O���ʁF�o��Lv5�OBleed Lv5�O��Ԉُ�p�̌���
-210�O���ʁF��Lv1�OPoison Lv1�O��Ԉُ�p�̌���
-211�O���ʁF��Lv2�OPoison Lv2�O��Ԉُ�p�̌���
-212�O���ʁF��Lv3�OPoison Lv3�O��Ԉُ�p�̌���
-213�O���ʁF��Lv4�OPoison Lv4�O��Ԉُ�p�̌���
-214�O���ʁF��Lv5�OPoison Lv5�O��Ԉُ�p�̌���
-215�O���ʁFSP�X���b�vLv1�ODisperse Lv1�O��Ԉُ�p�̌���
-216�O���ʁFSP�X���b�vLv2�ODisperse Lv2�O��Ԉُ�p�̌���
-217�O���ʁFSP�X���b�vLv3�ODisperse Lv3�O��Ԉُ�p�̌���
-218�O���ʁFSP�X���b�vLv4�ODisperse Lv4�O��Ԉُ�p�̌���
-219�O���ʁFSP�X���b�vLv5�ODisperse Lv5�O��Ԉُ�p�̌���
-220�O���ʁF�È�Lv1�OBlind Lv1�O��Ԉُ�p�̌���
-221�O���ʁF�È�Lv2�OBlind Lv2�O��Ԉُ�p�̌���
-222�O���ʁF�È�Lv3�OBlind Lv3�O��Ԉُ�p�̌���
-223�O���ʁF�È�Lv4�OBlind Lv4�O��Ԉُ�p�̌���
-224�O���ʁF�È�Lv5�OBlind Lv5�O��Ԉُ�p�̌���
-225�O���ʁF�U�����x�_�E��Lv1�OATK Speed Down Lv1�O��Ԉُ�p�̌���
-226�O���ʁF�U�����x�_�E��Lv2�OATK Speed Down Lv2�O��Ԉُ�p�̌���
-227�O���ʁF�U�����x�_�E��Lv3�OATK Speed Down Lv3�O��Ԉُ�p�̌���
-228�O���ʁF�U�����x�_�E��Lv4�OATK Speed Down Lv4�O��Ԉُ�p�̌���
-229�O���ʁF�U�����x�_�E��Lv5�OATK Speed Down Lv5�O��Ԉُ�p�̌���
-230�O���ʁF��Lv1�OCurse Lv1�O��Ԉُ�p�̌���
-231�O���ʁF��Lv2�OCurse Lv2�O��Ԉُ�p�̌���
-232�O���ʁF��Lv3�OCurse Lv3�O��Ԉُ�p�̌���
-233�O���ʁF��Lv4�OCurse Lv4�O��Ԉُ�p�̌���
-234�O���ʁF��Lv5�OCurse Lv5�O��Ԉُ�p�̌���
-235�O���ʁFSTR�_�E��Lv1�OSTR Down Lv1�O��Ԉُ�p�̌���
-236�O���ʁFSTR�_�E��Lv2�OSTR Down Lv2�O��Ԉُ�p�̌���
-237�O���ʁFSTR�_�E��Lv3�OSTR Down Lv3�O��Ԉُ�p�̌���
-238�O���ʁFSTR�_�E��Lv4�OSTR Down Lv4�O��Ԉُ�p�̌���
-239�O���ʁFSTR�_�E��Lv5�OSTR Down Lv5�O��Ԉُ�p�̌���
-240�O���ʁFVIT�_�E��Lv1�OVIT Down Lv1�O��Ԉُ�p�̌���
-241�O���ʁFVIT�_�E��Lv2�OVIT Down Lv2�O��Ԉُ�p�̌���
-242�O���ʁFVIT�_�E��Lv3�OVIT Down Lv3�O��Ԉُ�p�̌���
-243�O���ʁFVIT�_�E��Lv4�OVIT Down Lv4�O��Ԉُ�p�̌���
-244�O���ʁFVIT�_�E��Lv5�OVIT Down Lv5�O��Ԉُ�p�̌���
-245�O���ʁFAGI�_�E��Lv1�OAGI Down Lv1�O��Ԉُ�p�̌���
-246�O���ʁFAGI�_�E��Lv2�OAGI Down Lv2�O��Ԉُ�p�̌���
-247�O���ʁFAGI�_�E��Lv3�OAGI Down Lv3�O��Ԉُ�p�̌���
-248�O���ʁFAGI�_�E��Lv4�OAGI Down Lv4�O��Ԉُ�p�̌���
-249�O���ʁFAGI�_�E��Lv5�OAGI Down Lv5�O��Ԉُ�p�̌���
-250�O���ʁFDEX�_�E��Lv1�ODEX Down Lv1�O��Ԉُ�p�̌���
-251�O���ʁFDEX�_�E��Lv2�ODEX Down Lv2�O��Ԉُ�p�̌���
-252�O���ʁFDEX�_�E��Lv3�ODEX Down Lv3�O��Ԉُ�p�̌���
-253�O���ʁFDEX�_�E��Lv4�ODEX Down Lv4�O��Ԉُ�p�̌���
-254�O���ʁFDEX�_�E��Lv5�ODEX Down Lv5�O��Ԉُ�p�̌���
-255�O���ʁF�G�p�r�����OArm Break EN�O��Ԉُ�p�̌���
-256�O���ʁF�G�p�������OLeg Break EN�O��Ԉُ�p�̌���
-257�O���ʁF�d�ʃy�i���e�B�OWeight penalty�O��Ԉُ�p�̌���
-258�O���ʁF�������_�E��Lv1 �s�i�p�OPinaEff HitDown Lv1�O��Ԉُ�p�̌���
-259�O���ʁF�������_�E��Lv2 �s�i�p�OPinaEff HitDown Lv2�O��Ԉُ�p�̌���
-260�O���ʁF�������_�E��Lv3�@�s�i�p�OPinaEff HitDown Lv3�O��Ԉُ�p�̌���
-261�O���ʁF�������_�E��Lv4�@�s�i�p�OPinaEff HitDown Lv4�O��Ԉُ�p�̌���
-262�O���ʁF�U���̓A�b�vLv1�@�s�i�p�OPinaEff AtkUp Lv1�O��Ԉُ�p�̌���
-263�O���ʁF�U���̓A�b�vLv2�@�s�i�p�OPinaEff AtkUp Lv2�O��Ԉُ�p�̌���
-264�O���ʁF�U���̓A�b�vLv3�@�s�i�p�OPinaEff AtkUp Lv3�O��Ԉُ�p�̌���
-265�O���ʁF�h��̓A�b�vLv1�@�s�i�p�OPinaEff DefUp Lv1�O��Ԉُ�p�̌���
-266�O���ʁF�h��̓A�b�vLv2�@�s�i�p�OPinaEff DefUp Lv2�O��Ԉُ�p�̌���
-267�O���ʁF�h��̓A�b�vLv3�@�s�i�p�OPinaEff DefUp Lv3�O��Ԉُ�p�̌���
-268�O���ʁF���x�A�b�vLv1�@�s�i�p�OPinaEff SpdUp Lv3�O��Ԉُ�p�̌���
-269�O���ʁF���x�A�b�vLv2�@�s�i�p�OPinaEff SpdUp Lv3�O��Ԉُ�p�̌���
-270�O���ʁF���x�A�b�vLv3�@�s�i�p�OPinaEff SpdUp Lv3�O��Ԉُ�p�̌���
-271�O�E�B�[�N�l�X�t�H�[�`�����OFortune CrtUp�O�肢�ɂ�蔭�������Ԉُ�p�̌��ʁB�v���X���ʁB����o�ߎ��ɉ��������
-272�O�h���b�v�t�H�[�`�����OFortune DropUp�O�肢�ɂ�蔭�������Ԉُ�p�̌��ʁB�v���X���ʁB����o�ߎ��ɉ��������
-273�O�R���t�H�[�`�����OFortuneColUp�O�肢�ɂ�蔭�������Ԉُ�p�̌��ʁB�v���X���ʁB����o�ߎ��ɉ��������
-274�O�G�N�X�t�H�[�`�����OFortuneExpUp�O�肢�ɂ�蔭�������Ԉُ�p�̌��ʁB�v���X���ʁB����o�ߎ��ɉ��������
-275�O�o�b�h�t�H�[�`�����OFortuneStatusDown�O�肢�ɂ�蔭�������Ԉُ�p�̌��ʁB�}�C�i�X���ʁB����o�ߎ��ɉ��������
-276�O�o�g���X�L���_�~�[�P�W�O�OPlayer Battle Dummy 180�O��Ԉُ�p�̌���
-277�O���ʁF�N�����]���p�ŁOCrimson Poison�O��Ԉُ�p�̌���
-278�O��Ō����OCrimson Poison Del�O��Ԉُ�p�̌���
-279�O[����]�{�X���j��_�U���̓_�E���OBAD Status�O
-280�O[����]�{�X���j��_�h��̓_�E���OBAD Status�O
-281�O[����]�{�X���j��_�����_�E���OBAD Status�O
-282�O[����]�{�X���j��_����_�E���OBAD Status�O
-283�O[����]�{�X�r�j��_�U���̓_�E���OBAD Status�O
-284�O[����]�{�X�r�j��_�����_�E���OBAD Status�O
-285�O[����]�{�X���j��_�����_�E���OBAD Status�O
-286�O[����]�{�X���j��_����_�E���OBAD Status�O
-287�O���ʁF������Lv1�OSP_Lv1�O��Ԉُ�p�̌���
-288�O���ʁF������Lv2�OSP_Lv2�O��Ԉُ�p�̌���
-289�O���ʁF������Lv3�OSP_Lv3�O��Ԉُ�p�̌���
-290�O��̉��OJyakutaika�O�_�~�[�悤�̃G�l�~�[�o�g���X�L�������傤�悤�ɂ͂����Ă邾��
-291�O�S�̑����ONentaizouka�O�_�~�[�悤�̃G�l�~�[�o�g���X�L�������傤�悤�ɂ͂����Ă邾��
-292�O�����OGO Mad�O�_�~�[�悤�̃G�l�~�[�o�g���X�L�������傤�悤�ɂ͂����Ă邾��
-293�O�����g�`���[�W�OMelt Charge�O�~�m�^�E���X�n�@����U���R���ȋ����F�U����+30%
-294�O�C���t�B�j�e�B�K�[�h�OInfinity Guard�O�_�[�N�i�C�g�n�@����U���R���ȋ����F��莞�Ԗ��G
-295�O���~�b�g�v���Y���OLimit Prison�O�~�m�^�E���X�n�i�Z�j�@����U���R���ȋ����F�h���+50%
-296�O�L���A�x���W���[�OKill Avenger�O�_�[�N�i�C�g�n�i�ԁj�@����U���R���ȋ����F�U����+50%
-297�O�m�b�N�o�b�N�OKnock Back �O�{�X�ʏ�U���p
-298�O���i���OBerserk�O��莞�ԁA�U���͂��㏸����B������ʁy�U���̓A�b�v���z
-299�O���~�b�g�u���C�N�OLimit Break�O�_�~�[�悤�̃G�l�~�[�o�g���X�L�������傤�悤�ɂ͂����Ă邾��
+1＾剣匠1＾Battle Skill＾
+2＾刀匠1＾Battle Skill＾
+3＾ハイディングスライド＾Battle Skill＾幻惑しながら敵の横側へ素早くステップする。ヘイト補正マイナス
+4＾ステルスポジション＾Battle Skill＾ヘイトの補正にマイナスの効果。敵に狙われにくくなる
+5＾スケアクロウ＾Battle Skill＾一瞬でヘイトを大幅に消失させ、敵の狙いを躱す
+6＾バックスタブ＾Battle Skill＾一定時間、後ろからの攻撃にクリティカルボーナスを得る
+7＾インビジブル＾Battle Skill＾透明になり、敵の視覚感知から逃れる
+8＾スニーキング＾Battle Skill＾音を潜め、敵の聴覚感知から逃れる
+9＾HIDEポーション使用＾Battle Skill＾敵の視覚感知と聴覚感知から逃れる
+10＾ミスディレクション＾Battle Skill＾少しの間だけ、敵の命中を大きく下げて同時に高いヘイトも得る
+11＾エネミーサーチ＾Battle Skill＾マップに表示される敵の索敵範囲を広げる
+12＾ディテクトレベル＾Battle Skill＾敵の強さを色でマップに表示する。敵の弱点を見極められるかもしれない
+13＾ゲインエクスペリエンス＾Battle Skill＾得られる経験値を増加させる
+14＾クライムサーバント＾Battle Skill＾得られる経験値を全てパートナーへ献上する
+15＾バックステップ＾Battle Skill＾背後にステップして回避した上で、その突進力を強力な攻撃力に変える
+16＾サイドステップ＾Battle Skill＾ターゲット対象を中心に短くステップ旋回。一時的にクリティカル率上昇
+17＾ターンウィンド＾Battle Skill＾しばらくの間、回避力アップ
+18＾インターセプティング＾Battle Skill＾瞬時に高い回避を得て、その後回避力が減衰する
+19＾スターセイバー＾Battle Skill＾防御を捨てて高い回避と攻撃速度を得る
+20＾バトルシャウト＾Battle Skill＾瞬間的に非常に高いヘイトを得る
+21＾ソウルフォース＾Battle Skill＾一定時間、ヘイト補正にプラス
+22＾ウェポンバッシュ＾Battle Skill＾武器で強打して、相手の動きを止める
+23＾SPチャージ＾Battle Skill＾SP150を得る
+24＾シャイニングエコー＾Battle Skill＾敵に大きな回避ダウンの効果。同時にパーティ全員の攻撃力アップ
+25＾ディフェンスコール＾Battle Skill＾しばらくの間、パーティメンバーの防御力をアップ。代わりに自身の攻撃速度ダウン
+26＾シールドコーティング＾Battle Skill＾防御力を一定時間アップさせる
+27＾ディフェンススタンス＾Battle Skill＾攻撃力を捨てて、高い防御力とHPリジェネを得る
+28＾ダメージカット＾Battle Skill＾しばらくの間、斬・突・打耐性のあるアーマーをまとう
+29＾プロテクションシール＾Battle Skill＾物理バリアの効果。一定量のダメージを無効化
+30＾トライレジスト＾Battle Skill＾自身の状態異常に抵抗を試みる
+31＾サバイバルリビドー＾Battle Skill＾MAXHPを上昇させると同時にHPリジェネを得る
+32＾リジェネレーション＾Battle Skill＾HPを急速回復する
+33＾フィジカルビート＾Battle Skill＾肉体系状態異常に対する高い抵抗と、わずかなＨＰリジェネを得る
+34＾バトルヒーリング＾Battle Skill＾高いHPリジェネを得る
+35＾スロウウィークネス＾Battle Skill＾一時的に、敵の攻撃間隔を非常に遅くする
+36＾スピードマスター＾Battle Skill＾攻撃間隔の短縮効果を得る
+37＾ライトニングアタック＾Battle Skill＾一瞬にしてSPをMAXにする。かわりに一定時間防御力ダウン
+38＾ソードダンサー＾Battle Skill＾ソードスキルの発動時間を短縮し、攻撃間隔を少し早める
+39＾ブレイブストリーム＾Battle Skill＾攻撃速度を大幅に上昇させ、ダブルアタック確率が増加
+40＾SPDポーション使用＾Battle Skill＾攻撃間隔の短縮効果を得る
+41＾ターゲットサイト＾Battle Skill＾一時的に命中率を大幅に上昇させる
+42＾デクスタリティ＾Battle Skill＾一時的にDEXを増加させ、スキル硬直を減少させる
+43＾ダブルハンド＾Battle Skill＾ダブルアタック確率が上昇すると同時に、クリティカル率を上昇させる
+44＾クリティカルバイト＾Battle Skill＾攻撃に合わせ、タイミング良くスキルを発動すると、クリティカル率が上昇する
+45＾パーフェクションスタイル＾Battle Skill＾一定時間、武器攻撃に必中を得る。同時にクリティカル率上昇
+46＾DEXポーション使用＾Battle Skill＾一時的にDEXを増加させ、スキル硬直を減少させる
+47＾HITポーション使用＾Battle Skill＾一定時間、武器攻撃に必中を得る。同時にクリティカル率上昇
+48＾SPリジェネ＾Battle Skill＾しばらくの間、SPの回復を早める
+49＾ソウルレジスト＾Battle Skill＾精神系攻撃に対し、高い耐性を得る
+50＾ストライクエンド＾Battle Skill＾攻撃を回避することでSPを得る状態になる
+51＾スピリットリンク＾Battle Skill＾一定時間、SP量に応じて攻撃力を上昇させる
+52＾ソウルフルスタンド＾Battle Skill＾MAXSPを+150上昇させる
+53＾パリング＾Battle Skill＾相手の攻撃に合わせて発動すると、攻撃を無効化する
+54＾エグザクトオンスロート＾Battle Skill＾痛烈な一撃を与え、敵をのけぞり状態にする。リキャスト中は効果が落ちる
+55＾エアリーシールド＾Battle Skill＾敵のブレス攻撃を防ぐ
+56＾ファントムブレイク＾Battle Skill＾成功すれば、しばらくの間モンスターのスキルを封印する
+57＾ブレイジングウェポン＾Battle Skill＾タイミング良くスキルを発動することでモンスターの命中率を下げ続ける
+58＾ファーストステップ＾Battle Skill＾パーティ全体の攻撃速度を増加させる
+59＾アボイデンススキル＾Battle Skill＾敵の攻撃を受ける瞬間、タイミング良くスキルを発動すると、回避率が上昇する
+60＾ダンシングブレイド＾Battle Skill＾パーティ全体のダブルアタック確率を上昇させる
+61＾ヒーリングサークル＾Battle Skill＾パーティ全体のHPを一定量回復させる
+62＾ミューテッドエッジ＾Battle Skill＾攻撃間隔を早め、武器の追撃効果を+2する(最大追撃5回になる)
+63＾守護の祈り＾Battle Skill＾パーティ全体のHPリジェネ能力を高める
+64＾護法の幻影＾Battle Skill＾物理攻撃に対する分身を得る
+65＾災への守り＾Battle Skill＾状態異常に対する分身を得る
+66＾慈悲の衣＾Battle Skill＾パーティ全体に物理攻撃に対する分身を得る
+67＾浄化の炎＾Battle Skill＾パーティ全員の、状態異常を回復する
+68＾ハイパーアーマー＾Battle Skill＾一定時間、ダメージを無効化するアーマーを纏う
+69＾ストレングス＾Battle Skill＾一時的にSTRと攻撃力を増加させる
+70＾バイタリティ＾Battle Skill＾一時的にVITと攻撃力を増加させる
+71＾マッスルレジスト＾Battle Skill＾状態異常に対してレジストを試みる。その後しばらくの間ＭＡＸＨＰが上昇
+72＾グロウスゲイン＾Battle Skill＾MAXHPを大幅に増強
+73＾STRポーション使用＾Battle Skill＾一時的にSTRと攻撃力を増加させる
+74＾VITポーション使用＾Battle Skill＾一時的にVITと攻撃力を増加させる
+75＾クリムゾンウェポン＾Battle Skill＾HPが減る代わりに攻撃力アップ
+76＾マッドネスブロウ＾Battle Skill＾防御力が減る代わりに攻撃力アップ
+77＾ストルワートシャングリラ＾Battle Skill＾回避が減る代わりにクリティカル率アップ
+78＾ブラッディビーク＾Battle Skill＾一定時間、HP吸収効果を得る
+79＾インサニティナイト＾Battle Skill＾３回の反射するオーラを纏い、受けたダメージを喰らった分だけ相手に返す
+80＾ウォークライ＾Battle Skill＾パーティ全員の攻撃力とHP回復力を高める
+81＾ブレイブソウル＾Battle Skill＾パーティ全員の命中をアップする
+82＾ストームマインド＾Battle Skill＾パーティ全員にSPリジェネの効果
+83＾シャープレイジ＾Battle Skill＾パーティ全員にクリティカル率上昇
+84＾バリアブルストーム＾Battle Skill＾パーティ全員がSPを得る
+85＾ダブルアタック＾Battle Skill＾ダブルアタック確率が上昇する
+86＾カウンター＾Battle Skill＾敵の攻撃を躱し、反撃する
+87＾パワーエンフォーサー＾Battle Skill＾タイミング良くスキルを発動すると攻撃力が上昇。発動が早すぎると効果は消失する
+88＾バーストエラー＾Battle Skill＾HPが減り続ける代わりにSPリジェネを得る
+89＾ラストリゾート＾Battle Skill＾攻撃力が上昇し、全ての攻撃が相手の防御力を無視。代償に一定時間SP減少
+90＾プロテクトスラッシュ＾Battle Skill＾斬属性に高い防御力を得る
+91＾プロテクトスラスト＾Battle Skill＾突属性に高い防御力を得る
+92＾プロテクトブロウ＾Battle Skill＾打属性に高い防御力を得る
+93＾プロテクションアーマー＾Battle Skill＾パーティ全員に、ダメージ無効の効果を付与
+94＾ヘイトチェンジ＾Battle Skill＾パートナーとヘイトを交換する
+95＾危険回避の指示＾Battle Skill＾パーティ全員に、高い回避能力を与える
+96＾アイテム使用速度UP＾Battle Skill＾しばらくの間、アイテムの使用速度を上昇させる
+97＾自己犠牲の心＾Battle Skill＾パーティ全員のHPを回復。ただし自身は一定時間HPが徐々に減る状態となる
+98＾孤高の勇者＾Battle Skill＾物理分身を得つつ、高いヘイトを稼ぐ。ただし、一定時間防御力減少
+99＾スキル禁止＾Battle Skill＾一定時間モンスターのスキルを禁止する
+100＾防御無効＾Battle Skill＾しばらくの間、全ての攻撃が相手の防御力を無視する
+101＾クイックスキル＾Battle Skill＾ソードスキル発動までの時間と、技後の硬直時間を大幅に短くする
+102＾テクニカルビースト＾Battle Skill＾攻撃力と引き換えに、AGIと回避と命中を上昇させる
+103＾マーシナリーデビル＾Battle Skill＾タイミング良くスキルを発動し続けることで、敵に弱体効果を与えランクを上げる
+104＾ミゼラブルハート＾Battle Skill＾モンスターに掛っている状態異常の効果を引き上げる
+105＾AGIポーション使用＾Battle Skill＾AGIを上昇させる。同時に回避を上昇
+106＾命中ダウンLv1＾PinaSkill＾
+107＾命中ダウンLv2＾PinaSkill＾
+108＾命中ダウンLv3＾PinaSkill＾
+109＾命中ダウンLv4＾PinaSkill＾
+110＾攻撃力アップLv1＾PinaSkill＾
+111＾攻撃力アップLv2＾PinaSkill＾
+112＾攻撃力アップLv3＾PinaSkill＾
+113＾防御力アップLv1＾PinaSkill＾
+114＾防御力アップLv2＾PinaSkill＾
+115＾防御力アップLv3＾PinaSkill＾
+116＾速度アップLv1＾PinaSkill＾
+117＾速度アップLv2＾PinaSkill＾
+118＾速度アップLv3＾PinaSkill＾
+119＾HP回復Lv1＾PinaSkill＾
+120＾HP回復Lv2＾PinaSkill＾
+121＾HP回復Lv3＾PinaSkill＾
+122＾HP回復Lv4＾PinaSkill＾
+123＾SP回復Lv1＾PinaSkill＾
+124＾SP回復Lv2＾PinaSkill＾
+125＾SP回復Lv3＾PinaSkill＾
+126＾状態回復Lv1＾PinaSkill＾
+127＾状態回復Lv2＾PinaSkill＾
+128＾状態回復Lv3＾PinaSkill＾
+129＾吹き飛ばし＾PinaSkill＾
+130＾デバッグハイパーアーマー＾Battle Skill＾一時的にすべてのダメージを無効化する。※デバッグ用
+131＾デュエルシャウト＾Battle Skill＾
+132＾シールドディフェンス＾Battle Skill＾全員に防御力上昇とHPリジェネを与える。※盾装備中のみ使用可能
+133＾ロングキャスト＾Battle Skill＾
+134＾ステップイン＾Battle Skill＾対象との距離を詰め、勢いのままに攻撃する
+135＾ソード・アサルト＾Battle Skill＾
+136＾行動阻害（味方）＾Ally Attack Obstruct＾敵が攻撃しようとするのを妨害する。自動発動のみのスキル
+137＾パリング（味方）＾AllyParrying＾敵が攻撃してきたのを弾く。自動発動のみのスキル
+138＾ＳＴＲバフ（味方）＾Ally STR Plus＾自分と味方のSTRを一度に上昇させる。自動発動のみのスキル
+139＾会話状態の維持＾Talk Status＾返答スキル（仮）
+140＾会話状態の削除＾Talk Delete＾
+141＾ＨＰ＋３００／３０ｓ＾RegenerateⅠ＾アイテム用効果
+142＾ＨＰ＋６００／６０ｓ＾RegenerateⅡ＾アイテム用効果
+143＾ＨＰ＋１０００／６０ｓ＾RegenerateⅢ＾アイテム用効果
+144＾ＳＰ＋１０／３０ｓ＾SPChargeⅠ＾アイテム用効果
+145＾ＳＰ＋２０／６０ｓ＾SPChargeⅡ＾アイテム用効果
+146＾ＳＰ＋５０／１２０ｓ＾SPChargeⅢ＾アイテム用効果
+147＾転移＾Teleporter＾
+148＾ＨＰ＋３０％＾HealⅠ＾アイテム用効果
+149＾ＨＰ＋６０％＾HealⅡ＾アイテム用効果
+150＾ＨＰ＋１００％＾HealⅢ＾アイテム用効果
+151＾ＳＰ＋３０％＾GetSPⅠ＾アイテム用効果
+152＾ＳＰ＋６０％＾GetSPⅡ＾アイテム用効果
+153＾ＳＰ＋１００％＾GetSPⅢ＾アイテム用効果
+154＾状態回復：毒＾CurePoison＾アイテム用効果
+155＾状態回復：出血＾CureBleed＾アイテム用効果
+156＾状態回復：麻痺＾CureParalyze＾アイテム用効果
+157＾状態回復：暗闇＾CureBlind＾アイテム用効果
+158＾状態回復：欠損＾CureBreak＾アイテム用効果
+159＾状態回復：移動＾CureStop＾アイテム用効果
+160＾状態回復：呪い＾CureCurse＾アイテム用効果
+161＾状態回復：封印＾CureSeal＾アイテム用効果
+162＾状態回復：スリップ＾CureDisperse＾アイテム用効果
+163＾状態回復：睡眠＾CureSleep＾アイテム用効果
+164＾状態回復：全部＾CureAll＾アイテム用効果
+165＾マーシナリーデビルLv1＾Stun Lv1＾マーシナリーデビルLv1
+166＾マーシナリーデビルLv2＾Stun Lv2＾マーシナリーデビルLv2
+167＾マーシナリーデビルLv3＾Stun Lv3＾マーシナリーデビルLv3
+168＾マーシナリーデビルLv4＾Body Break＾マーシナリーデビルLv4
+169＾マーシナリーデビルLv5＾Arm Break＾マーシナリーデビルLv5
+170＾弓通常攻撃＾Bow＾弓で通常攻撃をする場合はこれを使用する
+171＾グッド士気の上昇＾GOOD＾GOODをしたときのSP回復行動
+172＾武器ジェネ用＾Weap Gene＾武器ジェネ用の効果
+173＾武器ジェネ用＾Weap Gene＾武器ジェネ用の効果
+174＾デバッグメニュー用＾Debug Menu＾デバッグメニュー用の効果
+175＾効果：スタンLv1＾Stun Lv1＾状態異常用の効果
+176＾効果：スタンLv2＾Stun Lv2＾状態異常用の効果
+177＾効果：スタンLv3＾Stun Lv3＾状態異常用の効果
+178＾効果：胴部欠損＾Body Break＾状態異常用の効果
+179＾効果：腕部欠損＾Arm Break＾状態異常用の効果
+180＾効果：脚部欠損＾Leg Break＾状態異常用の効果
+181＾効果：移動不可Lv1＾Stop Lv1＾状態異常用の効果
+182＾効果：移動不可Lv2＾Stop Lv2＾状態異常用の効果
+183＾効果：鈍足Lv1＾Slow Lv1＾状態異常用の効果
+184＾効果：鈍足Lv2＾Slow Lv2＾状態異常用の効果
+185＾効果：スキル封印Lv1＾Seal Lv1＾状態異常用の効果
+186＾効果：スキル封印Lv2＾Seal Lv2＾状態異常用の効果
+187＾効果：命中ダウンLv1＾Break Lv1＾状態異常用の効果
+188＾効果：回避ダウンLv1＾Break Lv1＾状態異常用の効果
+189＾効果：攻撃力ダウンLv1＾Break Lv1＾状態異常用の効果
+190＾効果：防御力ダウンLv1＾Break Lv1＾状態異常用の効果
+191＾効果：HPMAXダウンLv1＾Break Lv1＾状態異常用の効果
+192＾効果：SPMAXダウンLv1＾Break Lv1＾状態異常用の効果
+193＾効果：命中ダウンLv2＾Break Lv2＾状態異常用の効果
+194＾効果：回避ダウンLv2＾Break Lv2＾状態異常用の効果
+195＾効果：攻撃力ダウンLv2＾Break Lv2＾状態異常用の効果
+196＾効果：防御力ダウンLv2＾Break Lv2＾状態異常用の効果
+197＾効果：HPMAXダウンLv2＾Break Lv2＾状態異常用の効果
+198＾効果：SPMAXダウンLv2＾Break Lv2＾状態異常用の効果
+199＾効果：目くらまし＾Dizziness＾状態異常用の効果
+200＾効果：リスク加算＾Risk＾状態異常用の効果
+201＾効果：リスク固定＾Risk＾状態異常用の効果
+202＾効果：麻痺Lv1＾Paralyze Lv1＾状態異常用の効果
+203＾効果：麻痺Lv2＾Paralyze Lv2＾状態異常用の効果
+204＾効果：麻痺Lv3＾Paralyze Lv3＾状態異常用の効果
+205＾効果：出血Lv1＾Bleed Lv1＾状態異常用の効果
+206＾効果：出血Lv2＾Bleed Lv2＾状態異常用の効果
+207＾効果：出血Lv3＾Bleed Lv3＾状態異常用の効果
+208＾効果：出血Lv4＾Bleed Lv4＾状態異常用の効果
+209＾効果：出血Lv5＾Bleed Lv5＾状態異常用の効果
+210＾効果：毒Lv1＾Poison Lv1＾状態異常用の効果
+211＾効果：毒Lv2＾Poison Lv2＾状態異常用の効果
+212＾効果：毒Lv3＾Poison Lv3＾状態異常用の効果
+213＾効果：毒Lv4＾Poison Lv4＾状態異常用の効果
+214＾効果：毒Lv5＾Poison Lv5＾状態異常用の効果
+215＾効果：SPスリップLv1＾Disperse Lv1＾状態異常用の効果
+216＾効果：SPスリップLv2＾Disperse Lv2＾状態異常用の効果
+217＾効果：SPスリップLv3＾Disperse Lv3＾状態異常用の効果
+218＾効果：SPスリップLv4＾Disperse Lv4＾状態異常用の効果
+219＾効果：SPスリップLv5＾Disperse Lv5＾状態異常用の効果
+220＾効果：暗闇Lv1＾Blind Lv1＾状態異常用の効果
+221＾効果：暗闇Lv2＾Blind Lv2＾状態異常用の効果
+222＾効果：暗闇Lv3＾Blind Lv3＾状態異常用の効果
+223＾効果：暗闇Lv4＾Blind Lv4＾状態異常用の効果
+224＾効果：暗闇Lv5＾Blind Lv5＾状態異常用の効果
+225＾効果：攻撃速度ダウンLv1＾ATK Speed Down Lv1＾状態異常用の効果
+226＾効果：攻撃速度ダウンLv2＾ATK Speed Down Lv2＾状態異常用の効果
+227＾効果：攻撃速度ダウンLv3＾ATK Speed Down Lv3＾状態異常用の効果
+228＾効果：攻撃速度ダウンLv4＾ATK Speed Down Lv4＾状態異常用の効果
+229＾効果：攻撃速度ダウンLv5＾ATK Speed Down Lv5＾状態異常用の効果
+230＾効果：呪いLv1＾Curse Lv1＾状態異常用の効果
+231＾効果：呪いLv2＾Curse Lv2＾状態異常用の効果
+232＾効果：呪いLv3＾Curse Lv3＾状態異常用の効果
+233＾効果：呪いLv4＾Curse Lv4＾状態異常用の効果
+234＾効果：呪いLv5＾Curse Lv5＾状態異常用の効果
+235＾効果：STRダウンLv1＾STR Down Lv1＾状態異常用の効果
+236＾効果：STRダウンLv2＾STR Down Lv2＾状態異常用の効果
+237＾効果：STRダウンLv3＾STR Down Lv3＾状態異常用の効果
+238＾効果：STRダウンLv4＾STR Down Lv4＾状態異常用の効果
+239＾効果：STRダウンLv5＾STR Down Lv5＾状態異常用の効果
+240＾効果：VITダウンLv1＾VIT Down Lv1＾状態異常用の効果
+241＾効果：VITダウンLv2＾VIT Down Lv2＾状態異常用の効果
+242＾効果：VITダウンLv3＾VIT Down Lv3＾状態異常用の効果
+243＾効果：VITダウンLv4＾VIT Down Lv4＾状態異常用の効果
+244＾効果：VITダウンLv5＾VIT Down Lv5＾状態異常用の効果
+245＾効果：AGIダウンLv1＾AGI Down Lv1＾状態異常用の効果
+246＾効果：AGIダウンLv2＾AGI Down Lv2＾状態異常用の効果
+247＾効果：AGIダウンLv3＾AGI Down Lv3＾状態異常用の効果
+248＾効果：AGIダウンLv4＾AGI Down Lv4＾状態異常用の効果
+249＾効果：AGIダウンLv5＾AGI Down Lv5＾状態異常用の効果
+250＾効果：DEXダウンLv1＾DEX Down Lv1＾状態異常用の効果
+251＾効果：DEXダウンLv2＾DEX Down Lv2＾状態異常用の効果
+252＾効果：DEXダウンLv3＾DEX Down Lv3＾状態異常用の効果
+253＾効果：DEXダウンLv4＾DEX Down Lv4＾状態異常用の効果
+254＾効果：DEXダウンLv5＾DEX Down Lv5＾状態異常用の効果
+255＾効果：敵用腕欠損＾Arm Break EN＾状態異常用の効果
+256＾効果：敵用足欠損＾Leg Break EN＾状態異常用の効果
+257＾効果：重量ペナルティ＾Weight penalty＾状態異常用の効果
+258＾効果：命中率ダウンLv1 ピナ用＾PinaEff HitDown Lv1＾状態異常用の効果
+259＾効果：命中率ダウンLv2 ピナ用＾PinaEff HitDown Lv2＾状態異常用の効果
+260＾効果：命中率ダウンLv3　ピナ用＾PinaEff HitDown Lv3＾状態異常用の効果
+261＾効果：命中率ダウンLv4　ピナ用＾PinaEff HitDown Lv4＾状態異常用の効果
+262＾効果：攻撃力アップLv1　ピナ用＾PinaEff AtkUp Lv1＾状態異常用の効果
+263＾効果：攻撃力アップLv2　ピナ用＾PinaEff AtkUp Lv2＾状態異常用の効果
+264＾効果：攻撃力アップLv3　ピナ用＾PinaEff AtkUp Lv3＾状態異常用の効果
+265＾効果：防御力アップLv1　ピナ用＾PinaEff DefUp Lv1＾状態異常用の効果
+266＾効果：防御力アップLv2　ピナ用＾PinaEff DefUp Lv2＾状態異常用の効果
+267＾効果：防御力アップLv3　ピナ用＾PinaEff DefUp Lv3＾状態異常用の効果
+268＾効果：速度アップLv1　ピナ用＾PinaEff SpdUp Lv3＾状態異常用の効果
+269＾効果：速度アップLv2　ピナ用＾PinaEff SpdUp Lv3＾状態異常用の効果
+270＾効果：速度アップLv3　ピナ用＾PinaEff SpdUp Lv3＾状態異常用の効果
+271＾ウィークネスフォーチュン＾Fortune CrtUp＾占いにより発生する状態異常用の効果。プラス効果。一日経過時に解除される
+272＾ドロップフォーチュン＾Fortune DropUp＾占いにより発生する状態異常用の効果。プラス効果。一日経過時に解除される
+273＾コルフォーチュン＾FortuneColUp＾占いにより発生する状態異常用の効果。プラス効果。一日経過時に解除される
+274＾エクスフォーチュン＾FortuneExpUp＾占いにより発生する状態異常用の効果。プラス効果。一日経過時に解除される
+275＾バッドフォーチュン＾FortuneStatusDown＾占いにより発生する状態異常用の効果。マイナス効果。一日経過時に解除される
+276＾バトルスキルダミー１８０＾Player Battle Dummy 180＾状態異常用の効果
+277＾効果：クリムゾン用毒＾Crimson Poison＾状態異常用の効果
+278＾解毒結晶＾Crimson Poison Del＾状態異常用の効果
+279＾[効果]ボス胴破壊_攻撃力ダウン＾BAD Status＾
+280＾[効果]ボス胴破壊_防御力ダウン＾BAD Status＾
+281＾[効果]ボス胴破壊_命中ダウン＾BAD Status＾
+282＾[効果]ボス胴破壊_回避ダウン＾BAD Status＾
+283＾[効果]ボス腕破壊_攻撃力ダウン＾BAD Status＾
+284＾[効果]ボス腕破壊_命中ダウン＾BAD Status＾
+285＾[効果]ボス足破壊_命中ダウン＾BAD Status＾
+286＾[効果]ボス足破壊_回避ダウン＾BAD Status＾
+287＾効果：特殊状態Lv1＾SP_Lv1＾状態異常用の効果
+288＾効果：特殊状態Lv2＾SP_Lv2＾状態異常用の効果
+289＾効果：特殊状態Lv3＾SP_Lv3＾状態異常用の効果
+290＾弱体化＾Jyakutaika＾ダミーようのエネミーバトルスキルさぎょうようにはいってるだけ
+291＾粘体増加＾Nentaizouka＾ダミーようのエネミーバトルスキルさぎょうようにはいってるだけ
+292＾発狂＾GO Mad＾ダミーようのエネミーバトルスキルさぎょうようにはいってるだけ
+293＾メルトチャージ＾Melt Charge＾ミノタウロス系　特殊攻撃３自己強化：攻撃力+30%
+294＾インフィニティガード＾Infinity Guard＾ダークナイト系　特殊攻撃３自己強化：一定時間無敵
+295＾リミットプリズン＾Limit Prison＾ミノタウロス系（鎧）　特殊攻撃３自己強化：防御力+50%
+296＾キルアベンジャー＾Kill Avenger＾ダークナイト系（赤）　特殊攻撃３自己強化：攻撃力+50%
+297＾ノックバック＾Knock Back ＾ボス通常攻撃用
+298＾遠吠え＾Berserk＾一定時間、攻撃力を上昇する。特殊効果【攻撃力アップ小】
+299＾リミットブレイク＾Limit Break＾ダミーようのエネミーバトルスキルさぎょうようにはいってるだけ

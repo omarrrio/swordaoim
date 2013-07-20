@@ -1,5 +1,5 @@
-1갣[Gimmick]Effect: Poison갣GMK_EFF_Poison갣Activating a Field Skill dummy.
-2갣[Gimmick]Effect: Paralysis갣GMK_EFF_Paralyze갣Activating a Field Skill dummy.
-3갣[Gimmick]Effect: Darkness갣GMK_EFF_Blind갣Activating a Field Skill dummy.
-4갣[Gimmick]Effect: Agility갣GMK_EFF_Slow갣Activating a Field Skill dummy.
-5갣[Gimmick]Effect: Movement갣GMK_EFF_Stop갣Activating a Field Skill dummy.
+1혖O[Gimmick]Effect: Poison혖OGMK_EFF_Poison혖OActivating a Field Skill dummy.
+2혖O[Gimmick]Effect: Paralysis혖OGMK_EFF_Paralyze혖OActivating a Field Skill dummy.
+3혖O[Gimmick]Effect: Darkness혖OGMK_EFF_Blind혖OActivating a Field Skill dummy.
+4혖O[Gimmick]Effect: Agility혖OGMK_EFF_Slow혖OActivating a Field Skill dummy.
+5혖O[Gimmick]Effect: Movement혖OGMK_EFF_Stop혖OActivating a Field Skill dummy.

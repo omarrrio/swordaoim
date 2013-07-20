@@ -1,81 +1,81 @@
-1O’ZŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 0O’ZŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-2O’ZŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 1O’ZŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-3O’ZŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 2O’ZŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-4O’ZŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 3O’ZŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-5O’ZŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 4O’ZŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-6O’ZŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 5O’ZŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-7O•ÐŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 6O•ÐŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-8O•ÐŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 7O•ÐŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-9O•ÐŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 8O•ÐŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-10O•ÐŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 9O•ÐŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-11O•ÐŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 10O•ÐŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-12O•ÐŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 11O•ÐŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-13O‹È“ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 12O‹È“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-14O‹È“ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 13O‹È“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-15O‹È“ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 14O‹È“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-16O‹È“ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 15O‹È“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-17O‹È“ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 16O‹È“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-18O‹È“ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 17O‹È“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-19O×Œ•ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 18O×Œ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-20O×Œ•ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 19O×Œ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-21O×Œ•ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 20O×Œ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-22O×Œ•ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 21O×Œ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-23O×Œ•ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 22O×Œ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-24O×Œ•ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 23O×Œ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-25O“ñ“—¬ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 24O“ñ“—¬ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-26O“ñ“—¬ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 25O“ñ“—¬ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-27O“ñ“—¬ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 26O“ñ“—¬ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-28O“ñ“—¬ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 27O“ñ“—¬ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-29O“ñ“—¬ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 28O“ñ“—¬ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-30O“ñ“—¬ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 29O“ñ“—¬ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-31O•ÐŽèžžƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 30O•ÐŽèžžƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-32O•ÐŽèžžƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 31O•ÐŽèžžƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-33O•ÐŽèžžƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 32O•ÐŽèžžƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-34O•ÐŽèžžƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 33O•ÐŽèžžƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-35O•ÐŽèžžƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 34O•ÐŽèžžƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-36O•ÐŽèžžƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 35O•ÐŽèžžƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-37O—¼Žè•€ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 36O—¼Žè•€ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-38O—¼Žè•€ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 37O—¼Žè•€ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-39O—¼Žè•€ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 38O—¼Žè•€ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-40O—¼Žè•€ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 39O—¼Žè•€ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-41O—¼Žè•€ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 40O—¼Žè•€ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-42O—¼Žè•€ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 41O—¼Žè•€ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-43O‘„ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 42O‘„ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é
-44O‘„ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 43O‘„ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é
-45O‘„ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 44O‘„ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é
-46O‘„ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 45O‘„ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é
-47O‘„ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 46O‘„ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é
-48O‘„ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 47O‘„ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é
-49O“ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 48O“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é(—vFu“ v‚ÌK“¾)
-50O“ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 49O“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é(—vFu“ v‚ÌK“¾)
-51O“ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 50O“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é(—vFu“ v‚ÌK“¾)
-52O“ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 51O“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é(—vFu“ v‚ÌK“¾)
-53O“ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 52O“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é(—vFu“ v‚ÌK“¾)
-54O“ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 53O“ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é(—vFu“ v‚ÌK“¾)
-55O—¼ŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv1OPassive Skill 54O—¼ŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚T“‚·‚é(—vFuŒ• v‚ÌK“¾)
-56O—¼ŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv2OPassive Skill 55O—¼ŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚O“‚·‚é(—vFuŒ• v‚ÌK“¾)
-57O—¼ŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv3OPassive Skill 56O—¼ŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚P‚T“‚·‚é(—vFuŒ• v‚ÌK“¾)
-58O—¼ŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv4OPassive Skill 57O—¼ŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚O“‚·‚é(—vFuŒ• v‚ÌK“¾)
-59O—¼ŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv5OPassive Skill 58O—¼ŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚Q‚T“‚·‚é(—vFuŒ• v‚ÌK“¾)
-60O—¼ŽèŒ•ƒXƒLƒ‹ƒAƒVƒXƒgLv6OPassive Skill 59O—¼ŽèŒ•ƒ\[ƒhƒXƒLƒ‹‚Ìƒ_ƒ[ƒW‚ð{‚R‚O“‚·‚é(—vFuŒ• v‚ÌK“¾)
-61OŽã“_Ž@’mOPassive Skill 60OƒpƒbƒVƒuƒXƒLƒ‹uŽã“_Ž@’mv@Œø‰ÊFƒNƒŠƒeƒBƒJƒ‹—¦{‚T“
-62O‘ì‰z‚µ‚½ŠÏŽ@ŠáOPassive Skill 61OƒpƒbƒVƒuƒXƒLƒ‹u‘ì‰z‚µ‚½ŠÏŽ@Šáv@Œø‰ÊFŒoŒ±’l•â³{‚T“
-63OgŒy‚Èg‘ÌOPassive Skill 62OƒpƒbƒVƒuƒXƒLƒ‹ugŒy‚Èg‘Ìv@Œø‰ÊF‰ñ”ð—Í{‚T“
-64OƒŠ[ƒ_[‚ÌŽ‘Ž¿OPassive Skill 63OƒpƒbƒVƒuƒXƒLƒ‹uƒŠ[ƒ_[‚ÌŽ‘Ž¿v@Œø‰ÊFƒwƒCƒg•â³{‚T“
-65OŠæ‹­‚ÈˆÓŽuOPassive Skill 64OƒpƒbƒVƒuƒXƒLƒ‹uŠæ‹­‚ÈˆÓŽuv@Œø‰ÊF–hŒä—Í{‚P‚O“
-66O‹­èÕ‚È¶–½—ÍOPassive Skill 65OƒpƒbƒVƒuƒXƒLƒ‹u‹­èÕ‚È¶–½—Ív@Œø‰ÊF‚g‚oƒŠƒWƒFƒl{‚Q‚O‚O
-67OƒXƒs[ƒhƒXƒ^ƒ“ƒXOPassive Skill 66OƒpƒbƒVƒuƒXƒLƒ‹uƒXƒs[ƒhƒXƒ^ƒ“ƒXv@Œø‰ÊFUŒ‚ŠÔŠu|‚P‚O“
-68O¸–§‹@ŠBOPassive Skill 67OƒpƒbƒVƒuƒXƒLƒ‹u¸–§‹@ŠBv@Œø‰ÊF–½’†—Í{‚P‚O“
-69OÁ‚¯‚Ê¸_OPassive Skill 68OƒpƒbƒVƒuƒXƒLƒ‹uÁ‚¯‚Ê¸_v@Œø‰ÊFˆê•”‚Ìó‘ÔˆÙí‚É‘Î‚·‚é‘Ï«ƒAƒbƒv
-70OU–hˆê‘ÌOPassive Skill 69OƒpƒbƒVƒuƒXƒLƒ‹uU–hˆê‘Ìv@Œø‰ÊFƒJƒEƒ“ƒ^[—¦{‚T“
-71OƒŠƒYƒ€‚ðŽæ‚é‘«ŽJ‚«OPassive Skill 70OƒpƒbƒVƒuƒXƒLƒ‹uƒŠƒYƒ€‚ðŽæ‚é‘«ŽJ‚«v@Œø‰ÊFƒp[ƒeƒB‘S‘Ì‚É–½’†—Í{‚T“
-72Oí_‚ÌŒì‚èOPassive Skill 71OƒpƒbƒVƒuƒXƒLƒ‹uí_‚ÌŒì‚èv@Œø‰ÊFƒwƒCƒg•â³|‚T“
-73O“÷‘Ì‚Ì•ÏŽ¿OPassive Skill 72OƒpƒbƒVƒuƒXƒLƒ‹u“÷‘Ì‚Ì•ÏŽ¿v@Œø‰ÊF‚g‚o‚l‚`‚w{‚P‚O“
-74OŒŒ‚ÌŠ‰–]OPassive Skill 73OƒpƒbƒVƒuƒXƒLƒ‹uŒŒ‚ÌŠ‰–]v@Œø‰ÊFUŒ‚—Í{‚P‚T“•–hŒä—Í|‚P‚T“
-75OV—g‚·‚éSOPassive Skill 74OƒpƒbƒVƒuƒXƒLƒ‹uV—g‚·‚éSv@Œø‰ÊF‘S”\—Í’l{‚T“
-76O“¬‘ˆSOPassive Skill 75OƒpƒbƒVƒuƒXƒLƒ‹u“¬‘ˆSv@Œø‰ÊFƒ_ƒuƒ‹ƒAƒ^ƒbƒN{‚T“•–hŒä—Í|‚P‚O“
-77OÃæ‚ÈŽç‚èOPassive Skill 76OƒpƒbƒVƒuƒXƒLƒ‹uÃæ‚ÈŽç‚èv@Œø‰ÊFƒ_ƒ[ƒW‘Ï«{‚P‚O“
-78OŠëŒ¯‚Ö‚Ì”õ‚¦OPassive Skill 77OƒpƒbƒVƒuƒXƒLƒ‹uŠëŒ¯‚Ö‚Ì”õ‚¦v@Œø‰ÊF”íƒNƒŠƒeƒBƒJƒ‹—¦|‚P‚O“
-79OŒ•‹Z“K‡OPassive Skill 78OƒpƒbƒVƒuƒXƒLƒ‹uŒ•‹Z“K‡v@Œø‰ÊFƒXƒLƒ‹”­“®‘¬“x|‚P‚O“
-80OŒ•‚Ö‚Ì¸’ÊOPassive Skill 79OƒpƒbƒVƒuƒXƒLƒ‹uŒ•‚Ö‚Ì¸’Êv@Œø‰ÊFUŒ‚—Í{‚P‚O“
-81OŒø—¦“I‚È—§‚¿‰ñ‚èOPassive Skill 80OƒpƒbƒVƒuƒXƒLƒ‹uŒø—¦“I‚È—§‚¿‰ñ‚èv@Œø‰ÊF‚r‚oƒŠƒWƒFƒl{‚T
+1ï¼¾çŸ­å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 0ï¼¾çŸ­å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+2ï¼¾çŸ­å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 1ï¼¾çŸ­å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+3ï¼¾çŸ­å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 2ï¼¾çŸ­å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+4ï¼¾çŸ­å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 3ï¼¾çŸ­å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+5ï¼¾çŸ­å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 4ï¼¾çŸ­å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+6ï¼¾çŸ­å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 5ï¼¾çŸ­å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+7ï¼¾ç‰‡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 6ï¼¾ç‰‡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+8ï¼¾ç‰‡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 7ï¼¾ç‰‡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+9ï¼¾ç‰‡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 8ï¼¾ç‰‡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+10ï¼¾ç‰‡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 9ï¼¾ç‰‡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+11ï¼¾ç‰‡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 10ï¼¾ç‰‡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+12ï¼¾ç‰‡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 11ï¼¾ç‰‡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+13ï¼¾æ›²åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 12ï¼¾æ›²åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+14ï¼¾æ›²åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 13ï¼¾æ›²åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+15ï¼¾æ›²åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 14ï¼¾æ›²åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+16ï¼¾æ›²åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 15ï¼¾æ›²åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+17ï¼¾æ›²åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 16ï¼¾æ›²åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+18ï¼¾æ›²åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 17ï¼¾æ›²åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+19ï¼¾ç´°å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 18ï¼¾ç´°å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+20ï¼¾ç´°å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 19ï¼¾ç´°å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+21ï¼¾ç´°å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 20ï¼¾ç´°å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+22ï¼¾ç´°å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 21ï¼¾ç´°å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+23ï¼¾ç´°å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 22ï¼¾ç´°å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+24ï¼¾ç´°å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 23ï¼¾ç´°å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+25ï¼¾äºŒåˆ€æµã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 24ï¼¾äºŒåˆ€æµã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+26ï¼¾äºŒåˆ€æµã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 25ï¼¾äºŒåˆ€æµã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+27ï¼¾äºŒåˆ€æµã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 26ï¼¾äºŒåˆ€æµã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+28ï¼¾äºŒåˆ€æµã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 27ï¼¾äºŒåˆ€æµã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+29ï¼¾äºŒåˆ€æµã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 28ï¼¾äºŒåˆ€æµã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+30ï¼¾äºŒåˆ€æµã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 29ï¼¾äºŒåˆ€æµã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+31ï¼¾ç‰‡æ‰‹æ£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 30ï¼¾ç‰‡æ‰‹æ£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+32ï¼¾ç‰‡æ‰‹æ£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 31ï¼¾ç‰‡æ‰‹æ£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+33ï¼¾ç‰‡æ‰‹æ£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 32ï¼¾ç‰‡æ‰‹æ£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+34ï¼¾ç‰‡æ‰‹æ£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 33ï¼¾ç‰‡æ‰‹æ£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+35ï¼¾ç‰‡æ‰‹æ£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 34ï¼¾ç‰‡æ‰‹æ£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+36ï¼¾ç‰‡æ‰‹æ£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 35ï¼¾ç‰‡æ‰‹æ£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+37ï¼¾ä¸¡æ‰‹æ–§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 36ï¼¾ä¸¡æ‰‹æ–§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+38ï¼¾ä¸¡æ‰‹æ–§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 37ï¼¾ä¸¡æ‰‹æ–§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+39ï¼¾ä¸¡æ‰‹æ–§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 38ï¼¾ä¸¡æ‰‹æ–§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+40ï¼¾ä¸¡æ‰‹æ–§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 39ï¼¾ä¸¡æ‰‹æ–§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+41ï¼¾ä¸¡æ‰‹æ–§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 40ï¼¾ä¸¡æ‰‹æ–§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+42ï¼¾ä¸¡æ‰‹æ–§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 41ï¼¾ä¸¡æ‰‹æ–§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+43ï¼¾æ§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 42ï¼¾æ§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹
+44ï¼¾æ§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 43ï¼¾æ§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹
+45ï¼¾æ§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 44ï¼¾æ§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹
+46ï¼¾æ§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 45ï¼¾æ§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹
+47ï¼¾æ§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 46ï¼¾æ§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹
+48ï¼¾æ§ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 47ï¼¾æ§ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹
+49ï¼¾åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 48ï¼¾åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹(è¦ï¼šã€Œåˆ€åŒ ã€ã®ç¿’å¾—)
+50ï¼¾åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 49ï¼¾åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹(è¦ï¼šã€Œåˆ€åŒ ã€ã®ç¿’å¾—)
+51ï¼¾åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 50ï¼¾åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹(è¦ï¼šã€Œåˆ€åŒ ã€ã®ç¿’å¾—)
+52ï¼¾åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 51ï¼¾åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹(è¦ï¼šã€Œåˆ€åŒ ã€ã®ç¿’å¾—)
+53ï¼¾åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 52ï¼¾åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹(è¦ï¼šã€Œåˆ€åŒ ã€ã®ç¿’å¾—)
+54ï¼¾åˆ€ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 53ï¼¾åˆ€ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹(è¦ï¼šã€Œåˆ€åŒ ã€ã®ç¿’å¾—)
+55ï¼¾ä¸¡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv1ï¼¾Passive Skill 54ï¼¾ä¸¡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼•ï¼…ã™ã‚‹(è¦ï¼šã€Œå‰£åŒ ã€ã®ç¿’å¾—)
+56ï¼¾ä¸¡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv2ï¼¾Passive Skill 55ï¼¾ä¸¡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼ï¼…ã™ã‚‹(è¦ï¼šã€Œå‰£åŒ ã€ã®ç¿’å¾—)
+57ï¼¾ä¸¡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv3ï¼¾Passive Skill 56ï¼¾ä¸¡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼‘ï¼•ï¼…ã™ã‚‹(è¦ï¼šã€Œå‰£åŒ ã€ã®ç¿’å¾—)
+58ï¼¾ä¸¡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv4ï¼¾Passive Skill 57ï¼¾ä¸¡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼ï¼…ã™ã‚‹(è¦ï¼šã€Œå‰£åŒ ã€ã®ç¿’å¾—)
+59ï¼¾ä¸¡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv5ï¼¾Passive Skill 58ï¼¾ä¸¡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼’ï¼•ï¼…ã™ã‚‹(è¦ï¼šã€Œå‰£åŒ ã€ã®ç¿’å¾—)
+60ï¼¾ä¸¡æ‰‹å‰£ã‚¹ã‚­ãƒ«ã‚¢ã‚·ã‚¹ãƒˆLv6ï¼¾Passive Skill 59ï¼¾ä¸¡æ‰‹å‰£ã‚½ãƒ¼ãƒ‰ã‚¹ã‚­ãƒ«ã®ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ï¼‹ï¼“ï¼ï¼…ã™ã‚‹(è¦ï¼šã€Œå‰£åŒ ã€ã®ç¿’å¾—)
+61ï¼¾å¼±ç‚¹å¯ŸçŸ¥ï¼¾Passive Skill 60ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œå¼±ç‚¹å¯ŸçŸ¥ã€ã€€åŠ¹æžœï¼šã‚¯ãƒªãƒ†ã‚£ã‚«ãƒ«çŽ‡ï¼‹ï¼•ï¼…
+62ï¼¾å“è¶Šã—ãŸè¦³å¯Ÿçœ¼ï¼¾Passive Skill 61ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œå“è¶Šã—ãŸè¦³å¯Ÿçœ¼ã€ã€€åŠ¹æžœï¼šçµŒé¨“å€¤è£œæ­£ï¼‹ï¼•ï¼…
+63ï¼¾èº«è»½ãªèº«ä½“ï¼¾Passive Skill 62ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œèº«è»½ãªèº«ä½“ã€ã€€åŠ¹æžœï¼šå›žé¿åŠ›ï¼‹ï¼•ï¼…
+64ï¼¾ãƒªãƒ¼ãƒ€ãƒ¼ã®è³‡è³ªï¼¾Passive Skill 63ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œãƒªãƒ¼ãƒ€ãƒ¼ã®è³‡è³ªã€ã€€åŠ¹æžœï¼šãƒ˜ã‚¤ãƒˆè£œæ­£ï¼‹ï¼•ï¼…
+65ï¼¾é ‘å¼·ãªæ„å¿—ï¼¾Passive Skill 64ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œé ‘å¼·ãªæ„å¿—ã€ã€€åŠ¹æžœï¼šé˜²å¾¡åŠ›ï¼‹ï¼‘ï¼ï¼…
+66ï¼¾å¼·é±ãªç”Ÿå‘½åŠ›ï¼¾Passive Skill 65ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œå¼·é±ãªç”Ÿå‘½åŠ›ã€ã€€åŠ¹æžœï¼šï¼¨ï¼°ãƒªã‚¸ã‚§ãƒï¼‹ï¼’ï¼ï¼
+67ï¼¾ã‚¹ãƒ”ãƒ¼ãƒ‰ã‚¹ã‚¿ãƒ³ã‚¹ï¼¾Passive Skill 66ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œã‚¹ãƒ”ãƒ¼ãƒ‰ã‚¹ã‚¿ãƒ³ã‚¹ã€ã€€åŠ¹æžœï¼šæ”»æ’ƒé–“éš”ï¼ï¼‘ï¼ï¼…
+68ï¼¾ç²¾å¯†æ©Ÿæ¢°ï¼¾Passive Skill 67ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œç²¾å¯†æ©Ÿæ¢°ã€ã€€åŠ¹æžœï¼šå‘½ä¸­åŠ›ï¼‹ï¼‘ï¼ï¼…
+69ï¼¾æŒ«ã‘ã¬ç²¾ç¥žï¼¾Passive Skill 68ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€ŒæŒ«ã‘ã¬ç²¾ç¥žã€ã€€åŠ¹æžœï¼šä¸€éƒ¨ã®çŠ¶æ…‹ç•°å¸¸ã«å¯¾ã™ã‚‹è€æ€§ã‚¢ãƒƒãƒ—
+70ï¼¾æ”»é˜²ä¸€ä½“ï¼¾Passive Skill 69ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œæ”»é˜²ä¸€ä½“ã€ã€€åŠ¹æžœï¼šã‚«ã‚¦ãƒ³ã‚¿ãƒ¼çŽ‡ï¼‹ï¼•ï¼…
+71ï¼¾ãƒªã‚ºãƒ ã‚’å–ã‚‹è¶³æŒãï¼¾Passive Skill 70ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œãƒªã‚ºãƒ ã‚’å–ã‚‹è¶³æŒãã€ã€€åŠ¹æžœï¼šãƒ‘ãƒ¼ãƒ†ã‚£å…¨ä½“ã«å‘½ä¸­åŠ›ï¼‹ï¼•ï¼…
+72ï¼¾æˆ¦ç¥žã®è­·ã‚Šï¼¾Passive Skill 71ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œæˆ¦ç¥žã®è­·ã‚Šã€ã€€åŠ¹æžœï¼šãƒ˜ã‚¤ãƒˆè£œæ­£ï¼ï¼•ï¼…
+73ï¼¾è‚‰ä½“ã®å¤‰è³ªï¼¾Passive Skill 72ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œè‚‰ä½“ã®å¤‰è³ªã€ã€€åŠ¹æžœï¼šï¼¨ï¼°ï¼­ï¼¡ï¼¸ï¼‹ï¼‘ï¼ï¼…
+74ï¼¾è¡€ã®æ¸‡æœ›ï¼¾Passive Skill 73ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œè¡€ã®æ¸‡æœ›ã€ã€€åŠ¹æžœï¼šæ”»æ’ƒåŠ›ï¼‹ï¼‘ï¼•ï¼…ï¼†é˜²å¾¡åŠ›ï¼ï¼‘ï¼•ï¼…
+75ï¼¾æ˜‚æšã™ã‚‹å¿ƒï¼¾Passive Skill 74ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œæ˜‚æšã™ã‚‹å¿ƒã€ã€€åŠ¹æžœï¼šå…¨èƒ½åŠ›å€¤ï¼‹ï¼•ï¼…
+76ï¼¾é—˜äº‰å¿ƒï¼¾Passive Skill 75ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œé—˜äº‰å¿ƒã€ã€€åŠ¹æžœï¼šãƒ€ãƒ–ãƒ«ã‚¢ã‚¿ãƒƒã‚¯ï¼‹ï¼•ï¼…ï¼†é˜²å¾¡åŠ›ï¼ï¼‘ï¼ï¼…
+77ï¼¾é™è¬ãªå®ˆã‚Šï¼¾Passive Skill 76ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œé™è¬ãªå®ˆã‚Šã€ã€€åŠ¹æžœï¼šãƒ€ãƒ¡ãƒ¼ã‚¸è€æ€§ï¼‹ï¼‘ï¼ï¼…
+78ï¼¾å±é™ºã¸ã®å‚™ãˆï¼¾Passive Skill 77ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œå±é™ºã¸ã®å‚™ãˆã€ã€€åŠ¹æžœï¼šè¢«ã‚¯ãƒªãƒ†ã‚£ã‚«ãƒ«çŽ‡ï¼ï¼‘ï¼ï¼…
+79ï¼¾å‰£æŠ€é©åˆï¼¾Passive Skill 78ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œå‰£æŠ€é©åˆã€ã€€åŠ¹æžœï¼šã‚¹ã‚­ãƒ«ç™ºå‹•é€Ÿåº¦ï¼ï¼‘ï¼ï¼…
+80ï¼¾å‰£ã¸ã®ç²¾é€šï¼¾Passive Skill 79ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€Œå‰£ã¸ã®ç²¾é€šã€ã€€åŠ¹æžœï¼šæ”»æ’ƒåŠ›ï¼‹ï¼‘ï¼ï¼…
+81ï¼¾åŠ¹çŽ‡çš„ãªç«‹ã¡å›žã‚Šï¼¾Passive Skill 80ï¼¾ãƒ‘ãƒƒã‚·ãƒ–ã‚¹ã‚­ãƒ«ã€ŒåŠ¹çŽ‡çš„ãªç«‹ã¡å›žã‚Šã€ã€€åŠ¹æžœï¼šï¼³ï¼°ãƒªã‚¸ã‚§ãƒï¼‹ï¼•

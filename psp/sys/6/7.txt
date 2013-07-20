@@ -1,637 +1,637 @@
-1�O�X�^��
-2�O�X�^��
-3�O�X�^��
-4�O��������
-5�O�r������
-6�O�r������
-7�O�ړ��s��Lv1
-8�O�ړ��s��Lv2
-9�O�ݑ�Lv1
-10�O�ݑ�Lv2
-11�O�X�L������Lv1
-12�O�X�L������Lv2
-13�O����DW Lv1
-14�O���DW Lv1
-15�O�U����DW Lv1
-16�O�h���DW Lv1
-17�OHPMAXDW Lv1
-18�OSPMAXDW Lv1
-19�O����DW Lv2
-20�O���DW Lv2
-21�O�U����DW Lv2
-22�O�h���DW Lv2
-23�OHPMAXDW Lv2
-24�OSPMAXDW Lv2
-25�O�ڂ���܂�
-26�O���X�N����
-27�O���X�N�Œ�
-28�O���Lv1
-29�O���Lv2
-30�O���Lv3
-31�O�o��Lv1
-32�O�o��Lv2
-33�O�o��Lv3
-34�O�o��Lv4
-35�O�o��Lv5
-36�O��Lv1
-37�O��Lv2
-38�O��Lv3
-39�O��Lv4
-40�O��Lv5
-41�OSP����Lv1
-42�OSP����Lv2
-43�OSP����Lv3
-44�O�È� Lv1
-45�O�È� Lv2
-46�O�È� Lv3
-47�O�È� Lv4
-48�O�È� Lv5
-49�O�U�����xDW
-50�O�U�����xDW
-51�O�U�����xDW
-52�O�U�����xDW
-53�O�U�����xDW
-54�O��
-55�O��
-56�O��
-57�O��
-58�O�d�ʃy�i���e�B
-59�OSTR�ቺLv1
-60�OSTR�ቺLv2
-61�OSTR�ቺLv3
-62�OSTR�ቺLv4
-63�OSTR�ቺLv5
-64�OVIT�ቺLv1
-65�OVIT�ቺLv2
-66�OVIT�ቺLv3
-67�OVIT�ቺLv4
-68�OVIT�ቺLv5
-69�OAGI�ቺLv1
-70�OAGI�ቺLv2
-71�OAGI�ቺLv3
-72�OAGI�ቺLv4
-73�OAGI�ቺLv5
-74�ODEX�ቺLv1
-75�ODEX�ቺLv2
-76�ODEX�ቺLv3
-77�O���DW
-78�O�U�����xDW
-79�O�o�b�V��
-80�O������Lv1
-81�O������Lv2
-82�O������Lv3
-83�OPina �������_�E��Lv1
-84�OPina �������_�E��Lv2
-85�OPina �������_�E��Lv3
-86�OPina �������_�E��Lv4
-87�O�X�^��
-88�O�X�^��
-89�O�X�^��
-90�O�X�^��
-91�O�X�^��
-92�O��������
-93�O��������
-94�O�r������
-95�O�r������
-96�O�r������
-97�O�ړ��s��
-98�O�ړ��s��
-99�O�ړ��s��
-100�O�ړ��s��
-101�O�ړ��s��
-102�O�ݑ�
-103�O�ݑ�
-104�O�ݑ�
-105�O�ݑ�
-106�O�ݑ�
-107�O�ݑ�
-108�O�ݑ�
-109�O�ݑ�
-110�O�ݑ�
-111�O�ݑ�
-112�O����
-113�O����
-114�O����
-115�O����
-116�O����
-117�O���Lv1
-118�O���Lv2
-119�O���Lv3
-120�O���Lv4
-121�O���Lv5
-122�O�o��Lv1
-123�O�o��Lv2
-124�O�o��Lv3
-125�O�o��Lv4
-126�O�o��Lv5
-127�O��Lv1
-128�O��Lv2
-129�O��Lv3
-130�O��Lv4
-131�O��Lv5
-132�OSP����Lv1
-133�OSP����Lv2
-134�OSP����Lv3
-135�OSP����Lv4
-136�OSP����Lv5
-137�O�È� Lv1
-138�O�È� Lv2
-139�O�È� Lv3
-140�O�È� Lv4
-141�O�È� Lv5
-142�O�U�����xDW
-143�O�U�����xDW
-144�O�U�����xDW
-145�O�U�����xDW
-146�O�U�����xDW
-147�O��
-148�O��
-149�O��
-150�O��
-151�O��
-152�O��
-153�O��
-154�O��
-155�O��
-156�O��
-157�OSTR�ቺLv1
-158�OSTR�ቺLv2
-159�OSTR�ቺLv3
-160�OSTR�ቺLv4
-161�OSTR�ቺLv5
-162�OVIT�ቺLv1
-163�OVIT�ቺLv2
-164�OVIT�ቺLv3
-165�OVIT�ቺLv4
-166�OVIT�ቺLv5
-167�ODEX�ቺLv1
-168�ODEX�ቺLv2
-169�ODEX�ቺLv3
-170�ODEX�ቺLv4
-171�ODEX�ቺLv5
-172�OAGI�ቺLv1
-173�OAGI�ቺLv2
-174�OAGI�ቺLv3
-175�OAGI�ቺLv4
-176�OAGI�ቺLv5
-177�O-unknown-
-178�O-unknown-
-179�ODizziness
-180�O�m�b�N�o�b�N
-181�O�m�b�N�o�b�N
-182�O�m�b�N�o�b�N
-183�O�m�b�N�o�b�N
-184�O�m�b�N�o�b�N
-185�O�S���̖���DW
-186�O�S���̉��DW
-187�O�S���̍U����DW
-188�O�S���̖h���DW
-189�O����DW
-190�O���DW
-191�O�U����DW
-192�O�h���DW
-193�OHPMAXDW
-194�OSPMAXDW
-195�O������Lv1
-196�O������Lv2
-197�O������Lv3
-198�OPina �������_�E��Lv1
-199�OPina �������_�E��Lv2
-200�OPina �������_�E��Lv3
-201�OPina �������_�E��Lv4
-202�O��b�ҋ@���
-203�O��b��ԍ폜
-204�O�肢STR�_�E��
-205�O�肢VIT�_�E��
-206�O�肢DEX�_�E��
-207�O�肢AGI�_�E��
-208�OBoss ���j��_�U���̓_�E��
-209�OBoss ���j��_�h��̓_�E��
-210�OBoss ���j��_�����_�E��
-211�OBoss ���j��_����_�E��
-212�OBoss �r�j��_�U���̓_�E��
-213�OBoss �r�j��_�����_�E��
-214�OBoss ���j��_�����_�E��
-215�OBoss ���j��_����_�E��
-216�O�f�r������
-217�O�f�r������
-218�O�f�r������
-219�O�f�r������
-220�O�f�r������
-221�O�f�r������
-222�O����DW
-223�O���DW
-224�O�U����DW
-225�O�h���DW
-226�OHPMAXDW
-227�OSPMAXDW
-228�O����DW
-229�O���DW
-230�O�U����DW
-231�O�h���DW
-232�OHPMAXDW
-233�OSPMAXDW
-234�O���X�N�Œ�
-235�O���X�N���
-236�O���X�N���Z
-237�O���X�N���Z
-238�O���X�N����
-239�O���X�N����
-240�O����
-241�O����
-242�O����
-243�O����
-244�O����
-245�O��Lv1
-246�O��Lv2
-247�O��Lv3
-248�O��Lv4
-249�O��Lv5
-250�O���Lv1
-251�O���Lv2
-252�O���Lv3
-253�O���Lv3
-254�O���Lv3
-255�O�o��Lv1
-256�O�o��Lv2
-257�O�o��Lv3
-258�O�o��Lv4
-259�O�o��Lv5
-260�O�X�^��
-261�O�X�^��
-262�O�X�^��
-263�O�X�^��
-264�O�X�^��
-265�OHP�z��Lv1
-266�OHP�z��Lv2
-267�OHP�z��Lv3
-268�OHP�z��Lv4
-269�OHP�z��Lv5
-270�O[��]DEX�ቺ
-271�O[��]�U���Ԋu�ቺ
-272�O-unknown-
-273�O-unknown-
-274�O-unknown-
-275�O-unknown-
-276�O-unknown-
-277�O-unknown-
-278�O-unknown-
-279�O-unknown-
-280�O-unknown-
-281�O-unknown-
-282�O-unknown-
-283�OHP���W�F�lLv1
-284�OHP���W�F�lLv2
-285�OHP���W�F�lLv3
-286�OHP���W�F�lLv4
-287�OHP�S��
-288�OSP���W�F�lLv1
-289�OSP���W�F�lLv2
-290�OSP���W�F�lLv3
-291�OSP���W�F�lLv4
-292�OSP�S��
-293�O�Ԋu�Z�kLv1
-294�O�Ԋu�Z�kLv2
-295�O�Ԋu�Z�kLv3
-296�O�Ԋu�Z�kLv4
-297�O�Ԋu�Z�kLv5
-298�O�����ϐ�����Lv1
-299�O�a���ϐ�
-300�O�h�ˑϐ�
-301�O�Ō��ϐ�
-302�OHP����Lv1
-303�OHP����Lv2
-304�OSP����Lv1
-305�OSP����Lv2
-306�O����UP
-307�O���UP
-308�O�U����UP
-309�O�h���UP
-310�O������UP
-311�O�����UP
-312�O���U����UP
-313�O���h���UP
-314�O�����ቺ
-315�O���ቺ
-316�O�U���͒ቺ
-317�O�h��͒ቺ
-318�O�Ԋu����
-319�O�őϐ�UP
-320�O�őϐ�UP
-321�O��ბϐ�UP
-322�O��ბϐ�UP
-323�O�o���ϐ�UP
-324�O�o���ϐ�UP
-325�O�X�^���ϐ�UP
-326�O�X�^���ϐ�UP
-327�O�ړ��ϐ�UP
-328�O�ړ��ϐ�UP
-329�O�\�͑ϐ�UP
-330�O�\�͑ϐ�UP
-331�O���_�ϐ�UP
-332�O���_�ϐ�UP
-333�O���̑ϐ�UP
-334�O���̑ϐ�UP
-335�OSTR�㏸
-336�OSTR�㏸
-337�OVIT�㏸
-338�OVIT�㏸
-339�ODEX�㏸
-340�ODEX�㏸
-341�OAGI�㏸
-342�OAGI�㏸
-343�O�w�C�g����
-344�O�w�C�g����
-345�O�w�C�g����
-346�O�w�C�g����
-347�O�w�C�g����
-348�O�w�C�g�␳UP
-349�O�w�C�g�␳DW
-350�OHP�z��Lv1
-351�OHP�z��Lv2
-352�OD���ˏ��5%
-353�OD���ˏ��10%
-354�OD�u�Ԕ���50%
-355�OD�u�Ԕ���100%
-356�OD�z��(����)
-357�OD����(��)
-358�OD����(����)
-359�O�h�䖳��Lv1
-360�O�h�䖳��Lv2
-361�O�J�E���^�[Lv1
-362�O�J�E���^�[Lv2
-363�O�J�E���^�[Lv3
-364�O�_�u���A�^�b�N
-365�O�_�u���A�^�b�N
-366�OCRT�㏸Lv2
-367�OCRT�㏸Lv3
-368�OCRT�㏸Lv1
-369�O�w��CRT
-370�O�w��CRT
-371�O�r�o�{
-372�O�Z���ߒZ�kLv1
-373�O�Z���ߒZ�kLv2
-374�O�Z���ߒZ�kLv3
-375�O�Z�d���Z�kLv1
-376�O�Z�d���Z�kLv2
-377�O�Z�d���Z�kLv3
-378�O�Z���S����Lv1
-379�O�Z���S����Lv2
-380�O�����o���A
-381�O�������g
-382�O��Ԉُ핪�g
-383�O�u���X����
-384�O��Ԉُ�UP
-385�O�K���̌���
-386�O�ǌ��̑���
-387�O�r�o�U����UP
-388�O����r�o���Z
-389�O�r�o��150
-390�O�r�o��300
-391�O���X�N�Œ�
-392�O���X�N���
-393�O���X�N���Z
-394�O���X�N���Z
-395�O���X�N����
-396�O���X�N����
-397�OITEM���xUP
-398�O�ːi��
-399�O��荞��
-400�O�m�C����
-401�OCRT�㏸
-402�OSP��
-403�O�����o���A
-404�O�������g
-405�O��Ԉُ핪�g
-406�O�u���X����
-407�O�_�u���A�^�b�N
-408�OHP��
-409�OHP��
-410�OHP��
-411�OHP��
-412�OHP��
-413�O�U�����xUP
-414�OHP���W�F�l
-415�OSP���W�F�l
-416�O��Ԉُ����
-417�O�_���[�W����
-418�O�����㏸
-419�O����㏸
-420�O�U���͏㏸
-421�O�h��͏㏸
-422�O��Ԉُ��
-423�O��Ԉُ��
-424�O�ړ����x�㏸
-425�O��������
-426�O�L�͈͍��G
-427�O���o����
-428�O���o����
-429�O�h���b�v��Lv1
-430�O�h���b�v��Lv2
-431�OEXP����15%
-432�OEXP����25%
-433�OEXP����
-434�OCol����Lv1
-435�OCol����Lv2
-436�O�펞�F�Z��SA Lv1
-437�O�펞�F�Z��SA Lv2
-438�O�펞�F�Z��SA Lv3
-439�O�펞�F�Z��SA Lv4
-440�O�펞�F�Z��SA Lv5
-441�O�펞�F�Z��SA Lv6
-442�O�펞�F�Ў茕SA Lv1
-443�O�펞�F�Ў茕SA Lv2
-444�O�펞�F�Ў茕SA Lv3
-445�O�펞�F�Ў茕SA Lv4
-446�O�펞�F�Ў茕SA Lv5
-447�O�펞�F�Ў茕SA Lv6
-448�O�펞�F�ȓ�SA Lv1
-449�O�펞�F�ȓ�SA Lv2
-450�O�펞�F�ȓ�SA Lv3
-451�O�펞�F�ȓ�SA Lv4
-452�O�펞�F�ȓ�SA Lv5
-453�O�펞�F�ȓ�SA Lv6
-454�O�펞�F�׌�SA Lv1
-455�O�펞�F�׌�SA Lv2
-456�O�펞�F�׌�SA Lv3
-457�O�펞�F�׌�SA Lv4
-458�O�펞�F�׌�SA Lv5
-459�O�펞�F�׌�SA Lv6
-460�O�펞�F�񓁗�SA Lv1
-461�O�펞�F�񓁗�SA Lv2
-462�O�펞�F�񓁗�SA Lv3
-463�O�펞�F�񓁗�SA Lv4
-464�O�펞�F�񓁗�SA Lv5
-465�O�펞�F�񓁗�SA Lv6
-466�O�펞�F�Ў螞SA Lv1
-467�O�펞�F�Ў螞SA Lv2
-468�O�펞�F�Ў螞SA Lv3
-469�O�펞�F�Ў螞SA Lv4
-470�O�펞�F�Ў螞SA Lv5
-471�O�펞�F�Ў螞SA Lv6
-472�O�펞�F���蕀SA Lv1
-473�O�펞�F���蕀SA Lv2
-474�O�펞�F���蕀SA Lv3
-475�O�펞�F���蕀SA Lv4
-476�O�펞�F���蕀SA Lv5
-477�O�펞�F���蕀SA Lv6
-478�O�펞�F��SA Lv1
-479�O�펞�F��SA Lv2
-480�O�펞�F��SA Lv3
-481�O�펞�F��SA Lv4
-482�O�펞�F��SA Lv5
-483�O�펞�F��SA Lv6
-484�O�펞�F��SA Lv1
-485�O�펞�F��SA Lv2
-486�O�펞�F��SA Lv3
-487�O�펞�F��SA Lv4
-488�O�펞�F��SA Lv5
-489�O�펞�F��SA Lv6
-490�O�펞�F���茕SA Lv1
-491�O�펞�F���茕SA Lv2
-492�O�펞�F���茕SA Lv3
-493�O�펞�F���茕SA Lv4
-494�O�펞�F���茕SA Lv5
-495�O�펞�F���茕SA Lv6
-496�O�펞�FCRT��UP
-497�O�펞�F�o���lUP
-498�O�펞�F����UP
-499�O�펞�F�w�C�g�␳UP
-500�O�펞�F�h���UP
-501�O�펞�FHP���W�F�l
-502�O�펞�F�U���Ԋu�Z�k
-503�O�펞�F������UP
-504�O�펞�F���̑ϐ�UP
-505�O�펞�F���_�ϐ�UP
-506�O�펞�F�J�E���^�[
-507�O�펞�F������UP
-508�O�펞�F�w�C�g�␳DW
-509�O�펞�FMAXHP�㏸
-510�O�펞�F�U����UP
-511�O�펞�F�h���DW
-512�O�펞�FSTR�㏸
-513�O�펞�FDEX�㏸
-514�O�펞�FAGI�㏸
-515�O�펞�FVIT�㏸
-516�O�펞�F�U����UP
-517�O�펞�F�h���DW
-518�O�펞�F�a���ϐ�
-519�O�펞�F�h�ˑϐ�
-520�O�펞�F�Ō��ϐ�
-521�O�펞�FCRT�h��
-522�O�펞�F�Z���xUP
-523�O�펞�F�U����UP
-524�O�펞�FSP���W�F�l
-525�OPina �U����UP Lv1
-526�OPina �U����UP Lv2
-527�OPina �U����UP Lv3
-528�OPina �h���UP Lv1
-529�OPina �h���UP Lv2
-530�OPina �h���UP Lv3
-531�OPina �U�����xUP Lv1
-532�OPina �U�����xUP Lv2
-533�OPina �U�����xUP Lv3
-534�O-unknown-
-535�O-unknown-
-536�O�肢CRT��UP
-537�O�肢�h���b�v��UP
-538�O�肢Col����
-539�O�肢EXP����
-540�O�f���G���V���E�g
-541�ODel_Poison_1
-542�ODel_Poison_2
-543�ODel_Poison_3
-544�ODel_Poison_4
-545�ODel_Poison_5
-546�ODel_Bleed_1
-547�ODel_Bleed_2
-548�ODel_Bleed_3
-549�ODel_Bleed_4
-550�ODel_Bleed_5
-551�ODel_Paralyze_1
-552�ODel_Paralyze_2
-553�ODel_Paralyze_3
-554�ODel_Paralyze_4
-555�ODel_Paralyze_5
-556�ODel_Blind_1
-557�ODel_Blind_2
-558�ODel_Blind_3
-559�ODel_Blind_4
-560�ODel_Blind_5
-561�ODel_BodyBreak
-562�ODel_ArmBreak
-563�ODel_LegBreak
-564�ODel_Sleep
-565�ODel_Stop_1
-566�ODel_Stop_2
-567�ODel_Stop_3
-568�ODel_Stop_4
-569�ODel_Stop_5
-570�ODel_Curse_1
-571�ODel_Curse_2
-572�ODel_Curse_3
-573�ODel_Curse_4
-574�ODel_Curse_5
-575�ODel_Seal_1
-576�ODel_Seal_2
-577�ODel_Seal_3
-578�ODel_Seal_4
-579�ODel_Seal_5
-580�ODel_SPSlip_1
-581�ODel_SPSlip_2
-582�ODel_SPSlip_3
-583�ODel_SPSlip_4
-584�ODel_SPSlip_5
-585�ODel_SP_1
-586�ODel_SP_2
-587�ODel_SP_3
-588�ODel_All
-589�ODel_Poison_All
-590�ODel_Paralyze_All
-591�O�U���̓A�b�v
-592�O�V�g����
-593�O�e������
-594�OParryingSP
-595�OParryingKnock
-596�O���W�F�l
-597�OTeleporter
-598�OPina_Hp_Up_1
-599�OPina_Hp_Up_2
-600�OPina_Hp_Up_3
-601�OPina_Hp_Up_4
-602�OPina_Sp_Up_1
-603�OPina_Sp_Up_2
-604�OPina_Sp_Up_3
-605�OPina_KnockBack
-606�OHP���W�F�l
-607�OHP���W�F�l
-608�OHP���W�F�l
-609�OHP��
-610�OHP��
-611�OHP��
-612�OSP���W�F�l
-613�OSP���W�F�l
-614�OSP���W�F�l
-615�OHP��
-616�OHP��
-617�OHP��
-618�OSP��
-619�OSP��
-620�OSP��
-621�O�f�o�b�O�悤HP�ւ炵
-622�O�_���[�W�u���b�N
-623�O����}�q
-624�O�e�X�g�悤�ǂ�
-625�O�e�X�g�o�g���ǂ�
-626�O�e�X�g�o�g���ǂ�����
-627�O�N���e�B�J���o�C�g
-628�O�p���[�G���t�H�[�T�[
-629�OCrimson_Poison_TR?
-630�OCrimson_Poison_EF?
-631�OLB_STR
-632�OLB_SATKSPD
-633�ODel_Poison_C
-634�O�A�{�C�f���X�X�L��
-635�O�G�O�U�N�g�I���X���[�g
-636�O�u���C�W���O�E�F�|��
-637�O�}�[�V�i���[�f�r��
+1＾スタン
+2＾スタン
+3＾スタン
+4＾胴部欠損
+5＾腕部欠損
+6＾脚部欠損
+7＾移動不可Lv1
+8＾移動不可Lv2
+9＾鈍足Lv1
+10＾鈍足Lv2
+11＾スキル封印Lv1
+12＾スキル封印Lv2
+13＾命中DW Lv1
+14＾回避DW Lv1
+15＾攻撃力DW Lv1
+16＾防御力DW Lv1
+17＾HPMAXDW Lv1
+18＾SPMAXDW Lv1
+19＾命中DW Lv2
+20＾回避DW Lv2
+21＾攻撃力DW Lv2
+22＾防御力DW Lv2
+23＾HPMAXDW Lv2
+24＾SPMAXDW Lv2
+25＾目くらまし
+26＾リスク増加
+27＾リスク固定
+28＾麻痺Lv1
+29＾麻痺Lv2
+30＾麻痺Lv3
+31＾出血Lv1
+32＾出血Lv2
+33＾出血Lv3
+34＾出血Lv4
+35＾出血Lv5
+36＾毒Lv1
+37＾毒Lv2
+38＾毒Lv3
+39＾毒Lv4
+40＾毒Lv5
+41＾SP消耗Lv1
+42＾SP消耗Lv2
+43＾SP消耗Lv3
+44＾暗闇 Lv1
+45＾暗闇 Lv2
+46＾暗闇 Lv3
+47＾暗闇 Lv4
+48＾暗闇 Lv5
+49＾攻撃速度DW
+50＾攻撃速度DW
+51＾攻撃速度DW
+52＾攻撃速度DW
+53＾攻撃速度DW
+54＾呪い
+55＾呪い
+56＾呪い
+57＾呪い
+58＾重量ペナルティ
+59＾STR低下Lv1
+60＾STR低下Lv2
+61＾STR低下Lv3
+62＾STR低下Lv4
+63＾STR低下Lv5
+64＾VIT低下Lv1
+65＾VIT低下Lv2
+66＾VIT低下Lv3
+67＾VIT低下Lv4
+68＾VIT低下Lv5
+69＾AGI低下Lv1
+70＾AGI低下Lv2
+71＾AGI低下Lv3
+72＾AGI低下Lv4
+73＾AGI低下Lv5
+74＾DEX低下Lv1
+75＾DEX低下Lv2
+76＾DEX低下Lv3
+77＾回避DW
+78＾攻撃速度DW
+79＾バッシュ
+80＾特殊状態Lv1
+81＾特殊状態Lv2
+82＾特殊状態Lv3
+83＾Pina 命中率ダウンLv1
+84＾Pina 命中率ダウンLv2
+85＾Pina 命中率ダウンLv3
+86＾Pina 命中率ダウンLv4
+87＾スタン
+88＾スタン
+89＾スタン
+90＾スタン
+91＾スタン
+92＾胴部欠損
+93＾胴部欠損
+94＾腕部欠損
+95＾腕部欠損
+96＾脚部欠損
+97＾移動不可
+98＾移動不可
+99＾移動不可
+100＾移動不可
+101＾移動不可
+102＾鈍足
+103＾鈍足
+104＾鈍足
+105＾鈍足
+106＾鈍足
+107＾鈍足
+108＾鈍足
+109＾鈍足
+110＾鈍足
+111＾鈍足
+112＾封印
+113＾封印
+114＾封印
+115＾封印
+116＾封印
+117＾麻痺Lv1
+118＾麻痺Lv2
+119＾麻痺Lv3
+120＾麻痺Lv4
+121＾麻痺Lv5
+122＾出血Lv1
+123＾出血Lv2
+124＾出血Lv3
+125＾出血Lv4
+126＾出血Lv5
+127＾毒Lv1
+128＾毒Lv2
+129＾毒Lv3
+130＾毒Lv4
+131＾毒Lv5
+132＾SP消耗Lv1
+133＾SP消耗Lv2
+134＾SP消耗Lv3
+135＾SP消耗Lv4
+136＾SP消耗Lv5
+137＾暗闇 Lv1
+138＾暗闇 Lv2
+139＾暗闇 Lv3
+140＾暗闇 Lv4
+141＾暗闇 Lv5
+142＾攻撃速度DW
+143＾攻撃速度DW
+144＾攻撃速度DW
+145＾攻撃速度DW
+146＾攻撃速度DW
+147＾呪い
+148＾呪い
+149＾呪い
+150＾呪い
+151＾呪い
+152＾呪い
+153＾呪い
+154＾呪い
+155＾呪い
+156＾呪い
+157＾STR低下Lv1
+158＾STR低下Lv2
+159＾STR低下Lv3
+160＾STR低下Lv4
+161＾STR低下Lv5
+162＾VIT低下Lv1
+163＾VIT低下Lv2
+164＾VIT低下Lv3
+165＾VIT低下Lv4
+166＾VIT低下Lv5
+167＾DEX低下Lv1
+168＾DEX低下Lv2
+169＾DEX低下Lv3
+170＾DEX低下Lv4
+171＾DEX低下Lv5
+172＾AGI低下Lv1
+173＾AGI低下Lv2
+174＾AGI低下Lv3
+175＾AGI低下Lv4
+176＾AGI低下Lv5
+177＾-unknown-
+178＾-unknown-
+179＾Dizziness
+180＾ノックバック
+181＾ノックバック
+182＾ノックバック
+183＾ノックバック
+184＾ノックバック
+185＾全員の命中DW
+186＾全員の回避DW
+187＾全員の攻撃力DW
+188＾全員の防御力DW
+189＾命中DW
+190＾回避DW
+191＾攻撃力DW
+192＾防御力DW
+193＾HPMAXDW
+194＾SPMAXDW
+195＾特殊状態Lv1
+196＾特殊状態Lv2
+197＾特殊状態Lv3
+198＾Pina 命中率ダウンLv1
+199＾Pina 命中率ダウンLv2
+200＾Pina 命中率ダウンLv3
+201＾Pina 命中率ダウンLv4
+202＾会話待機状態
+203＾会話状態削除
+204＾占いSTRダウン
+205＾占いVITダウン
+206＾占いDEXダウン
+207＾占いAGIダウン
+208＾Boss 胴破壊_攻撃力ダウン
+209＾Boss 胴破壊_防御力ダウン
+210＾Boss 胴破壊_命中ダウン
+211＾Boss 胴破壊_回避ダウン
+212＾Boss 腕破壊_攻撃力ダウン
+213＾Boss 腕破壊_命中ダウン
+214＾Boss 足破壊_命中ダウン
+215＾Boss 足破壊_回避ダウン
+216＾デビル効果
+217＾デビル効果
+218＾デビル効果
+219＾デビル効果
+220＾デビル効果
+221＾デビル効果
+222＾命中DW
+223＾回避DW
+224＾攻撃力DW
+225＾防御力DW
+226＾HPMAXDW
+227＾SPMAXDW
+228＾命中DW
+229＾回避DW
+230＾攻撃力DW
+231＾防御力DW
+232＾HPMAXDW
+233＾SPMAXDW
+234＾リスク固定
+235＾リスク上限
+236＾リスク加算
+237＾リスク加算
+238＾リスク減少
+239＾リスク減少
+240＾封印
+241＾封印
+242＾封印
+243＾封印
+244＾封印
+245＾毒Lv1
+246＾毒Lv2
+247＾毒Lv3
+248＾毒Lv4
+249＾毒Lv5
+250＾麻痺Lv1
+251＾麻痺Lv2
+252＾麻痺Lv3
+253＾麻痺Lv3
+254＾麻痺Lv3
+255＾出血Lv1
+256＾出血Lv2
+257＾出血Lv3
+258＾出血Lv4
+259＾出血Lv5
+260＾スタン
+261＾スタン
+262＾スタン
+263＾スタン
+264＾スタン
+265＾HP吸収Lv1
+266＾HP吸収Lv2
+267＾HP吸収Lv3
+268＾HP吸収Lv4
+269＾HP吸収Lv5
+270＾[盾]DEX低下
+271＾[盾]攻撃間隔低下
+272＾-unknown-
+273＾-unknown-
+274＾-unknown-
+275＾-unknown-
+276＾-unknown-
+277＾-unknown-
+278＾-unknown-
+279＾-unknown-
+280＾-unknown-
+281＾-unknown-
+282＾-unknown-
+283＾HPリジェネLv1
+284＾HPリジェネLv2
+285＾HPリジェネLv3
+286＾HPリジェネLv4
+287＾HP全快
+288＾SPリジェネLv1
+289＾SPリジェネLv2
+290＾SPリジェネLv3
+291＾SPリジェネLv4
+292＾SP全快
+293＾間隔短縮Lv1
+294＾間隔短縮Lv2
+295＾間隔短縮Lv3
+296＾間隔短縮Lv4
+297＾間隔短縮Lv5
+298＾物理耐性強化Lv1
+299＾斬撃耐性
+300＾刺突耐性
+301＾打撃耐性
+302＾HP増加Lv1
+303＾HP増加Lv2
+304＾SP増加Lv1
+305＾SP増加Lv2
+306＾命中UP
+307＾回避UP
+308＾攻撃力UP
+309＾防御力UP
+310＾強命中UP
+311＾強回避UP
+312＾強攻撃力UP
+313＾強防御力UP
+314＾命中低下
+315＾回避低下
+316＾攻撃力低下
+317＾防御力低下
+318＾間隔増加
+319＾毒耐性UP
+320＾毒耐性UP
+321＾麻痺耐性UP
+322＾麻痺耐性UP
+323＾出血耐性UP
+324＾出血耐性UP
+325＾スタン耐性UP
+326＾スタン耐性UP
+327＾移動耐性UP
+328＾移動耐性UP
+329＾能力耐性UP
+330＾能力耐性UP
+331＾精神耐性UP
+332＾精神耐性UP
+333＾肉体耐性UP
+334＾肉体耐性UP
+335＾STR上昇
+336＾STR上昇
+337＾VIT上昇
+338＾VIT上昇
+339＾DEX上昇
+340＾DEX上昇
+341＾AGI上昇
+342＾AGI上昇
+343＾ヘイト増加
+344＾ヘイト増加
+345＾ヘイト減少
+346＾ヘイト減少
+347＾ヘイト交換
+348＾ヘイト補正UP
+349＾ヘイト補正DW
+350＾HP吸収Lv1
+351＾HP吸収Lv2
+352＾D反射状態5%
+353＾D反射状態10%
+354＾D瞬間反射50%
+355＾D瞬間反射100%
+356＾D吸収(時間)
+357＾D無効(回数)
+358＾D無効(時間)
+359＾防御無視Lv1
+360＾防御無視Lv2
+361＾カウンターLv1
+362＾カウンターLv2
+363＾カウンターLv3
+364＾ダブルアタック
+365＾ダブルアタック
+366＾CRT上昇Lv2
+367＾CRT上昇Lv3
+368＾CRT上昇Lv1
+369＾背面CRT
+370＾背面CRT
+371＾ＳＰ＋
+372＾技溜め短縮Lv1
+373＾技溜め短縮Lv2
+374＾技溜め短縮Lv3
+375＾技硬直短縮Lv1
+376＾技硬直短縮Lv2
+377＾技硬直短縮Lv3
+378＾技完全発動Lv1
+379＾技完全発動Lv2
+380＾物理バリア
+381＾物理分身
+382＾状態異常分身
+383＾ブレス無効
+384＾状態異常UP
+385＾必中の効果
+386＾追撃の増加
+387＾ＳＰ攻撃力UP
+388＾回避ＳＰ加算
+389＾ＳＰ回復150
+390＾ＳＰ回復300
+391＾リスク固定
+392＾リスク上限
+393＾リスク加算
+394＾リスク加算
+395＾リスク減少
+396＾リスク減少
+397＾ITEM速度UP
+398＾突進力
+399＾回り込み
+400＾士気向上
+401＾CRT上昇
+402＾SP回復
+403＾物理バリア
+404＾物理分身
+405＾状態異常分身
+406＾ブレス無効
+407＾ダブルアタック
+408＾HP回復
+409＾HP回復
+410＾HP回復
+411＾HP回復
+412＾HP回復
+413＾攻撃速度UP
+414＾HPリジェネ
+415＾SPリジェネ
+416＾状態異常解除
+417＾ダメージ無効
+418＾命中上昇
+419＾回避上昇
+420＾攻撃力上昇
+421＾防御力上昇
+422＾状態異常回復
+423＾状態異常回復
+424＾移動速度上昇
+425＾強さ判別
+426＾広範囲索敵
+427＾視覚無効
+428＾聴覚無効
+429＾ドロップ率Lv1
+430＾ドロップ率Lv2
+431＾EXP増加15%
+432＾EXP増加25%
+433＾EXP献上
+434＾Col増加Lv1
+435＾Col増加Lv2
+436＾常時：短剣SA Lv1
+437＾常時：短剣SA Lv2
+438＾常時：短剣SA Lv3
+439＾常時：短剣SA Lv4
+440＾常時：短剣SA Lv5
+441＾常時：短剣SA Lv6
+442＾常時：片手剣SA Lv1
+443＾常時：片手剣SA Lv2
+444＾常時：片手剣SA Lv3
+445＾常時：片手剣SA Lv4
+446＾常時：片手剣SA Lv5
+447＾常時：片手剣SA Lv6
+448＾常時：曲刀SA Lv1
+449＾常時：曲刀SA Lv2
+450＾常時：曲刀SA Lv3
+451＾常時：曲刀SA Lv4
+452＾常時：曲刀SA Lv5
+453＾常時：曲刀SA Lv6
+454＾常時：細剣SA Lv1
+455＾常時：細剣SA Lv2
+456＾常時：細剣SA Lv3
+457＾常時：細剣SA Lv4
+458＾常時：細剣SA Lv5
+459＾常時：細剣SA Lv6
+460＾常時：二刀流SA Lv1
+461＾常時：二刀流SA Lv2
+462＾常時：二刀流SA Lv3
+463＾常時：二刀流SA Lv4
+464＾常時：二刀流SA Lv5
+465＾常時：二刀流SA Lv6
+466＾常時：片手棍SA Lv1
+467＾常時：片手棍SA Lv2
+468＾常時：片手棍SA Lv3
+469＾常時：片手棍SA Lv4
+470＾常時：片手棍SA Lv5
+471＾常時：片手棍SA Lv6
+472＾常時：両手斧SA Lv1
+473＾常時：両手斧SA Lv2
+474＾常時：両手斧SA Lv3
+475＾常時：両手斧SA Lv4
+476＾常時：両手斧SA Lv5
+477＾常時：両手斧SA Lv6
+478＾常時：槍SA Lv1
+479＾常時：槍SA Lv2
+480＾常時：槍SA Lv3
+481＾常時：槍SA Lv4
+482＾常時：槍SA Lv5
+483＾常時：槍SA Lv6
+484＾常時：刀SA Lv1
+485＾常時：刀SA Lv2
+486＾常時：刀SA Lv3
+487＾常時：刀SA Lv4
+488＾常時：刀SA Lv5
+489＾常時：刀SA Lv6
+490＾常時：両手剣SA Lv1
+491＾常時：両手剣SA Lv2
+492＾常時：両手剣SA Lv3
+493＾常時：両手剣SA Lv4
+494＾常時：両手剣SA Lv5
+495＾常時：両手剣SA Lv6
+496＾常時：CRT率UP
+497＾常時：経験値UP
+498＾常時：回避力UP
+499＾常時：ヘイト補正UP
+500＾常時：防御力UP
+501＾常時：HPリジェネ
+502＾常時：攻撃間隔短縮
+503＾常時：命中力UP
+504＾常時：肉体耐性UP
+505＾常時：精神耐性UP
+506＾常時：カウンター
+507＾常時：命中力UP
+508＾常時：ヘイト補正DW
+509＾常時：MAXHP上昇
+510＾常時：攻撃力UP
+511＾常時：防御力DW
+512＾常時：STR上昇
+513＾常時：DEX上昇
+514＾常時：AGI上昇
+515＾常時：VIT上昇
+516＾常時：攻撃回数UP
+517＾常時：防御力DW
+518＾常時：斬撃耐性
+519＾常時：刺突耐性
+520＾常時：打撃耐性
+521＾常時：CRT防御
+522＾常時：技速度UP
+523＾常時：攻撃力UP
+524＾常時：SPリジェネ
+525＾Pina 攻撃力UP Lv1
+526＾Pina 攻撃力UP Lv2
+527＾Pina 攻撃力UP Lv3
+528＾Pina 防御力UP Lv1
+529＾Pina 防御力UP Lv2
+530＾Pina 防御力UP Lv3
+531＾Pina 攻撃速度UP Lv1
+532＾Pina 攻撃速度UP Lv2
+533＾Pina 攻撃速度UP Lv3
+534＾-unknown-
+535＾-unknown-
+536＾占いCRT率UP
+537＾占いドロップ率UP
+538＾占いCol増加
+539＾占いEXP増加
+540＾デュエルシャウト
+541＾Del_Poison_1
+542＾Del_Poison_2
+543＾Del_Poison_3
+544＾Del_Poison_4
+545＾Del_Poison_5
+546＾Del_Bleed_1
+547＾Del_Bleed_2
+548＾Del_Bleed_3
+549＾Del_Bleed_4
+550＾Del_Bleed_5
+551＾Del_Paralyze_1
+552＾Del_Paralyze_2
+553＾Del_Paralyze_3
+554＾Del_Paralyze_4
+555＾Del_Paralyze_5
+556＾Del_Blind_1
+557＾Del_Blind_2
+558＾Del_Blind_3
+559＾Del_Blind_4
+560＾Del_Blind_5
+561＾Del_BodyBreak
+562＾Del_ArmBreak
+563＾Del_LegBreak
+564＾Del_Sleep
+565＾Del_Stop_1
+566＾Del_Stop_2
+567＾Del_Stop_3
+568＾Del_Stop_4
+569＾Del_Stop_5
+570＾Del_Curse_1
+571＾Del_Curse_2
+572＾Del_Curse_3
+573＾Del_Curse_4
+574＾Del_Curse_5
+575＾Del_Seal_1
+576＾Del_Seal_2
+577＾Del_Seal_3
+578＾Del_Seal_4
+579＾Del_Seal_5
+580＾Del_SPSlip_1
+581＾Del_SPSlip_2
+582＾Del_SPSlip_3
+583＾Del_SPSlip_4
+584＾Del_SPSlip_5
+585＾Del_SP_1
+586＾Del_SP_2
+587＾Del_SP_3
+588＾Del_All
+589＾Del_Poison_All
+590＾Del_Paralyze_All
+591＾攻撃力アップ
+592＾昂揚効果
+593＾弾き効果
+594＾ParryingSP
+595＾ParryingKnock
+596＾リジェネ
+597＾Teleporter
+598＾Pina_Hp_Up_1
+599＾Pina_Hp_Up_2
+600＾Pina_Hp_Up_3
+601＾Pina_Hp_Up_4
+602＾Pina_Sp_Up_1
+603＾Pina_Sp_Up_2
+604＾Pina_Sp_Up_3
+605＾Pina_KnockBack
+606＾HPリジェネ
+607＾HPリジェネ
+608＾HPリジェネ
+609＾HP回復
+610＾HP回復
+611＾HP回復
+612＾SPリジェネ
+613＾SPリジェネ
+614＾SPリジェネ
+615＾HP回復
+616＾HP回復
+617＾HP回復
+618＾SP回復
+619＾SP回復
+620＾SP回復
+621＾デバッグようHPへらし
+622＾ダメージブロック
+623＾かりマヒ
+624＾テストようどく
+625＾テストバトルどく
+626＾テストバトルどくけし
+627＾クリティカルバイト
+628＾パワーエンフォーサー
+629＾Crimson_Poison_TR?
+630＾Crimson_Poison_EF?
+631＾LB_STR
+632＾LB_SATKSPD
+633＾Del_Poison_C
+634＾アボイデンススキル
+635＾エグザクトオンスロート
+636＾ブレイジングウェポン
+637＾マーシナリーデビル

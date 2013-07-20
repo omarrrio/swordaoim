@@ -1,348 +1,348 @@
-1OKirito
-2OAsuna
-3OSilica
-4OLisbeth
-5OLeafa
-6OShinon
-7OYui
-8OStrea
-9OKlein
-10OAgil
-11OHeathcliff
-12OAlberich
-13OPina
-14OMHCP Type 003
-15OMHCP Type 004
-16OMHCP Type 005
-17OMHCP Type 006
-18OMHCP Type 007
-19OMHCP Type 008
-20OMHCP Type 009
-21OAaron
-22OBrahams
-23OElena
-24OAlan
-25OKyle
-26OBob
-27ORodger
-28OSchneider
-29OArnold
-30ODante
-31OGlen
-32OElbert
-33OMiles
-34OTetsu
-35ORion
-36OShigure
-37OTheodor
-38OLeo
-39ORyouma
-40OSpencer
-41OAlbin
-42OWalt
-43OGreg
-44OCarmine
-45OSeeklight
-46OFrost
-47OGuy
-48ORaul
-49OTakuto
-50OErnesto
-51OJoseph
-52OBrant
-53OOguri
-54OAsmo
-55OKnightley
-56OGalileo
-57OBrad
-58OReinhard
-59OAlex
-60OLinus
-61OMasao
-62OLevin
-63OMusashi
-64ORalph
-65OClaude
-66OKlaus
-67OToni
-68OHonza
-69OMax
-70OClark
-71OOswald
-72OErik
-73OCarlo
-74OSimon
-75ORufus
-76OArima
-77OEast
-78OAlgernon
-79OSai
-80OArts
-81OKuro
-82OShinya
-83OHector
-84OCloud
-85OKamui
-86OAriel
-87OCamila
-88OMaria
-89OLisa
-90OLiliana
-91OMarina
-92OSofia
-93OAlice
-94OMogra
-95OMay
-96OCeba
-97OKilala
-98OCocoa
-99OMint
-100OAloe
-101OCordelia
-102OFlora
-103OKaren
-104OHashish
-105ONazuna
-106ONaomi
-107OChloe
-108ONicole
-109ORuby
-110OTina
-111OKanon
-112OMina
-113OMore
-114OCornelia
-115OEve
-116OIris
-117OFrancisca
-118OHinata
-119OYuno
-120OYuzuha
-121ONPC Kirby
-122ONPC Percy
-123ONPC Rooney
-124ONPC Amy
-125ONPC Muscari
-126ONPC Cameron
-127ONPC Cecily
-128ONPC Aguero
-129ONPC Ibra
-130ONPC Milito
-131ONPC Natale
-132ONPC Lillian
-133ONPC Messi
-134ONPC Ronaldo
-135ONPC Falcao
-136ONPC Sherry
-137ONPC Beatrice
-138ONPC Helen
-139ONPC Robin
-140OLampard
-141ONPC Yurlic
-142ONPC Elliott
-143ONPC Rob
-144ONPC Harold
-145OKada
-146ONPC Nemo
-147ONPC Dain
-148ONPC Kiryu
-149OKoB Team Member A
-150OCampbell
-151OFl-76 Watch
-152OFl-76 Watch Cpt.
-153OBrunette Girl
-154O”­–¾D‚«‚Ì•Ší‰®ål
-155OFl-77 Watch
-156OW‹q‚É”Y‚Ş¤“XŠX‘ã•\
-157O–²Œ©‚éƒpƒeƒBƒVƒG[ƒ‹
-158OFl-78 Watch
-159OŞ—¿‚ª‘«‚è‚È‚¢‘åH
-160O•Ï‚í‚èÒ‚Ì’¤‰Æ
-161OFl-79 Watch
-162O“Æ—§ŠJ‹Æ‚µ‚½—¿—l
-163O‹‹ê‚µ‚¢ƒvƒƒ‚[ƒ^[
-164O”ü‚µ‚³‚ğ‹‚ß‚éƒ}ƒ_ƒ€
-165O’•¶‚ª‘½‚¢“¹‹ï‰®ål
-166OFl-81 Watch
-167O‚³‚·‚ç‚¢‚ÌƒRƒŒƒNƒ^[
-168O‰s‚¢ŠáŒõ‚Ì•óÎ¤
-169OƒSƒuƒŠƒ“ˆ¤D‰Æ
-170O¢‚è‰Ê‚Ä‚½’j
-171OF”’‚Ì•Ší‰®‚Ìål
-172O‰·òh‚Ìål
-173OŠæŒÅ‚È–h‹ï‰®‚Ìål
-174Og‚È‚è‚Ì—Ç‚¢˜Vam
-175O•‚¢ƒ}ƒ“ƒg‚Ì’j
-176O•s–°Ç‚É”Y‚ŞÂ”N
-177O‰»Ï•i‚É–Ú‚ª‚È‚¢—«
-178OFl-86 Watch
-179OƒAƒNƒZƒTƒŠ[‰®‚Ì“Xˆõ
-180O”N”z‚Ì“’b–è
-181Oº‚ª‘å‚«‚¢•óÎ¤
-182OƒqƒQ‚ğ’~‚¦‚½‰Æ‹ï“Xå
-183OFl-88 Watch
-184O¬•¨ƒVƒ‡ƒbƒv“Xˆõ
-185O˜r‚Ì—§‚Â–h‹ï‰®—ål
-186O¶‚Ì“ƒ‚ÌŠÇ—l
-187O‰E‚Ì“ƒ‚ÌŠÇ—l
-188OŠ†•‚Ì—Ç‚¢“Xå
-189O“S“ç‚Ì—¿—l
-190O”hè‚È–Ñ”ç‚ğ’…‚½“Xå
-191O’•¶‚É¢‚é’b–è‰®
-192O—³‚É“²‚ê‚é­”N
-193O‚Ü‚é‚Á‚Æ”ì‚¦‚½”üH‰Æ
-194OFl-94 Watch
-195OFl-94 Watch Cpt.
-196OŒÜ‚Â¯ƒpƒeƒBƒVƒG
-197OFl-95 Watch
-198O‚ ‚Ì“ú‚ğ‰ù‚©‚µ‚Ş—«
-199OFl-96 Watch Cpt.
-200OˆâÕ’²¸‘à
-201Oƒxƒeƒ‰ƒ“‚Ì–h‹ïEl
-202OFl-97 Watch
-203OFl-97 Watch Cpt.
-204O“ª‚ÌØ‚ê‚é•óÎ¤
-205O‹ß‰q•º’·
-206OClient 061
-207OClient 062
-208OClient 063
-209OClient 064
-210OClient 065
-211OClient 066
-212OClient 067
-213OClient 068
-214OClient 069
-215OClient 070
-216OClient 071
-217OClient 072
-218OClient 073
-219OClient 074
-220OClient 075
-221OClient 076
-222OFrenzy Boar
-223OMaster Boar
-224OWild Rush
-225OGryphon
-226OBlack Gryphon
-227OSeiren
-228OHarpy
-229ODull Slime
-230OPaladin Lizardman
-231OElder Lizardman
-232OLizardman Monarch
-233OBishop Lizardman
-234OOrc Warrior
-235OOrc General
-236OGoblin Swordman
-237OGoblin Archer
-238OGoblin Saman
-239OGoblin King
-240OWisdom Trento
-241OTree Fork
-242OFanatic Fungi
-243OPoison Mush
-244OMandrake
-245OVenom Flower
-246OScorpion
-247OPoison Needle
-248ONeo Scorpion
-249ONM "Roughneck Of Forest"
-250ODeath Hornet
-251OQueen Hornet
-252ORaging Bee
-253ORed Hornet
-254OBlack Hornet
-255OBlue Comet
-256OAnt Worker
-257OAnt Soldier
-258OBOSS "The Queen Of Ant"
-259ONM "Ant Princess"
-260OMad Tarantula
-261OSpinning Wheel
-262OSack Mite
-263OGiant Spider
-264ONM "Crimson Spinner"
-265OAntlion
-266OAntlion Destroy
-267OFresh Crab
-268OPoison Crab
-269ONM "Strong Scissore"
-270OSkeleton Pawn
-271OSkeleton Knight
-272OSkeleton Bishop
-273OPhantom
-274OSton Golem
-275OBloody Ghost
-276OIron Golem
-277ORune Knight
-278OBlack Knight
-279OWhite Knight
-280ODullahan
-281OBloody Knight
-282OBlue Slime
-283OGreen Slime
-284OYellow Slime
-285ORed Slime
-286OSilver Slime
-287ONM "Fat Slime"
-288OFake Door
-289OMimic
-290OArch Demon
-291OShadow Demon
-292OGargoyle
-293ODragon
-294ONM "Flare Dragon"
-295ODragon Zombie
-296OBOSS "The Kaiser Dragon"
-297OWyvern
-298ONM "Sylvern"
-299OBOSS "The Horn Of Madness"
-300OBOSS "The Horn Of Furious"
-301OBOSS "The Rebellious Eyes"
-302OBOSS "The Genocide Eyes"
-303OBOSS "The Ghastlygaze"
-304OBOSS "The Absolute Gazer"
-305OBOSS "The Murderer Fang"
-306OBOSS "The Slaughter Fang"
-307OBOSS "The Ruler Of Blade"
-308OBOSS "The Ruler Of Deities"
-309OBOSS "The Tempest Of Trihead"
-310OBOSS "The Maelstrom Of Trihead"
-311OBOSS "The Radiance Eater"
-312OBOSS "The Knight Of Darkness"
-313OBOSS "The Knight Of Blazing"
-314OBOSS "The King Of Skeleton"
-315OBOSS "The Emperor Of Death"
-316OBOSS "The Legacy Of Grand"
-317OBOSS "The Lava Creeper"
-318OBOSS "The Crystalize Claw"
-319OBOSS "The Guilty Scythe"
-320OBOSS "The Chaos Dragon"
-321OBOSS "The Hollow Avatar"
-322OBOSS "The Hollow Strea"
-323OTarget "arm"
-324OTarget "leg"
-325OTarget "evil eye"
-326OTarget "tentacle"
-327OTarget "neck"
-328OTarget "forlegs"
-329OTarget "weapon"
-330OTarget "core"
-331OTarget "right neck"
-332OTarget "left neck"
-333OTarget "mouth"
-334OTarget "accessory"
-335OTarget "eye"
-336OTarget "tail"
-337OMinimum Tarantula
-338OMurder Antlion
-339OFather Crab
-340OLost Soldier
-341OCursed Medic
-342ONM "Surpriser"
-343ONM "Inferno Dragon"
-344OBOSS "The Ruler Of Ultimate"
-345ONM "Cerulion"
-346OBOSS "The Fatal Reaper"
-347ONM "Crescent Wing"
-348OBloody Slime
+1ï¼¾Kirito
+2ï¼¾Asuna
+3ï¼¾Silica
+4ï¼¾Lisbeth
+5ï¼¾Leafa
+6ï¼¾Shinon
+7ï¼¾Yui
+8ï¼¾Strea
+9ï¼¾Klein
+10ï¼¾Agil
+11ï¼¾Heathcliff
+12ï¼¾Alberich
+13ï¼¾Pina
+14ï¼¾MHCP Type 003
+15ï¼¾MHCP Type 004
+16ï¼¾MHCP Type 005
+17ï¼¾MHCP Type 006
+18ï¼¾MHCP Type 007
+19ï¼¾MHCP Type 008
+20ï¼¾MHCP Type 009
+21ï¼¾Aaron
+22ï¼¾Brahams
+23ï¼¾Elena
+24ï¼¾Alan
+25ï¼¾Kyle
+26ï¼¾Bob
+27ï¼¾Rodger
+28ï¼¾Schneider
+29ï¼¾Arnold
+30ï¼¾Dante
+31ï¼¾Glen
+32ï¼¾Elbert
+33ï¼¾Miles
+34ï¼¾Tetsu
+35ï¼¾Rion
+36ï¼¾Shigure
+37ï¼¾Theodor
+38ï¼¾Leo
+39ï¼¾Ryouma
+40ï¼¾Spencer
+41ï¼¾Albin
+42ï¼¾Walt
+43ï¼¾Greg
+44ï¼¾Carmine
+45ï¼¾Seeklight
+46ï¼¾Frost
+47ï¼¾Guy
+48ï¼¾Raul
+49ï¼¾Takuto
+50ï¼¾Ernesto
+51ï¼¾Joseph
+52ï¼¾Brant
+53ï¼¾Oguri
+54ï¼¾Asmo
+55ï¼¾Knightley
+56ï¼¾Galileo
+57ï¼¾Brad
+58ï¼¾Reinhard
+59ï¼¾Alex
+60ï¼¾Linus
+61ï¼¾Masao
+62ï¼¾Levin
+63ï¼¾Musashi
+64ï¼¾Ralph
+65ï¼¾Claude
+66ï¼¾Klaus
+67ï¼¾Toni
+68ï¼¾Honza
+69ï¼¾Max
+70ï¼¾Clark
+71ï¼¾Oswald
+72ï¼¾Erik
+73ï¼¾Carlo
+74ï¼¾Simon
+75ï¼¾Rufus
+76ï¼¾Arima
+77ï¼¾East
+78ï¼¾Algernon
+79ï¼¾Sai
+80ï¼¾Arts
+81ï¼¾Kuro
+82ï¼¾Shinya
+83ï¼¾Hector
+84ï¼¾Cloud
+85ï¼¾Kamui
+86ï¼¾Ariel
+87ï¼¾Camila
+88ï¼¾Maria
+89ï¼¾Lisa
+90ï¼¾Liliana
+91ï¼¾Marina
+92ï¼¾Sofia
+93ï¼¾Alice
+94ï¼¾Mogra
+95ï¼¾May
+96ï¼¾Ceba
+97ï¼¾Kilala
+98ï¼¾Cocoa
+99ï¼¾Mint
+100ï¼¾Aloe
+101ï¼¾Cordelia
+102ï¼¾Flora
+103ï¼¾Karen
+104ï¼¾Hashish
+105ï¼¾Nazuna
+106ï¼¾Naomi
+107ï¼¾Chloe
+108ï¼¾Nicole
+109ï¼¾Ruby
+110ï¼¾Tina
+111ï¼¾Kanon
+112ï¼¾Mina
+113ï¼¾More
+114ï¼¾Cornelia
+115ï¼¾Eve
+116ï¼¾Iris
+117ï¼¾Francisca
+118ï¼¾Hinata
+119ï¼¾Yuno
+120ï¼¾Yuzuha
+121ï¼¾NPC Kirby
+122ï¼¾NPC Percy
+123ï¼¾NPC Rooney
+124ï¼¾NPC Amy
+125ï¼¾NPC Muscari
+126ï¼¾NPC Cameron
+127ï¼¾NPC Cecily
+128ï¼¾NPC Aguero
+129ï¼¾NPC Ibra
+130ï¼¾NPC Milito
+131ï¼¾NPC Natale
+132ï¼¾NPC Lillian
+133ï¼¾NPC Messi
+134ï¼¾NPC Ronaldo
+135ï¼¾NPC Falcao
+136ï¼¾NPC Sherry
+137ï¼¾NPC Beatrice
+138ï¼¾NPC Helen
+139ï¼¾NPC Robin
+140ï¼¾Lampard
+141ï¼¾NPC Yurlic
+142ï¼¾NPC Elliott
+143ï¼¾NPC Rob
+144ï¼¾NPC Harold
+145ï¼¾Kada
+146ï¼¾NPC Nemo
+147ï¼¾NPC Dain
+148ï¼¾NPC Kiryu
+149ï¼¾KoB Team Member A
+150ï¼¾Campbell
+151ï¼¾Fl-76 Watch
+152ï¼¾Fl-76 Watch Cpt.
+153ï¼¾Brunette Girl
+154ï¼¾ç™ºæ˜å¥½ãã®æ­¦å™¨å±‹ä¸»äºº
+155ï¼¾Fl-77 Watch
+156ï¼¾é›†å®¢ã«æ‚©ã‚€å•†åº—è¡—ä»£è¡¨
+157ï¼¾å¤¢è¦‹ã‚‹ãƒ‘ãƒ†ã‚£ã‚·ã‚¨ãƒ¼ãƒ«
+158ï¼¾Fl-78 Watch
+159ï¼¾ææ–™ãŒè¶³ã‚Šãªã„å¤§å·¥
+160ï¼¾å¤‰ã‚ã‚Šè€…ã®å½«åˆ»å®¶
+161ï¼¾Fl-79 Watch
+162ï¼¾ç‹¬ç«‹é–‹æ¥­ã—ãŸæ–™ç†äºº
+163ï¼¾æš‘è‹¦ã—ã„ãƒ—ãƒ­ãƒ¢ãƒ¼ã‚¿ãƒ¼
+164ï¼¾ç¾ã—ã•ã‚’æ±‚ã‚ã‚‹ãƒãƒ€ãƒ 
+165ï¼¾æ³¨æ–‡ãŒå¤šã„é“å…·å±‹ä¸»äºº
+166ï¼¾Fl-81 Watch
+167ï¼¾ã•ã™ã‚‰ã„ã®ã‚³ãƒ¬ã‚¯ã‚¿ãƒ¼
+168ï¼¾é‹­ã„çœ¼å…‰ã®å®çŸ³å•†
+169ï¼¾ã‚´ãƒ–ãƒªãƒ³æ„›å¥½å®¶
+170ï¼¾å›°ã‚Šæœã¦ãŸç”·
+171ï¼¾è‰²ç™½ã®æ­¦å™¨å±‹ã®ä¸»äºº
+172ï¼¾æ¸©æ³‰å®¿ã®ä¸»äºº
+173ï¼¾é ‘å›ºãªé˜²å…·å±‹ã®ä¸»äºº
+174ï¼¾èº«ãªã‚Šã®è‰¯ã„è€ç´³å£«
+175ï¼¾é»’ã„ãƒãƒ³ãƒˆã®ç”·
+176ï¼¾ä¸çœ ç—‡ã«æ‚©ã‚€é’å¹´
+177ï¼¾åŒ–ç²§å“ã«ç›®ãŒãªã„å¥³æ€§
+178ï¼¾Fl-86 Watch
+179ï¼¾ã‚¢ã‚¯ã‚»ã‚µãƒªãƒ¼å±‹ã®åº—å“¡
+180ï¼¾å¹´é…ã®åˆ€é›å†¶
+181ï¼¾å£°ãŒå¤§ãã„å®çŸ³å•†
+182ï¼¾ãƒ’ã‚²ã‚’è“„ãˆãŸå®¶å…·åº—ä¸»
+183ï¼¾Fl-88 Watch
+184ï¼¾å°ç‰©ã‚·ãƒ§ãƒƒãƒ—åº—å“¡
+185ï¼¾è…•ã®ç«‹ã¤é˜²å…·å±‹å¥³ä¸»äºº
+186ï¼¾å·¦ã®å¡”ã®ç®¡ç†äºº
+187ï¼¾å³ã®å¡”ã®ç®¡ç†äºº
+188ï¼¾æ°å¹…ã®è‰¯ã„åº—ä¸»
+189ï¼¾é‰„é‹ã®æ–™ç†äºº
+190ï¼¾æ´¾æ‰‹ãªæ¯›çš®ã‚’ç€ãŸåº—ä¸»
+191ï¼¾æ³¨æ–‡ã«å›°ã‚‹é›å†¶å±‹
+192ï¼¾ç«œã«æ†§ã‚Œã‚‹å°‘å¹´
+193ï¼¾ã¾ã‚‹ã£ã¨è‚¥ãˆãŸç¾é£Ÿå®¶
+194ï¼¾Fl-94 Watch
+195ï¼¾Fl-94 Watch Cpt.
+196ï¼¾äº”ã¤æ˜Ÿãƒ‘ãƒ†ã‚£ã‚·ã‚¨
+197ï¼¾Fl-95 Watch
+198ï¼¾ã‚ã®æ—¥ã‚’æ‡ã‹ã—ã‚€å¥³æ€§
+199ï¼¾Fl-96 Watch Cpt.
+200ï¼¾éºè·¡èª¿æŸ»éšŠ
+201ï¼¾ãƒ™ãƒ†ãƒ©ãƒ³ã®é˜²å…·è·äºº
+202ï¼¾Fl-97 Watch
+203ï¼¾Fl-97 Watch Cpt.
+204ï¼¾é ­ã®åˆ‡ã‚Œã‚‹å®çŸ³å•†
+205ï¼¾è¿‘è¡›å…µé•·
+206ï¼¾Client 061
+207ï¼¾Client 062
+208ï¼¾Client 063
+209ï¼¾Client 064
+210ï¼¾Client 065
+211ï¼¾Client 066
+212ï¼¾Client 067
+213ï¼¾Client 068
+214ï¼¾Client 069
+215ï¼¾Client 070
+216ï¼¾Client 071
+217ï¼¾Client 072
+218ï¼¾Client 073
+219ï¼¾Client 074
+220ï¼¾Client 075
+221ï¼¾Client 076
+222ï¼¾Frenzy Boar
+223ï¼¾Master Boar
+224ï¼¾Wild Rush
+225ï¼¾Gryphon
+226ï¼¾Black Gryphon
+227ï¼¾Seiren
+228ï¼¾Harpy
+229ï¼¾Dull Slime
+230ï¼¾Paladin Lizardman
+231ï¼¾Elder Lizardman
+232ï¼¾Lizardman Monarch
+233ï¼¾Bishop Lizardman
+234ï¼¾Orc Warrior
+235ï¼¾Orc General
+236ï¼¾Goblin Swordman
+237ï¼¾Goblin Archer
+238ï¼¾Goblin Saman
+239ï¼¾Goblin King
+240ï¼¾Wisdom Trento
+241ï¼¾Tree Fork
+242ï¼¾Fanatic Fungi
+243ï¼¾Poison Mush
+244ï¼¾Mandrake
+245ï¼¾Venom Flower
+246ï¼¾Scorpion
+247ï¼¾Poison Needle
+248ï¼¾Neo Scorpion
+249ï¼¾NM "Roughneck Of Forest"
+250ï¼¾Death Hornet
+251ï¼¾Queen Hornet
+252ï¼¾Raging Bee
+253ï¼¾Red Hornet
+254ï¼¾Black Hornet
+255ï¼¾Blue Comet
+256ï¼¾Ant Worker
+257ï¼¾Ant Soldier
+258ï¼¾BOSS "The Queen Of Ant"
+259ï¼¾NM "Ant Princess"
+260ï¼¾Mad Tarantula
+261ï¼¾Spinning Wheel
+262ï¼¾Sack Mite
+263ï¼¾Giant Spider
+264ï¼¾NM "Crimson Spinner"
+265ï¼¾Antlion
+266ï¼¾Antlion Destroy
+267ï¼¾Fresh Crab
+268ï¼¾Poison Crab
+269ï¼¾NM "Strong Scissore"
+270ï¼¾Skeleton Pawn
+271ï¼¾Skeleton Knight
+272ï¼¾Skeleton Bishop
+273ï¼¾Phantom
+274ï¼¾Ston Golem
+275ï¼¾Bloody Ghost
+276ï¼¾Iron Golem
+277ï¼¾Rune Knight
+278ï¼¾Black Knight
+279ï¼¾White Knight
+280ï¼¾Dullahan
+281ï¼¾Bloody Knight
+282ï¼¾Blue Slime
+283ï¼¾Green Slime
+284ï¼¾Yellow Slime
+285ï¼¾Red Slime
+286ï¼¾Silver Slime
+287ï¼¾NM "Fat Slime"
+288ï¼¾Fake Door
+289ï¼¾Mimic
+290ï¼¾Arch Demon
+291ï¼¾Shadow Demon
+292ï¼¾Gargoyle
+293ï¼¾Dragon
+294ï¼¾NM "Flare Dragon"
+295ï¼¾Dragon Zombie
+296ï¼¾BOSS "The Kaiser Dragon"
+297ï¼¾Wyvern
+298ï¼¾NM "Sylvern"
+299ï¼¾BOSS "The Horn Of Madness"
+300ï¼¾BOSS "The Horn Of Furious"
+301ï¼¾BOSS "The Rebellious Eyes"
+302ï¼¾BOSS "The Genocide Eyes"
+303ï¼¾BOSS "The Ghastlygaze"
+304ï¼¾BOSS "The Absolute Gazer"
+305ï¼¾BOSS "The Murderer Fang"
+306ï¼¾BOSS "The Slaughter Fang"
+307ï¼¾BOSS "The Ruler Of Blade"
+308ï¼¾BOSS "The Ruler Of Deities"
+309ï¼¾BOSS "The Tempest Of Trihead"
+310ï¼¾BOSS "The Maelstrom Of Trihead"
+311ï¼¾BOSS "The Radiance Eater"
+312ï¼¾BOSS "The Knight Of Darkness"
+313ï¼¾BOSS "The Knight Of Blazing"
+314ï¼¾BOSS "The King Of Skeleton"
+315ï¼¾BOSS "The Emperor Of Death"
+316ï¼¾BOSS "The Legacy Of Grand"
+317ï¼¾BOSS "The Lava Creeper"
+318ï¼¾BOSS "The Crystalize Claw"
+319ï¼¾BOSS "The Guilty Scythe"
+320ï¼¾BOSS "The Chaos Dragon"
+321ï¼¾BOSS "The Hollow Avatar"
+322ï¼¾BOSS "The Hollow Strea"
+323ï¼¾Target "arm"
+324ï¼¾Target "leg"
+325ï¼¾Target "evil eye"
+326ï¼¾Target "tentacle"
+327ï¼¾Target "neck"
+328ï¼¾Target "forlegs"
+329ï¼¾Target "weapon"
+330ï¼¾Target "core"
+331ï¼¾Target "right neck"
+332ï¼¾Target "left neck"
+333ï¼¾Target "mouth"
+334ï¼¾Target "accessory"
+335ï¼¾Target "eye"
+336ï¼¾Target "tail"
+337ï¼¾Minimum Tarantula
+338ï¼¾Murder Antlion
+339ï¼¾Father Crab
+340ï¼¾Lost Soldier
+341ï¼¾Cursed Medic
+342ï¼¾NM "Surpriser"
+343ï¼¾NM "Inferno Dragon"
+344ï¼¾BOSS "The Ruler Of Ultimate"
+345ï¼¾NM "Cerulion"
+346ï¼¾BOSS "The Fatal Reaper"
+347ï¼¾NM "Crescent Wing"
+348ï¼¾Bloody Slime

@@ -1,295 +1,295 @@
-1ODouble CircularODouble CircularODual Blade Skill
-2OEnd RevolverOEnd RevolverOša‘®« 2HIT‹Z(AGI70%•â³)F‘S•ûˆÊ”ÍˆÍ‹Z
-3OCountless SpikeOCountless SpikeOša‘®« 4HIT‹Z(DEX70%•â³)F”ÍˆÍ‹Z
-4OLocus HexedraOLocus HexedraOa‘®« 7HIT‹Z(STR60%&AGI20%•â³)F–ƒáƒ•t—^
-5ODepth ImpactODepth ImpactOša‘®« 5HIT‹Z(STR80%•â³)F–hŒä—ÍDW•t—^
-6ODead IntersectionODead IntersectionOša‘®«5HIT‹Z(‘SƒXƒe[ƒ^ƒX20%•â³)FUŒ‚—ÍDW•t—^
-7OShine CircularOShine CircularOša‘®«15HIT‹Z(DEX20%&AGI70%•â³)FˆÃˆÅL1•t—^
-8OCrimson SplashOCrimson SplashOa‘®« 8HIT‹Z(DEX120%•â³)FdUŒ‚‹Z
-9ORushing BeatORushing BeatODual Blade Skill
-10OInferno RaidOInferno RaidOa‘®« 9HIT‹Z(STR50%&DEX80%•â³)F‚–½’†‹Z
-11OStar Burst StreamOStar Burst StreamOa‘®«16HIT‹Z(DEX90%&AGI50%•â³)F‰œ‹`‹Z(UŒ‚‘¬“xUP)?
-12OThe EclipseOThe EclipseOa‘®«27HIT‹Z(AGI160%•â³)F‰œ‹`‹Z
-13OSonic LeapOSonic LeapOš“Ë‘®« 1HIT‹Z(AGI100%•â³)F”ÍˆÍ‹Z
-14OSonic LeapOSonic LeapOš“Ë‘®« 1HIT‹Z(AGI100%•â³)F”ÍˆÍ‹Z
-15OVorpal StrikeOVorpal StrikeOš“Ë‘®« 3HIT‹Z(STR50%&AGI50%•â³)F”ÍˆÍ‹Z
-16OVorpal StrikeOVorpal StrikeOš“Ë‘®« 3HIT‹Z(STR50%&AGI50%•â³)F”ÍˆÍ‹Z
-17ORage SpikeORage SpikeOSword Skill
-18ORage SpikeORage SpikeOSword Skill
-19OSlantOSlantOša‘®« 1HIT‹Z(STR60%&AGI60%•â³)FˆÃˆÅL2•t—^
-20OSlantOSlantOša‘®« 1HIT‹Z(STR60%&AGI60%•â³)FˆÃˆÅL2•t—^
-21OHorizontalOHorizontalOša‘®« 1HIT‹Z(STR60%&DEX60%•â³)F‘S•ûˆÊ”ÍˆÍ‹Z
-22OHorizontalOHorizontalOša‘®« 1HIT‹Z(STR60%&DEX60%•â³)F‘S•ûˆÊ”ÍˆÍ‹Z
-23OVerticalOVerticalOša‘®« 1HIT‹Z(STR50%&VIT70%•â³)F‚–½’† ’áƒXƒ^ƒ“
-24OVerticalOVerticalOša‘®« 1HIT‹Z(STR50%&VIT70%•â³)F‚–½’† ’áƒXƒ^ƒ“
-25OStar Quint ProminenceOStar Quint ProminenceOa‘®«6HIT‹Z(STR50%&DEX70%•â³)F(ƒ_ƒuƒ‹ATK)
-26OStar Quint ProminenceOStar Quint ProminenceOa‘®«6HIT‹Z(STR50%&DEX70%•â³)F(ƒ_ƒuƒ‹ATK)
-27OHorizontal SquareOHorizontal SquareOa‘®« 4HIT‹Z(‘SƒXƒe[ƒ^ƒX30%•â³)F‚–½’† –hŒä—ÍDW•t—^
-28OHorizontal SquareOHorizontal SquareOa‘®« 4HIT‹Z(‘SƒXƒe[ƒ^ƒX30%•â³)F‚–½’† –hŒä—ÍDW•t—^
-29OVertical SquareOVertical SquareOša‘®« 4HIT‹Z(STR30%&DEX100%•â³)F–ƒáƒ•t—^
-30OVertical SquareOVertical SquareOša‘®« 4HIT‹Z(STR30%&DEX100%•â³)F–ƒáƒ•t—^
-31OMeteor BreakOMeteor BreakOš‘Å‘®« 3HIT‹Z(STR50%&VIT90%•â³)FdUŒ‚‹Z
-32OMeteor BreakOMeteor BreakOš‘Å‘®« 3HIT‹Z(STR50%&VIT90%•â³)FdUŒ‚‹Z
-33OSharp NailOSharp NailO
-34OSharp NailOSharp NailOa‘®« 3HIT‹Z(DEX50%&AGI90%•â³)FoŒŒ•t—^
-35OPhantom RaveOPhantom RaveOa‘®« 6HIT‹Z(DEX200%&AGI200%•â³)F‰œ‹`‹Z
-36OPhantom RaveOPhantom RaveOa‘®« 6HIT‹Z(DEX200%&AGI200%•â³)F‰œ‹`‹Z
-37OAerial StubOAerial StubOSword Skill
-38OAerial StubOAerial StubOSword Skill
-39OVorpal StrikeOVorpal StrikeOŒ•‚ğ\‚¦‚Ä‚Ì“Ëi‚Æ‚»‚ÌÕŒ‚”g‚É‚æ‚èƒ_ƒ[ƒW‚ğ—^‚¦‚é“ËŒ‚Œ•‹Z
-40OLinearOLinearOš“Ë‘®« 1HIT‹Z(DEX100%•â³)F”ÍˆÍ‹Z
-41OLinearOLinearOš“Ë‘®« 1HIT‹Z(DEX100%•â³)F”ÍˆÍ‹Z
-42OStreakOStreakOša‘®«1HIT‹Z(DEX60%&AGI40%•â³)F”ÍˆÍ‹Z
-43OStreakOStreakOša‘®«1HIT‹Z(DEX60%&AGI40%•â³)F”ÍˆÍ‹Z
-44OAboveOAboveOša‘®« 1HIT‹Z(DEX20%&AGI80%•â³)F’áƒXƒ^ƒ“
-45OAboveOAboveOša‘®« 1HIT‹Z(DEX20%&AGI80%•â³)F’áƒXƒ^ƒ“
-46OOver RadiationOOver RadiationO“Ë‘®«10HIT‹Z(DEX50%&AGI50%•â³)FdUŒ‚‹Z
-47OOver RadiationOOver RadiationO“Ë‘®«10HIT‹Z(DEX50%&AGI50%•â³)FdUŒ‚‹Z
-48ORip RavineORip RavineOa‘®« 2HIT‹Z(DEX60%&AGI70%•â³)FUŒ‚‘¬“xDW•t—^
-49ORip RavineORip RavineOa‘®« 2HIT‹Z(DEX60%&AGI70%•â³)FUŒ‚‘¬“xDW•t—^
-50ORip EndORip EndO‚³‚¢‚¯‚ñƒXƒLƒ‹
-51ORip EndORip EndO‚³‚¢‚¯‚ñƒXƒLƒ‹
-52OSweepOSweepOša‘®« 2HIT‹Z(DEX30%&AGI100%•â³)F”ÍˆÍ‹Z ˆÃˆÅL1•t—^?
-53OSweepOSweepOša‘®« 2HIT‹Z(DEX30%&AGI100%•â³)F”ÍˆÍ‹Z ˆÃˆÅL1•t—^?
-54OAccel StubOAccel StubO“Ë‘®« 3HIT‹Z(DEX10%&AGI130%•â³)FdUŒ‚‹Z(’ÇŒ‚‘‰Á)?
-55OAccel StubOAccel StubO“Ë‘®« 3HIT‹Z(DEX10%&AGI130%•â³)FdUŒ‚‹Z(’ÇŒ‚‘‰Á)?
-56OPenetrateOPenetrateO“Ë‘®« 3HIT‹Z(AGI150%•â³)F‚–½’† –hŒä—ÍDW•t—^
-57OPenetrateOPenetrateO“Ë‘®« 3HIT‹Z(AGI150%•â³)F‚–½’† –hŒä—ÍDW•t—^
-58OMarshal FenceOMarshal FenceO‚³‚¢‚¯‚ñƒXƒLƒ‹
-59OMarshal FenceOMarshal FenceO‚³‚¢‚¯‚ñƒXƒLƒ‹
-60ODelta AttackODelta AttackOša‘®« 3HIT‹Z(‘SƒXƒe[ƒ^ƒX40%•â³)F”ÍˆÍdUŒ‚‹Z ‰ñ”ğDW•t—^
-61ODelta AttackODelta AttackOša‘®« 3HIT‹Z(‘SƒXƒe[ƒ^ƒX40%•â³)F”ÍˆÍdUŒ‚‹Z ‰ñ”ğDW•t—^
-62OFlashing PenetraterOFlashing PenetraterO“Ë‘®« 9HIT‹Z(DEX90%&AGI90%•â³)F‰œ‹`‹Z
-63OFlashing PenetraterOFlashing PenetraterO“Ë‘®« 9HIT‹Z(DEX90%&AGI90%•â³)F‰œ‹`‹Z
-64OStar SprashOStar SprashO‚³‚¢‚¯‚ñƒXƒLƒ‹
-65OStar SprashOStar SprashO‚³‚¢‚¯‚ñƒXƒLƒ‹
-66OArmor PierceOArmor PierceO“Ë‘®« 1HIT‹Z(DEX120%•â³)F‚–½’† –hŒä—ÍDW•t—^
-67OArmor PierceOArmor PierceO“Ë‘®« 1HIT‹Z(DEX120%•â³)F‚–½’† –hŒä—ÍDW•t—^
-68OSide BiteOSide BiteOša‘®« 2HIT‹Z(DEX100%&AGI20%•â³)F‚–½’†”ÍˆÍ‹Z
-69OSide BiteOSide BiteOša‘®« 2HIT‹Z(DEX100%&AGI20%•â³)F‚–½’†”ÍˆÍ‹Z
-70ORound AccelORound AccelOša‘®«2HIT‹Z(STR20%&DEX110%•â³)F‚–½’† ‘S•ûˆÊ”ÍˆÍ‹Z
-71ORound AccelORound AccelOša‘®«2HIT‹Z(STR20%&DEX110%•â³)F‚–½’† ‘S•ûˆÊ”ÍˆÍ‹Z
-72OCross EdgeOCross EdgeOša‘®« 2HIT‹Z(DEX140%•â³)F‚–½’† DEX’á‰º•t—^
-73OCross EdgeOCross EdgeOša‘®« 2HIT‹Z(DEX140%•â³)F‚–½’† DEX’á‰º•t—^
-74ORapid BiteORapid BiteOš“Ë‘®« 2HIT‹Z(DEX140%•â³)F‚–½’† VIT’á‰º•t—^
-75ORapid BiteORapid BiteOš“Ë‘®« 2HIT‹Z(DEX140%•â³)F‚–½’† VIT’á‰º•t—^
-76OTri PierceOTri PierceO“Ë‘®« 3HIT‹Z(DEX145%•â³)F‚–½’† AGI’á‰º•t—^
-77OTri PierceOTri PierceO“Ë‘®« 3HIT‹Z(DEX145%•â³)F‚–½’† AGI’á‰º•t—^
-78OFad EdgeOFad EdgeO“Ë‘®« 4HIT‹Z(DEX140%&AGI20%•â³)F‚–½’† oŒŒ•t—^
-79OFad EdgeOFad EdgeO“Ë‘®« 4HIT‹Z(DEX140%&AGI20%•â³)F‚–½’† oŒŒ•t—^
-80OInfiniteOInfiniteO“Ë‘®« 5HIT‹Z(AGI140%•â³)F‚–½’†dUŒ‚‹Z STR’á‰º•t—^
-81OInfiniteOInfiniteO“Ë‘®« 5HIT‹Z(AGI140%•â³)F‚–½’†dUŒ‚‹Z STR’á‰º•t—^
-82OShadow StitchOShadow StitchO‘Å‘®«3HIT‹Z(STR30%&DEX150%•â³)F‚–½’† –ƒáƒ•t—^
-83OShadow StitchOShadow StitchO‘Å‘®«3HIT‹Z(STR30%&DEX150%•â³)F‚–½’† –ƒáƒ•t—^
-84OVariant ComboOVariant ComboOExploration Skill
-85OVariant ComboOVariant ComboOExploration Skill
-86OEternal CycloneOEternal CycloneO“Ë‘®« 4HIT‹Z(DEX240%&AGI40%•â³)F‰œ‹`‹Z
-87OEternal CycloneOEternal CycloneO“Ë‘®« 4HIT‹Z(DEX240%&AGI40%•â³)F‰œ‹`‹Z
-88OJet TriangleOJet TriangleOExploration Skill
-89OJet TriangleOJet TriangleOExploration Skill
-90OFell CrescentOFell CrescentOša‘®« 1HIT‹Z(STR80%•â³)F‚–½’†”ÍˆÍ‹Z
-91OLeaverOLeaverOša‘®« 2HIT‹Z(STR100%•â³)F”ÍˆÍ‹Z oŒŒ•t—^
-92OFarrant FullmoonOFarrant FullmoonOša‘®« 4HIT‹Z(STR130%•â³)F’áƒXƒ^ƒ“
-93OBear KnockOBear KnockOš‘Å‘®« 4HIT‹Z(STR70%&AGI70%•â³)F”ÍˆÍdUŒ‚‹Z
-94OBear KnockOBear KnockOš‘Å‘®« 4HIT‹Z(STR70%&AGI70%•â³)F”ÍˆÍdUŒ‚‹Z
-95OOval CrescentOOval CrescentOša‘®« 3HIT‹Z(‘SƒXƒe[ƒ^ƒX30%•â³)F”ÍˆÍ‹Z
-96ODeath CreepODeath CreepOša‘®« 1HIT‹Z(STR130%•â³)F”ÍˆÍ‹Z ‰ñ”ğDW•t—^
-97OLasing ChopperOLasing ChopperOša‘®« 4HIT‹Z(STR80%&VIT50%•â³)F‚–½’†
-98OMelee SlashOMelee SlashOša‘®« 4HIT‹Z(STR60%&AGI90%•â³)FdUŒ‚‹Z
-99OLegion DestroyerOLegion DestroyerOa‘®« 7HIT‹Z(STR80%&VIT80%•â³)F‰œ‹`‹Z oŒŒ•t—^
-100OTsumuji GurumaOTsumuji GurumaOša‘®« 1HIT‹Z(DEX120%•â³)F”ÍˆÍ‹Z oŒŒ•t—^
-101OUki FuneOUki FuneOša‘®« 1HIT‹Z(STR60%&VIT60%•â³)F”ÍˆÍ‹Z oŒŒ•t—^
-102OHi OugiOHi OugiOa‘®« 3HIT‹Z(STR60%&DEX80%•â³)FƒŠƒXƒN‘‰Á oŒŒ•t—^
-103OTsuji KazeOTsuji KazeOa‘®« 1HIT‹Z(DEX90%&AGI60%•â³)F’áƒXƒ^ƒ“ oŒŒ•t—^
-104OGen GetsuOGen GetsuOa‘®« 2HIT‹Z(DEX90%&AGI70%•â³)FˆÃˆÅL2 oŒŒ•t—^
-105OWa ShuOWa ShuOa‘®« 5HIT‹Z(STR70%&DEX90%•â³)FoŒŒ•t—^
-106ORa SetsuORa SetsuOa‘®« 3HIT‹Z(STR70%&VIT100%•â³)F–hŒä—ÍDW oŒŒ•t—^?
-107OSan GeOSan GeOa‘®«5HIT‹Z(STR30%&DEX180%•â³)F‰œ‹`‹Z oŒŒ•t—^
-108OTsuji KazeOTsuji KazeO–Ú‚É‚à—¯‚Ü‚ç‚Ê‘¬‚³‚Åˆê‘M‚·‚é‹‡a‚èBša/oŒŒ•t—^
-109OAvalancheOAvalancheOša‘®« 1HIT‹Z(STR60%&AGI60%•â³)F”ÍˆÍ‹Z
-110OBlastOBlastOša‘®« 2HIT‹Z(STR50%&VIT80%•â³)F‘S•ûˆÊ”ÍˆÍ‹Z@’áƒXƒ^ƒ“?
-111OTempestOTempestOša‘®« 1HIT‹Z(STR50%&AGI100%•â³)F”ÍˆÍ‹Z(ƒJƒEƒ“ƒ^[)?
-112OEruptionOEruptionOša‘®« 2HIT‹Z(STR90%&AGI70%•â³)F”ÍˆÍ‹Z(ƒ_ƒuƒ‹ATK)?
-113OScoopeedOScoopeedOša‘®« 3HIT‹Z(STR100%&VIT60%•â³)F”ÍˆÍ‹Z(UŒ‚—ÍUP)?
-114OScoopeedOScoopeedOša‘®« 3HIT‹Z(STR100%&VIT60%•â³)F”ÍˆÍ‹Z(UŒ‚—ÍUP)?
-115OLightningOLightningOša‘®« 4HIT‹Z(STR80%&DEX80%•â³)F”ÍˆÍ‹Z(’ÇŒ‚‘‰Á)
-116OMeteor FallOMeteor FallOša‘®« 3HIT‹Z(STR80%&DEX100%•â³)F”ÍˆÍ‹Z(•K’†‘±)
-117OFight BladeOFight BladeOša‘®« 6HIT‹Z(AGI80%&VIT100%•â³)F”ÍˆÍ‹Z(SPUUP)?
-118OCalamity DisasterOCalamity DisasterOša‘®« 6HIT‹Z(STR90%&AGI100%•â³)F‰œ‹`‹Z(•¨—ƒoƒŠƒA)?
-119OBlustOBlustOša‘®« 2HIT‹Z(STR50%&VIT80%•â³)F‘S•ûˆÊ”ÍˆÍ‹Z@’áƒXƒ^ƒ“?
-120OFight BladeOFight BladeOša‘®« 6HIT‹Z(AGI80%&VIT100%•â³)F”ÍˆÍ‹Z(SPUUP)?
-121OWhirl WindOWhirl WindOša‘®«2HIT‹Z(STR50%&VIT50%•â³)F‘S•ûˆÊ”ÍˆÍ‹Z
-122OGrand DestructOGrand DestructOša‘®« 1HIT‹Z(STR60%&VIT50%•â³)F”ÍˆÍ‹Z
-123OSmashOSmashOša‘®« 1HIT‹Z(AGI40%&VIT80%•â³)F”ÍˆÍ‹Z
-124OLumber JackOLumber JackOša‘®« 3HIT‹Z(STR120%•â³)F‰ñ”ğDW•t—^
-125OUltimate BreakerOUltimate BreakerOša‘®« 3HIT‹Z(STR140%•â³)F’áƒXƒ^ƒ“
-126OCrescent AvalancheOCrescent AvalancheOša‘®« 6HIT‹Z(STR160%•â³)FdUŒ‚‹Z
-127OCrescent AvalancheOCrescent AvalancheOša‘®« 7HIT‹Z(STR160%•â³)FdUŒ‚‹Z
-128OCrimson BloodOCrimson BloodOša‘®« 3HIT‹Z(‘SƒXƒe[ƒ^ƒX40%•â³)F–hŒä—ÍDW•t—^
-129OTrample ActOTrample ActOša‘®« 3HIT‹Z(STR80%&VIT80%•â³)F’´dUŒ‚‹Z(’á–½’†)
-130ODynamic ViolenceODynamic ViolenceOša‘®« 4HIT‹Z(STR100%&VIT100%•â³)F‰œ‹`‹Z
-131OWhirl WindOWhirl WindO—³Šª‚ğŠª‚«‹N‚±‚·¨‚¢‚Å‘å•€‚ğU‚è‰ñ‚·‘å‹Z
-132OLumber JackOLumber JackOša‘®« 3HIT‹Z(STR140%•â³)F‰ñ”ğƒ_ƒEƒ“•t—^
-133OTwin ThrustOTwin ThrustOš“Ë‘®« 2HIT‹Z(‘SƒXƒe[ƒ^ƒX15%•â³)F”ÍˆÍ‹Z –ƒáƒ•t—^
-134OHelical TwiceOHelical TwiceOš“Ë‘®« 2HIT‹Z(‘SƒXƒe[ƒ^ƒX15%•â³)F‘S•ûˆÊ”ÍˆÍ‹Z
-135OSonic ChargeOSonic ChargeOš“Ë‘®« 1HIT‹Z(‘SƒXƒe[ƒ^ƒX20%•â³)F”ÍˆÍ‹Z UŒ‚‘¬“xDW•t—^
-136OFatal ThrustOFatal ThrustOš“Ë‘®« 1HIT‹Z(‘SƒXƒe[ƒ^ƒX25%•â³)F”ÍˆÍ‹Z ˆÃˆÅL3•t—^
-137ORevolve ArtsORevolve ArtsOš“Ë‘®« 5HIT‹Z(‘SƒXƒe[ƒ^ƒX30%•â³)F”ÍˆÍ‹Z UŒ‚—ÍDW•t—^
-138OVent ForthOVent ForthOš“Ë‘®« 4HIT‹Z(‘SƒXƒe[ƒ^ƒX30%•â³)F”ÍˆÍ‹Z ‰ñ”ğDW•t—^
-139ODancing SpearODancing SpearOš“Ë‘®« 5HIT‹Z(‘SƒXƒe[ƒ^ƒX40%•â³)F”ÍˆÍ‹Z –hŒäDW•t—^
-140ODimension StampedeODimension StampedeO“Ë‘®« 6HIT‹Z(‘SƒXƒe[ƒ^ƒX 50%•â³)F‰œ‹`‹Z
-141OSilent BlowOSilent BlowOš‘Å‘®« 1HIT‹Z(STR60%&DEX40%•â³)F”ÍˆÍ‹Z(‚–½’†)
-142OSilent BlowOSilent BlowOš‘Å‘®« 1HIT‹Z(STR60%&DEX40%•â³)F”ÍˆÍ‹Z(‚–½’†)
-143OPower StrikeOPower StrikeOš‘Å‘®«1HIT‹Z(STR100%•â³)F”ÍˆÍ‹Z ’áƒXƒ^ƒ“
-144OPower StrikeOPower StrikeOš‘Å‘®«1HIT‹Z(STR100%•â³)F”ÍˆÍ‹Z ’áƒXƒ^ƒ“
-145OUpper SwingOUpper SwingOš‘Å‘®« 2HIT‹Z(AGI50%&VIT60%•â³)F‚–½’† ’áƒXƒ^ƒ“
-146OUpper SwingOUpper SwingOš‘Å‘®« 2HIT‹Z(AGI50%&VIT60%•â³)F‚–½’† ’áƒXƒ^ƒ“
-147OStrike HeartOStrike HeartOš‘Å‘®« 3HIT‹Z(STR70%&DEX50%•â³)FSPŒ¸­•t—^ ƒXƒ^ƒ“
-148OStrike HeartOStrike HeartOš‘Å‘®« 3HIT‹Z(STR70%&DEX50%•â³)FSPŒ¸­•t—^ ƒXƒ^ƒ“
-149ODiastrophismODiastrophismOš‘Å‘®« 5HIT‹Z(STR30%&VIT100%•â³)FSPMAXDW•t—^
-150ODiastrophismODiastrophismOš‘Å‘®« 3HIT‹Z(STR30%&VIT100%•â³)FSPMAXDW•t—^
-151OThrice BlowOThrice BlowO‘Å‘®« 3HIT‹Z(STR140%•â³)FƒŠƒXƒN‘‰Á•t—^ ’áƒXƒ^ƒ“
-152OThrice BlowOThrice BlowOv
-153OBrutal StrikeOBrutal StrikeO‘Å‘®« 3HIT‹Z(AGI70%&VIT90%•â³)FƒŠƒXƒN‘‰Á•t—^
-154OBrutal StrikeOBrutal StrikeO‘Å‘®« 3HIT‹Z(AGI70%&VIT90%•â³)FƒŠƒXƒN‘‰Á•t—^
-155OTrinity ArtsOTrinity ArtsO‘Å‘®« 3HIT‹Z(AGI80%&VIT90%•â³)FdUŒ‚‹Z
-156OTrinity ArtsOTrinity ArtsO‘Å‘®« 3HIT‹Z(AGI80%&VIT90%•â³)FdUŒ‚‹Z
-157OVariable BlowOVariable BlowO‘Å‘®« 8HIT‹Z(AGI90%&VIT110%•â³)F‰œ‹`‹Z
-158OVariable BlowOVariable BlowO‘Å‘®« 8HIT‹Z(AGI90%&VIT110%•â³)F‰œ‹`‹Z
-159OAim ShootOAim ShootO“Ë‘®« 3HIT‹Z(DEX60%&AGI60%•â³)F–½’†d‹‹Z
-160OHale BulletOHale BulletO“Ë‘®« 5HIT‹Z(STR60%&AGI60%•â³)FdUŒ‚‹Z “ÅL3•t—^
-161OArrows DanceOArrows DanceOBow Skill
-162OTime Of SnapOTime Of SnapO“Ë‘®« 3HIT‹Z(AGI100%•â³)FUŒ‚‘¬“xDWL2
-163OTarget WeakOTarget WeakO“Ë‘®«3HIT‹Z(DEX120%•â³)FˆÃˆÅL5•t—^
-164OMillion HowlingOMillion HowlingO“Ë‘®« 9HIT‹Z(DEX80%&AGI80%•â³)F‰œ‹`‹Z
-165OBrandish FireOBrandish FireOBow Skill
-166OPhoenix RizeOPhoenix RizeO‚µ‚ñ‚¹‚¢‚¯‚ñƒXƒLƒ‹
-167ODivine CrossODivine CrossO‹­—ó‚ÈˆĞ—Í‚ğŒÖ‚é\ša‚è@Œ•‚Ì‹OÕ‚ªŒõ‚ğ‘Ñ‚Ñ‚é
-168OMatrix SubmergeOMatrix SubmergeO‚µ‚ñ‚¹‚¢‚¯‚ñƒXƒLƒ‹
-169OUnicorn ChargeOUnicorn ChargeO…•½‚É\‚¦‚½Œ•‚Å‚Ì‹­—Í‚È“ËŒ‚“Ë‚«@Ô‚¢‘MŒõ‚ğ‘Ñ‚Ñ‚Ä‚¢‚é
-170ODominion BlessODominion BlessO‚µ‚ñ‚¹‚¢‚¯‚ñƒXƒLƒ‹
-171OGuardian Of HonorOGuardian Of HonorOŒ‚ÆŒ•‚ğ‘g‚İ‡‚í‚¹‚½‚ˆĞ—Í‚Ì•¡‡‹Z@—‹Œõ‚ª‘–‚é
-172ODivine AssaultODivine AssaultO‚µ‚ñ‚¹‚¢‚¯‚ñƒXƒLƒ‹
-173OGospel SquareOGospel SquareOl˜AŒ•Œ‚‚Å‘Šè‚Ìl•û‚ÉÕŒ‚”g‚ÅˆÍ‚¤ƒXƒLƒ‹
-174OAdvent ValkyrieOAdvent ValkyrieO‚µ‚ñ‚¹‚¢‚¯‚ñƒXƒLƒ‹
-175OPhysical CreedOPhysical CreedO‚µ‚ñ‚¹‚¢‚¯‚ñƒXƒLƒ‹
-176OAkashic ArmageddonOAkashic ArmageddonOŒ•‚ğU‚é‚¤‚¾‚¯‚Å“V’n‚ğ‚ä‚é‚ª‚·ˆĞ—Í‚ğ”é‚ß‚½_¹Œ•‰œ‹`
-177OJihad MenaceOJihad MenaceO‚µ‚ñ‚¹‚¢‚¯‚ñƒXƒLƒ‹
-178OExact OnslaughtOExact OnslaughtOBattle Skill
-179OExact OnslaughtOExact OnslaughtOBattle Skill
-180OTactical BashOTactical BashOBattle Skill
-181OSkill LinkOSkill LinkORank 1 Link-Tech
-182OSkill LinkOSkill LinkORank 2 Link-Tech
-183OSkill LinkOSkill LinkORank 3 Link-Tech
-184OSkill LinkOSkill LinkO“¯˜AŒg
-185OSkill LinkOSkill LinkO”wŒã˜AŒg
-186OSkill LinkOSkill LinkO‹Z’†˜AŒg
-187OSkill LinkOSkill LinkORank 4 Link-Tech
-188OSkill LinkOSkill LinkOó‘ÔˆÙí˜AŒg
-189ODivine GuardianODivine GuardianOSpecial Sword Skill
-190ODivine GuardianODivine GuardianOSpecial Sword Skill
-191OHead HammerOHead HammerOBore Special Attack
-192ORaise HornORaise HornOBore Special Attack
-193OShield BashOShield BashOElder LizardMan Special Attack
-194OPoison BlowOPoison BlowOScorpion Special Attack
-195OScorpion ImpactOScorpion ImpactOScorpion Special Attack
-196OPalys ShowerOPalys ShowerOHornet Special Attack
-197ODeath NeedleODeath NeedleOHornet Special Attack
-198ONeedle DanceONeedle DanceOHornet Special Attack
-199OKumo no ItoOKumo no ItoOTarantula Special Attack
-200OTarantu ImpactOTarantu ImpactOTarantula Special Attack
-201ONenekiONenekiOBlue Slime Special Attack
-202OSlime ImpactOSlime ImpactOBlue Slime Special Attack
-203OAcid BreakOAcid BreakOAnt Worker Special Attack
-204OAnt ImpactOAnt ImpactOAnt Worker Special Attack
-205OAcid DownOAcid DownOAnt Lion Special Attack
-206OSand SmokeOSand SmokeOAnt Lion Special Attack
-207ODragon BreathODragon BreathOGreen Dragon Special Attack
-208OKamichigiruOKamichigiruOGreen Dragon Special Attack
-209OPoison NetOPoison NetOGiant Spider Special Attack
-210OTwine NetOTwine NetOCrimson Spinner Special Attack
-211OSharp SpearOSharp SpearOGiant Spider Special Attack
-212OPoison MistOPoison MistOCrimson Spinner Special Attack
-213OCursed ZephyrOCursed ZephyrOBaphomet-Type(Red) Special Attack 3
-214OHowling BreathOHowling BreathOBaphomet-Type Special Attack 1
-215OStan BlowOStan BlowOBishop LizardMan Special Attack
-216OVanish BurstOVanish BurstOBishop LizardMan Special Attack
-217OStan QuakeOStan QuakeOStone Golem Special Attack
-218OCyclone CannonOCyclone CannonOStone Golem Special Attack
-219ODemonic ClawODemonic ClawOArc Demon Special Attack
-220OStriker BurstOStriker BurstOArc Demon Special Attack
-221OBloody RushOBloody RushOCyclope-Type Special Attack 1
-222OEvil ColliderOEvil ColliderOCyclope-Type Special Attack 2
-223OJyagan KaihouOJyagan KaihouOCyclope-Type Special Attack 3
-224OVanishing HollowOVanishing HollowOFinal Boss 2nd form Special Attack 1
-225OBluster HollowOBluster HollowOFinal Boss 2nd form Special Attack 2
-226OTriple BreathOTriple BreathOCerberos-type Special Attack 1
-227ODeadly BiteODeadly BiteOCerberos-type Special Attack 2
-228OSpike FlailOSpike FlailOHydra-type Special Attack 1
-229OHydra BlastOHydra BlastOHydra-type Special Attack 2
-230O Dancing BurstO Dancing BurstOCentaur-type Special Attack 1
-231O Sword ImpactO Sword ImpactOCentaur-type Special Attack 2
-232OZetubou no KaihouOZetubou no KaihouOFinal Boss 1st form Special Attack 1
-233OShi no SenreiOShi no SenreiOFinal Boss 1st form Special Attack 2
-234OScythe SpinOScythe SpinOPhantom Special Attack
-235OBadly EyeOBadly EyeOFake-Door Special Attack
-236OHells EyeOHells EyeOHell's Wall Special Attack
-237OParalyze SalivaOParalyze SalivaOMimic Special Attack
-238OSlip BlowOSlip BlowOFresh Crab Special Attack
-239OPoison BlowOPoison BlowOPoison Crab Special Attack
-240OCruel StormOCruel StormOScorpion-Boss-type Special Attack 2
-241OTail HazardOTail HazardOScorpion-Boss-type Special Attack 3
-242OTrinity CrisisOTrinity CrisisOHydra-type Special Attack 3
-243ODeath CycloneODeath CycloneOReaper-type Special Attack 2
-244OThe DarknessOThe DarknessOReaper-type Special Attack 3
-245OOmega CannonOOmega CannonOGolem-Boss-type Special Attack 3
-246OTrinity FallOTrinity FallOHydra-type(Black) Special Attack 3
-247OPoison CloudOPoison CloudOSkeleton-King-type Special Attack 3
-248OBugs ImpactOBugs ImpactOAnt-Lion-Boss-type Special Attack 3
-249ODeep KissODeep KissOCerberos-type Special Attack 3
-250ODeep ScreamODeep ScreamOCentaur-type Special Attack 3
-251OJyagan KaiganOJyagan KaiganOCyclope-type(Blue) Special Attack 3
-252OHeavy EaterOHeavy EaterODragon-Boss-type Special Attack 3
-253ODestiny NetODestiny NetOSpider-Boss-type Special Attack 2
-254ONight RequiemONight RequiemOSpider-Boss-type Special Attack 3
-255ODeadly TalonODeadly TalonOCerberos-type(Red) Special Attack 2
-256OStrike LoaOStrike LoaOCerberos-type(Red) Special Attack 3
-257OCrimson FlareOCrimson FlareODragon-Boss-type(White) Special Attack 3
-258OSuper NovaOSuper NovaOCentaur-type(Red) Special Attack 3
-259OHikari no SyuenOHikari no SyuenOFinal Boss 1st form Special Attack 3
-260ODominion HollowODominion HollowOFinal Boss 2nd form Special Attack 3
-261OPoison LanceOPoison LanceOScorpion-Boss-type Special Attack 1
-262OScythe TornadoOScythe TornadoOReaper-type Special Attack 1
-263ODying QuakeODying QuakeOGolem-Boss-type Special Attack 1
-264OTyphoon CannonOTyphoon CannonOGolem-Boss-type Special Attack 2
-265OAcid RainOAcid RainOAnt-Queen-type(Red) Special Attack 1
-266OAnt DynamiteOAnt DynamiteOAnt-Queen-type(Red) Special Attack 2
-267OAcid SquallOAcid SquallOAnt-Lion-Boss-type Special Attack 1
-268OSand StormOSand StormOAnt-Lion-Boss-type Special Attack 2
-269OKamikudakuOKamikudakuODragon-Boss-type Special Attack 1
-270ODragon FlareODragon FlareODragon-Boss-type Special Attack 2
-271OPoison DenseOPoison DenseOSpider-Boss-type Special Attack 1
-272OScissor ImpulseOScissor ImpulseOScorpion Special Attack
-273ODeath SlaughterODeath SlaughterOReaper-type Special Attack 2
-274OWeapon NetOWeapon NetOSpider-Boss-type Special Attack 2
-275OBloody AttackOBloody AttackOCyclope-Type Special Attack 1
-276OEvil LaserOEvil LaserOCyclope-Type Special Attack 2
-277OBoast BreathOBoast BreathOBaphomet-type Special Attack 1
-278OWind BlastOWind BlastOWyvern-type Special Attack
-279OTyphoon StormOTyphoon StormOHarpy-type Special Attack
-280OAero DiveOAero DiveOGriffon-type Special Attack
-281OForest PikeOForest PikeOTree-type Special Attack
-282OPlant JuiceOPlant JuiceOFlower-type Special Attack
-283OFall HazardOFall HazardOMushroom-type Special Attack
-284OSuck MindOSuck MindOMite-type Special Attack
-285OLimit LiberalizationOLimit LiberalizationOƒ{ƒX‹¤’Ê@‚Ô‚Á”ò‚Î‚µ‰‰o
-286OAcid CloudOAcid CloudOAnt-Queen-type Special Attack 3
-287OEnemy Attack Dummy 95OEnemy Attack Dummy 95O
-288OEnemy Attack Dummy 96OEnemy Attack Dummy 96O
-289OEnemy Attack Dummy 97OEnemy Attack Dummy 97O
-290OEnemy Attack Dummy 98OEnemy Attack Dummy 98O
-291OEnemy Attack Dummy 99OEnemy Attack Dummy 99O
-292OEnemy Attack Dummy 100OEnemy Attack Dummy 100O
-293OEnemy Attack Dummy 101OEnemy Attack Dummy 101O
-294OEnemy Attack Dummy 102OEnemy Attack Dummy 102O
-295OEnemy Attack Dummy 103OEnemy Attack Dummy 103O
+1ï¼¾Double Circularï¼¾Double Circularï¼¾Dual Blade Skill
+2ï¼¾End Revolverï¼¾End Revolverï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(AGI70%è£œæ­£)ï¼šå…¨æ–¹ä½ç¯„å›²æŠ€
+3ï¼¾Countless Spikeï¼¾Countless Spikeï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(DEX70%è£œæ­£)ï¼šç¯„å›²æŠ€
+4ï¼¾Locus Hexedraï¼¾Locus Hexedraï¼¾â—‡æ–¬å±æ€§ 7HITæŠ€(STR60%&AGI20%è£œæ­£)ï¼šéº»ç—ºä»˜ä¸
+5ï¼¾Depth Impactï¼¾Depth Impactï¼¾â˜…æ–¬å±æ€§ 5HITæŠ€(STR80%è£œæ­£)ï¼šé˜²å¾¡åŠ›DWä»˜ä¸
+6ï¼¾Dead Intersectionï¼¾Dead Intersectionï¼¾â˜…æ–¬å±æ€§5HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹20%è£œæ­£)ï¼šæ”»æ’ƒåŠ›DWä»˜ä¸
+7ï¼¾Shine Circularï¼¾Shine Circularï¼¾â˜…æ–¬å±æ€§15HITæŠ€(DEX20%&AGI70%è£œæ­£)ï¼šæš—é—‡L1ä»˜ä¸
+8ï¼¾Crimson Splashï¼¾Crimson Splashï¼¾â—‡æ–¬å±æ€§ 8HITæŠ€(DEX120%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+9ï¼¾Rushing Beatï¼¾Rushing Beatï¼¾Dual Blade Skill
+10ï¼¾Inferno Raidï¼¾Inferno Raidï¼¾â—‡æ–¬å±æ€§ 9HITæŠ€(STR50%&DEX80%è£œæ­£)ï¼šé«˜å‘½ä¸­æŠ€
+11ï¼¾Star Burst Streamï¼¾Star Burst Streamï¼¾â—‡æ–¬å±æ€§16HITæŠ€(DEX90%&AGI50%è£œæ­£)ï¼šå¥¥ç¾©æŠ€(æ”»æ’ƒé€Ÿåº¦UP)?
+12ï¼¾The Eclipseï¼¾The Eclipseï¼¾â—‡æ–¬å±æ€§27HITæŠ€(AGI160%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+13ï¼¾Sonic Leapï¼¾Sonic Leapï¼¾â˜…çªå±æ€§ 1HITæŠ€(AGI100%è£œæ­£)ï¼šç¯„å›²æŠ€
+14ï¼¾Sonic Leapï¼¾Sonic Leapï¼¾â˜…çªå±æ€§ 1HITæŠ€(AGI100%è£œæ­£)ï¼šç¯„å›²æŠ€
+15ï¼¾Vorpal Strikeï¼¾Vorpal Strikeï¼¾â˜…çªå±æ€§ 3HITæŠ€(STR50%&AGI50%è£œæ­£)ï¼šç¯„å›²æŠ€
+16ï¼¾Vorpal Strikeï¼¾Vorpal Strikeï¼¾â˜…çªå±æ€§ 3HITæŠ€(STR50%&AGI50%è£œæ­£)ï¼šç¯„å›²æŠ€
+17ï¼¾Rage Spikeï¼¾Rage Spikeï¼¾Sword Skill
+18ï¼¾Rage Spikeï¼¾Rage Spikeï¼¾Sword Skill
+19ï¼¾Slantï¼¾Slantï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR60%&AGI60%è£œæ­£)ï¼šæš—é—‡L2ä»˜ä¸
+20ï¼¾Slantï¼¾Slantï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR60%&AGI60%è£œæ­£)ï¼šæš—é—‡L2ä»˜ä¸
+21ï¼¾Horizontalï¼¾Horizontalï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR60%&DEX60%è£œæ­£)ï¼šå…¨æ–¹ä½ç¯„å›²æŠ€
+22ï¼¾Horizontalï¼¾Horizontalï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR60%&DEX60%è£œæ­£)ï¼šå…¨æ–¹ä½ç¯„å›²æŠ€
+23ï¼¾Verticalï¼¾Verticalï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR50%&VIT70%è£œæ­£)ï¼šé«˜å‘½ä¸­ ä½ã‚¹ã‚¿ãƒ³
+24ï¼¾Verticalï¼¾Verticalï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR50%&VIT70%è£œæ­£)ï¼šé«˜å‘½ä¸­ ä½ã‚¹ã‚¿ãƒ³
+25ï¼¾Star Quint Prominenceï¼¾Star Quint Prominenceï¼¾â—‡æ–¬å±æ€§6HITæŠ€(STR50%&DEX70%è£œæ­£)ï¼š(ãƒ€ãƒ–ãƒ«ATK)
+26ï¼¾Star Quint Prominenceï¼¾Star Quint Prominenceï¼¾â—‡æ–¬å±æ€§6HITæŠ€(STR50%&DEX70%è£œæ­£)ï¼š(ãƒ€ãƒ–ãƒ«ATK)
+27ï¼¾Horizontal Squareï¼¾Horizontal Squareï¼¾â—‡æ–¬å±æ€§ 4HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹30%è£œæ­£)ï¼šé«˜å‘½ä¸­ é˜²å¾¡åŠ›DWä»˜ä¸
+28ï¼¾Horizontal Squareï¼¾Horizontal Squareï¼¾â—‡æ–¬å±æ€§ 4HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹30%è£œæ­£)ï¼šé«˜å‘½ä¸­ é˜²å¾¡åŠ›DWä»˜ä¸
+29ï¼¾Vertical Squareï¼¾Vertical Squareï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(STR30%&DEX100%è£œæ­£)ï¼šéº»ç—ºä»˜ä¸
+30ï¼¾Vertical Squareï¼¾Vertical Squareï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(STR30%&DEX100%è£œæ­£)ï¼šéº»ç—ºä»˜ä¸
+31ï¼¾Meteor Breakï¼¾Meteor Breakï¼¾â˜…æ‰“å±æ€§ 3HITæŠ€(STR50%&VIT90%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+32ï¼¾Meteor Breakï¼¾Meteor Breakï¼¾â˜…æ‰“å±æ€§ 3HITæŠ€(STR50%&VIT90%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+33ï¼¾Sharp Nailï¼¾Sharp Nailï¼¾
+34ï¼¾Sharp Nailï¼¾Sharp Nailï¼¾â—‡æ–¬å±æ€§ 3HITæŠ€(DEX50%&AGI90%è£œæ­£)ï¼šå‡ºè¡€ä»˜ä¸
+35ï¼¾Phantom Raveï¼¾Phantom Raveï¼¾â—‡æ–¬å±æ€§ 6HITæŠ€(DEX200%&AGI200%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+36ï¼¾Phantom Raveï¼¾Phantom Raveï¼¾â—‡æ–¬å±æ€§ 6HITæŠ€(DEX200%&AGI200%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+37ï¼¾Aerial Stubï¼¾Aerial Stubï¼¾Sword Skill
+38ï¼¾Aerial Stubï¼¾Aerial Stubï¼¾Sword Skill
+39ï¼¾Vorpal Strikeï¼¾Vorpal Strikeï¼¾å‰£ã‚’æ§‹ãˆã¦ã®çªé€²ã¨ãã®è¡æ’ƒæ³¢ã«ã‚ˆã‚Šãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸ãˆã‚‹çªæ’ƒå‰£æŠ€
+40ï¼¾Linearï¼¾Linearï¼¾â˜…çªå±æ€§ 1HITæŠ€(DEX100%è£œæ­£)ï¼šç¯„å›²æŠ€
+41ï¼¾Linearï¼¾Linearï¼¾â˜…çªå±æ€§ 1HITæŠ€(DEX100%è£œæ­£)ï¼šç¯„å›²æŠ€
+42ï¼¾Streakï¼¾Streakï¼¾â˜…æ–¬å±æ€§1HITæŠ€(DEX60%&AGI40%è£œæ­£)ï¼šç¯„å›²æŠ€
+43ï¼¾Streakï¼¾Streakï¼¾â˜…æ–¬å±æ€§1HITæŠ€(DEX60%&AGI40%è£œæ­£)ï¼šç¯„å›²æŠ€
+44ï¼¾Aboveï¼¾Aboveï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(DEX20%&AGI80%è£œæ­£)ï¼šä½ã‚¹ã‚¿ãƒ³
+45ï¼¾Aboveï¼¾Aboveï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(DEX20%&AGI80%è£œæ­£)ï¼šä½ã‚¹ã‚¿ãƒ³
+46ï¼¾Over Radiationï¼¾Over Radiationï¼¾â—‡çªå±æ€§10HITæŠ€(DEX50%&AGI50%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+47ï¼¾Over Radiationï¼¾Over Radiationï¼¾â—‡çªå±æ€§10HITæŠ€(DEX50%&AGI50%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+48ï¼¾Rip Ravineï¼¾Rip Ravineï¼¾â—‡æ–¬å±æ€§ 2HITæŠ€(DEX60%&AGI70%è£œæ­£)ï¼šæ”»æ’ƒé€Ÿåº¦DWä»˜ä¸
+49ï¼¾Rip Ravineï¼¾Rip Ravineï¼¾â—‡æ–¬å±æ€§ 2HITæŠ€(DEX60%&AGI70%è£œæ­£)ï¼šæ”»æ’ƒé€Ÿåº¦DWä»˜ä¸
+50ï¼¾Rip Endï¼¾Rip Endï¼¾ã•ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+51ï¼¾Rip Endï¼¾Rip Endï¼¾ã•ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+52ï¼¾Sweepï¼¾Sweepï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(DEX30%&AGI100%è£œæ­£)ï¼šç¯„å›²æŠ€ æš—é—‡L1ä»˜ä¸?
+53ï¼¾Sweepï¼¾Sweepï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(DEX30%&AGI100%è£œæ­£)ï¼šç¯„å›²æŠ€ æš—é—‡L1ä»˜ä¸?
+54ï¼¾Accel Stubï¼¾Accel Stubï¼¾â—‡çªå±æ€§ 3HITæŠ€(DEX10%&AGI130%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€(è¿½æ’ƒå¢—åŠ )?
+55ï¼¾Accel Stubï¼¾Accel Stubï¼¾â—‡çªå±æ€§ 3HITæŠ€(DEX10%&AGI130%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€(è¿½æ’ƒå¢—åŠ )?
+56ï¼¾Penetrateï¼¾Penetrateï¼¾â—‡çªå±æ€§ 3HITæŠ€(AGI150%è£œæ­£)ï¼šé«˜å‘½ä¸­ é˜²å¾¡åŠ›DWä»˜ä¸
+57ï¼¾Penetrateï¼¾Penetrateï¼¾â—‡çªå±æ€§ 3HITæŠ€(AGI150%è£œæ­£)ï¼šé«˜å‘½ä¸­ é˜²å¾¡åŠ›DWä»˜ä¸
+58ï¼¾Marshal Fenceï¼¾Marshal Fenceï¼¾ã•ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+59ï¼¾Marshal Fenceï¼¾Marshal Fenceï¼¾ã•ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+60ï¼¾Delta Attackï¼¾Delta Attackï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹40%è£œæ­£)ï¼šç¯„å›²é‡æ”»æ’ƒæŠ€ å›é¿DWä»˜ä¸
+61ï¼¾Delta Attackï¼¾Delta Attackï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹40%è£œæ­£)ï¼šç¯„å›²é‡æ”»æ’ƒæŠ€ å›é¿DWä»˜ä¸
+62ï¼¾Flashing Penetraterï¼¾Flashing Penetraterï¼¾â—‡çªå±æ€§ 9HITæŠ€(DEX90%&AGI90%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+63ï¼¾Flashing Penetraterï¼¾Flashing Penetraterï¼¾â—‡çªå±æ€§ 9HITæŠ€(DEX90%&AGI90%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+64ï¼¾Star Sprashï¼¾Star Sprashï¼¾ã•ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+65ï¼¾Star Sprashï¼¾Star Sprashï¼¾ã•ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+66ï¼¾Armor Pierceï¼¾Armor Pierceï¼¾â—‡çªå±æ€§ 1HITæŠ€(DEX120%è£œæ­£)ï¼šé«˜å‘½ä¸­ é˜²å¾¡åŠ›DWä»˜ä¸
+67ï¼¾Armor Pierceï¼¾Armor Pierceï¼¾â—‡çªå±æ€§ 1HITæŠ€(DEX120%è£œæ­£)ï¼šé«˜å‘½ä¸­ é˜²å¾¡åŠ›DWä»˜ä¸
+68ï¼¾Side Biteï¼¾Side Biteï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(DEX100%&AGI20%è£œæ­£)ï¼šé«˜å‘½ä¸­ç¯„å›²æŠ€
+69ï¼¾Side Biteï¼¾Side Biteï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(DEX100%&AGI20%è£œæ­£)ï¼šé«˜å‘½ä¸­ç¯„å›²æŠ€
+70ï¼¾Round Accelï¼¾Round Accelï¼¾â˜…æ–¬å±æ€§2HITæŠ€(STR20%&DEX110%è£œæ­£)ï¼šé«˜å‘½ä¸­ å…¨æ–¹ä½ç¯„å›²æŠ€
+71ï¼¾Round Accelï¼¾Round Accelï¼¾â˜…æ–¬å±æ€§2HITæŠ€(STR20%&DEX110%è£œæ­£)ï¼šé«˜å‘½ä¸­ å…¨æ–¹ä½ç¯„å›²æŠ€
+72ï¼¾Cross Edgeï¼¾Cross Edgeï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(DEX140%è£œæ­£)ï¼šé«˜å‘½ä¸­ DEXä½ä¸‹ä»˜ä¸
+73ï¼¾Cross Edgeï¼¾Cross Edgeï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(DEX140%è£œæ­£)ï¼šé«˜å‘½ä¸­ DEXä½ä¸‹ä»˜ä¸
+74ï¼¾Rapid Biteï¼¾Rapid Biteï¼¾â˜…çªå±æ€§ 2HITæŠ€(DEX140%è£œæ­£)ï¼šé«˜å‘½ä¸­ VITä½ä¸‹ä»˜ä¸
+75ï¼¾Rapid Biteï¼¾Rapid Biteï¼¾â˜…çªå±æ€§ 2HITæŠ€(DEX140%è£œæ­£)ï¼šé«˜å‘½ä¸­ VITä½ä¸‹ä»˜ä¸
+76ï¼¾Tri Pierceï¼¾Tri Pierceï¼¾â—‡çªå±æ€§ 3HITæŠ€(DEX145%è£œæ­£)ï¼šé«˜å‘½ä¸­ AGIä½ä¸‹ä»˜ä¸
+77ï¼¾Tri Pierceï¼¾Tri Pierceï¼¾â—‡çªå±æ€§ 3HITæŠ€(DEX145%è£œæ­£)ï¼šé«˜å‘½ä¸­ AGIä½ä¸‹ä»˜ä¸
+78ï¼¾Fad Edgeï¼¾Fad Edgeï¼¾â—‡çªå±æ€§ 4HITæŠ€(DEX140%&AGI20%è£œæ­£)ï¼šé«˜å‘½ä¸­ å‡ºè¡€ä»˜ä¸
+79ï¼¾Fad Edgeï¼¾Fad Edgeï¼¾â—‡çªå±æ€§ 4HITæŠ€(DEX140%&AGI20%è£œæ­£)ï¼šé«˜å‘½ä¸­ å‡ºè¡€ä»˜ä¸
+80ï¼¾Infiniteï¼¾Infiniteï¼¾â—‡çªå±æ€§ 5HITæŠ€(AGI140%è£œæ­£)ï¼šé«˜å‘½ä¸­é‡æ”»æ’ƒæŠ€ STRä½ä¸‹ä»˜ä¸
+81ï¼¾Infiniteï¼¾Infiniteï¼¾â—‡çªå±æ€§ 5HITæŠ€(AGI140%è£œæ­£)ï¼šé«˜å‘½ä¸­é‡æ”»æ’ƒæŠ€ STRä½ä¸‹ä»˜ä¸
+82ï¼¾Shadow Stitchï¼¾Shadow Stitchï¼¾â—‡æ‰“å±æ€§3HITæŠ€(STR30%&DEX150%è£œæ­£)ï¼šé«˜å‘½ä¸­ éº»ç—ºä»˜ä¸
+83ï¼¾Shadow Stitchï¼¾Shadow Stitchï¼¾â—‡æ‰“å±æ€§3HITæŠ€(STR30%&DEX150%è£œæ­£)ï¼šé«˜å‘½ä¸­ éº»ç—ºä»˜ä¸
+84ï¼¾Variant Comboï¼¾Variant Comboï¼¾Exploration Skill
+85ï¼¾Variant Comboï¼¾Variant Comboï¼¾Exploration Skill
+86ï¼¾Eternal Cycloneï¼¾Eternal Cycloneï¼¾â—‡çªå±æ€§ 4HITæŠ€(DEX240%&AGI40%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+87ï¼¾Eternal Cycloneï¼¾Eternal Cycloneï¼¾â—‡çªå±æ€§ 4HITæŠ€(DEX240%&AGI40%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+88ï¼¾Jet Triangleï¼¾Jet Triangleï¼¾Exploration Skill
+89ï¼¾Jet Triangleï¼¾Jet Triangleï¼¾Exploration Skill
+90ï¼¾Fell Crescentï¼¾Fell Crescentï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR80%è£œæ­£)ï¼šé«˜å‘½ä¸­ç¯„å›²æŠ€
+91ï¼¾Leaverï¼¾Leaverï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(STR100%è£œæ­£)ï¼šç¯„å›²æŠ€ å‡ºè¡€ä»˜ä¸
+92ï¼¾Farrant Fullmoonï¼¾Farrant Fullmoonï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(STR130%è£œæ­£)ï¼šä½ã‚¹ã‚¿ãƒ³
+93ï¼¾Bear Knockï¼¾Bear Knockï¼¾â˜…æ‰“å±æ€§ 4HITæŠ€(STR70%&AGI70%è£œæ­£)ï¼šç¯„å›²é‡æ”»æ’ƒæŠ€
+94ï¼¾Bear Knockï¼¾Bear Knockï¼¾â˜…æ‰“å±æ€§ 4HITæŠ€(STR70%&AGI70%è£œæ­£)ï¼šç¯„å›²é‡æ”»æ’ƒæŠ€
+95ï¼¾Oval Crescentï¼¾Oval Crescentï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹30%è£œæ­£)ï¼šç¯„å›²æŠ€
+96ï¼¾Death Creepï¼¾Death Creepï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR130%è£œæ­£)ï¼šç¯„å›²æŠ€ å›é¿DWä»˜ä¸
+97ï¼¾Lasing Chopperï¼¾Lasing Chopperï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(STR80%&VIT50%è£œæ­£)ï¼šé«˜å‘½ä¸­
+98ï¼¾Melee Slashï¼¾Melee Slashï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(STR60%&AGI90%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+99ï¼¾Legion Destroyerï¼¾Legion Destroyerï¼¾â—‡æ–¬å±æ€§ 7HITæŠ€(STR80%&VIT80%è£œæ­£)ï¼šå¥¥ç¾©æŠ€ å‡ºè¡€ä»˜ä¸
+100ï¼¾Tsumuji Gurumaï¼¾Tsumuji Gurumaï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(DEX120%è£œæ­£)ï¼šç¯„å›²æŠ€ å‡ºè¡€ä»˜ä¸
+101ï¼¾Uki Funeï¼¾Uki Funeï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR60%&VIT60%è£œæ­£)ï¼šç¯„å›²æŠ€ å‡ºè¡€ä»˜ä¸
+102ï¼¾Hi Ougiï¼¾Hi Ougiï¼¾â—‡æ–¬å±æ€§ 3HITæŠ€(STR60%&DEX80%è£œæ­£)ï¼šãƒªã‚¹ã‚¯å¢—åŠ  å‡ºè¡€ä»˜ä¸
+103ï¼¾Tsuji Kazeï¼¾Tsuji Kazeï¼¾â—‡æ–¬å±æ€§ 1HITæŠ€(DEX90%&AGI60%è£œæ­£)ï¼šä½ã‚¹ã‚¿ãƒ³ å‡ºè¡€ä»˜ä¸
+104ï¼¾Gen Getsuï¼¾Gen Getsuï¼¾â—‡æ–¬å±æ€§ 2HITæŠ€(DEX90%&AGI70%è£œæ­£)ï¼šæš—é—‡L2 å‡ºè¡€ä»˜ä¸
+105ï¼¾Wa Shuï¼¾Wa Shuï¼¾â—‡æ–¬å±æ€§ 5HITæŠ€(STR70%&DEX90%è£œæ­£)ï¼šå‡ºè¡€ä»˜ä¸
+106ï¼¾Ra Setsuï¼¾Ra Setsuï¼¾â—‡æ–¬å±æ€§ 3HITæŠ€(STR70%&VIT100%è£œæ­£)ï¼šé˜²å¾¡åŠ›DW å‡ºè¡€ä»˜ä¸?
+107ï¼¾San Geï¼¾San Geï¼¾â—‡æ–¬å±æ€§5HITæŠ€(STR30%&DEX180%è£œæ­£)ï¼šå¥¥ç¾©æŠ€ å‡ºè¡€ä»˜ä¸
+108ï¼¾Tsuji Kazeï¼¾Tsuji Kazeï¼¾ç›®ã«ã‚‚ç•™ã¾ã‚‰ã¬é€Ÿã•ã§ä¸€é–ƒã™ã‚‹å±…åˆæ–¬ã‚Šã€‚â˜…æ–¬/å‡ºè¡€ä»˜ä¸
+109ï¼¾Avalancheï¼¾Avalancheï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR60%&AGI60%è£œæ­£)ï¼šç¯„å›²æŠ€
+110ï¼¾Blastï¼¾Blastï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(STR50%&VIT80%è£œæ­£)ï¼šå…¨æ–¹ä½ç¯„å›²æŠ€ã€€ä½ã‚¹ã‚¿ãƒ³?
+111ï¼¾Tempestï¼¾Tempestï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR50%&AGI100%è£œæ­£)ï¼šç¯„å›²æŠ€(ã‚«ã‚¦ãƒ³ã‚¿ãƒ¼)?
+112ï¼¾Eruptionï¼¾Eruptionï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(STR90%&AGI70%è£œæ­£)ï¼šç¯„å›²æŠ€(ãƒ€ãƒ–ãƒ«ATK)?
+113ï¼¾Scoopeedï¼¾Scoopeedï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(STR100%&VIT60%è£œæ­£)ï¼šç¯„å›²æŠ€(æ”»æ’ƒåŠ›UP)?
+114ï¼¾Scoopeedï¼¾Scoopeedï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(STR100%&VIT60%è£œæ­£)ï¼šç¯„å›²æŠ€(æ”»æ’ƒåŠ›UP)?
+115ï¼¾Lightningï¼¾Lightningï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(STR80%&DEX80%è£œæ­£)ï¼šç¯„å›²æŠ€(è¿½æ’ƒå¢—åŠ )
+116ï¼¾Meteor Fallï¼¾Meteor Fallï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(STR80%&DEX100%è£œæ­£)ï¼šç¯„å›²æŠ€(å¿…ä¸­æŒç¶š)
+117ï¼¾Fight Bladeï¼¾Fight Bladeï¼¾â˜…æ–¬å±æ€§ 6HITæŠ€(AGI80%&VIT100%è£œæ­£)ï¼šç¯„å›²æŠ€(SPæ”»UP)?
+118ï¼¾Calamity Disasterï¼¾Calamity Disasterï¼¾â˜…æ–¬å±æ€§ 6HITæŠ€(STR90%&AGI100%è£œæ­£)ï¼šå¥¥ç¾©æŠ€(ç‰©ç†ãƒãƒªã‚¢)?
+119ï¼¾Blustï¼¾Blustï¼¾â˜…æ–¬å±æ€§ 2HITæŠ€(STR50%&VIT80%è£œæ­£)ï¼šå…¨æ–¹ä½ç¯„å›²æŠ€ã€€ä½ã‚¹ã‚¿ãƒ³?
+120ï¼¾Fight Bladeï¼¾Fight Bladeï¼¾â˜…æ–¬å±æ€§ 6HITæŠ€(AGI80%&VIT100%è£œæ­£)ï¼šç¯„å›²æŠ€(SPæ”»UP)?
+121ï¼¾Whirl Windï¼¾Whirl Windï¼¾â˜…æ–¬å±æ€§2HITæŠ€(STR50%&VIT50%è£œæ­£)ï¼šå…¨æ–¹ä½ç¯„å›²æŠ€
+122ï¼¾Grand Destructï¼¾Grand Destructï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(STR60%&VIT50%è£œæ­£)ï¼šç¯„å›²æŠ€
+123ï¼¾Smashï¼¾Smashï¼¾â˜…æ–¬å±æ€§ 1HITæŠ€(AGI40%&VIT80%è£œæ­£)ï¼šç¯„å›²æŠ€
+124ï¼¾Lumber Jackï¼¾Lumber Jackï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(STR120%è£œæ­£)ï¼šå›é¿DWä»˜ä¸
+125ï¼¾Ultimate Breakerï¼¾Ultimate Breakerï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(STR140%è£œæ­£)ï¼šä½ã‚¹ã‚¿ãƒ³
+126ï¼¾Crescent Avalancheï¼¾Crescent Avalancheï¼¾â˜…æ–¬å±æ€§ 6HITæŠ€(STR160%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+127ï¼¾Crescent Avalancheï¼¾Crescent Avalancheï¼¾â˜…æ–¬å±æ€§ 7HITæŠ€(STR160%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+128ï¼¾Crimson Bloodï¼¾Crimson Bloodï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹40%è£œæ­£)ï¼šé˜²å¾¡åŠ›DWä»˜ä¸
+129ï¼¾Trample Actï¼¾Trample Actï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(STR80%&VIT80%è£œæ­£)ï¼šè¶…é‡æ”»æ’ƒæŠ€(ä½å‘½ä¸­)
+130ï¼¾Dynamic Violenceï¼¾Dynamic Violenceï¼¾â˜…æ–¬å±æ€§ 4HITæŠ€(STR100%&VIT100%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+131ï¼¾Whirl Windï¼¾Whirl Windï¼¾ç«œå·»ã‚’å·»ãèµ·ã“ã™å‹¢ã„ã§å¤§æ–§ã‚’æŒ¯ã‚Šå›ã™å¤§æŠ€
+132ï¼¾Lumber Jackï¼¾Lumber Jackï¼¾â˜…æ–¬å±æ€§ 3HITæŠ€(STR140%è£œæ­£)ï¼šå›é¿ãƒ€ã‚¦ãƒ³ä»˜ä¸
+133ï¼¾Twin Thrustï¼¾Twin Thrustï¼¾â˜…çªå±æ€§ 2HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹15%è£œæ­£)ï¼šç¯„å›²æŠ€ éº»ç—ºä»˜ä¸
+134ï¼¾Helical Twiceï¼¾Helical Twiceï¼¾â˜…çªå±æ€§ 2HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹15%è£œæ­£)ï¼šå…¨æ–¹ä½ç¯„å›²æŠ€
+135ï¼¾Sonic Chargeï¼¾Sonic Chargeï¼¾â˜…çªå±æ€§ 1HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹20%è£œæ­£)ï¼šç¯„å›²æŠ€ æ”»æ’ƒé€Ÿåº¦DWä»˜ä¸
+136ï¼¾Fatal Thrustï¼¾Fatal Thrustï¼¾â˜…çªå±æ€§ 1HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹25%è£œæ­£)ï¼šç¯„å›²æŠ€ æš—é—‡L3ä»˜ä¸
+137ï¼¾Revolve Artsï¼¾Revolve Artsï¼¾â˜…çªå±æ€§ 5HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹30%è£œæ­£)ï¼šç¯„å›²æŠ€ æ”»æ’ƒåŠ›DWä»˜ä¸
+138ï¼¾Vent Forthï¼¾Vent Forthï¼¾â˜…çªå±æ€§ 4HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹30%è£œæ­£)ï¼šç¯„å›²æŠ€ å›é¿DWä»˜ä¸
+139ï¼¾Dancing Spearï¼¾Dancing Spearï¼¾â˜…çªå±æ€§ 5HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹40%è£œæ­£)ï¼šç¯„å›²æŠ€ é˜²å¾¡DWä»˜ä¸
+140ï¼¾Dimension Stampedeï¼¾Dimension Stampedeï¼¾â—‡çªå±æ€§ 6HITæŠ€(å…¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ 50%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+141ï¼¾Silent Blowï¼¾Silent Blowï¼¾â˜…æ‰“å±æ€§ 1HITæŠ€(STR60%&DEX40%è£œæ­£)ï¼šç¯„å›²æŠ€(é«˜å‘½ä¸­)
+142ï¼¾Silent Blowï¼¾Silent Blowï¼¾â˜…æ‰“å±æ€§ 1HITæŠ€(STR60%&DEX40%è£œæ­£)ï¼šç¯„å›²æŠ€(é«˜å‘½ä¸­)
+143ï¼¾Power Strikeï¼¾Power Strikeï¼¾â˜…æ‰“å±æ€§1HITæŠ€(STR100%è£œæ­£)ï¼šç¯„å›²æŠ€ ä½ã‚¹ã‚¿ãƒ³
+144ï¼¾Power Strikeï¼¾Power Strikeï¼¾â˜…æ‰“å±æ€§1HITæŠ€(STR100%è£œæ­£)ï¼šç¯„å›²æŠ€ ä½ã‚¹ã‚¿ãƒ³
+145ï¼¾Upper Swingï¼¾Upper Swingï¼¾â˜…æ‰“å±æ€§ 2HITæŠ€(AGI50%&VIT60%è£œæ­£)ï¼šé«˜å‘½ä¸­ ä½ã‚¹ã‚¿ãƒ³
+146ï¼¾Upper Swingï¼¾Upper Swingï¼¾â˜…æ‰“å±æ€§ 2HITæŠ€(AGI50%&VIT60%è£œæ­£)ï¼šé«˜å‘½ä¸­ ä½ã‚¹ã‚¿ãƒ³
+147ï¼¾Strike Heartï¼¾Strike Heartï¼¾â˜…æ‰“å±æ€§ 3HITæŠ€(STR70%&DEX50%è£œæ­£)ï¼šSPæ¸›å°‘ä»˜ä¸ ã‚¹ã‚¿ãƒ³
+148ï¼¾Strike Heartï¼¾Strike Heartï¼¾â˜…æ‰“å±æ€§ 3HITæŠ€(STR70%&DEX50%è£œæ­£)ï¼šSPæ¸›å°‘ä»˜ä¸ ã‚¹ã‚¿ãƒ³
+149ï¼¾Diastrophismï¼¾Diastrophismï¼¾â˜…æ‰“å±æ€§ 5HITæŠ€(STR30%&VIT100%è£œæ­£)ï¼šSPMAXDWä»˜ä¸
+150ï¼¾Diastrophismï¼¾Diastrophismï¼¾â˜…æ‰“å±æ€§ 3HITæŠ€(STR30%&VIT100%è£œæ­£)ï¼šSPMAXDWä»˜ä¸
+151ï¼¾Thrice Blowï¼¾Thrice Blowï¼¾â—‡æ‰“å±æ€§ 3HITæŠ€(STR140%è£œæ­£)ï¼šãƒªã‚¹ã‚¯å¢—åŠ ä»˜ä¸ ä½ã‚¹ã‚¿ãƒ³
+152ï¼¾Thrice Blowï¼¾Thrice Blowï¼¾ã€
+153ï¼¾Brutal Strikeï¼¾Brutal Strikeï¼¾â—‡æ‰“å±æ€§ 3HITæŠ€(AGI70%&VIT90%è£œæ­£)ï¼šãƒªã‚¹ã‚¯å¢—åŠ ä»˜ä¸
+154ï¼¾Brutal Strikeï¼¾Brutal Strikeï¼¾â—‡æ‰“å±æ€§ 3HITæŠ€(AGI70%&VIT90%è£œæ­£)ï¼šãƒªã‚¹ã‚¯å¢—åŠ ä»˜ä¸
+155ï¼¾Trinity Artsï¼¾Trinity Artsï¼¾â—‡æ‰“å±æ€§ 3HITæŠ€(AGI80%&VIT90%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+156ï¼¾Trinity Artsï¼¾Trinity Artsï¼¾â—‡æ‰“å±æ€§ 3HITæŠ€(AGI80%&VIT90%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€
+157ï¼¾Variable Blowï¼¾Variable Blowï¼¾â—‡æ‰“å±æ€§ 8HITæŠ€(AGI90%&VIT110%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+158ï¼¾Variable Blowï¼¾Variable Blowï¼¾â—‡æ‰“å±æ€§ 8HITæŠ€(AGI90%&VIT110%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+159ï¼¾Aim Shootï¼¾Aim Shootï¼¾â—‡çªå±æ€§ 3HITæŠ€(DEX60%&AGI60%è£œæ­£)ï¼šå‘½ä¸­é‡è¦–æŠ€
+160ï¼¾Hale Bulletï¼¾Hale Bulletï¼¾â—‡çªå±æ€§ 5HITæŠ€(STR60%&AGI60%è£œæ­£)ï¼šé‡æ”»æ’ƒæŠ€ æ¯’L3ä»˜ä¸
+161ï¼¾Arrows Danceï¼¾Arrows Danceï¼¾Bow Skill
+162ï¼¾Time Of Snapï¼¾Time Of Snapï¼¾â—‡çªå±æ€§ 3HITæŠ€(AGI100%è£œæ­£)ï¼šæ”»æ’ƒé€Ÿåº¦DWL2
+163ï¼¾Target Weakï¼¾Target Weakï¼¾â—‡çªå±æ€§3HITæŠ€(DEX120%è£œæ­£)ï¼šæš—é—‡L5ä»˜ä¸
+164ï¼¾Million Howlingï¼¾Million Howlingï¼¾â—‡çªå±æ€§ 9HITæŠ€(DEX80%&AGI80%è£œæ­£)ï¼šå¥¥ç¾©æŠ€
+165ï¼¾Brandish Fireï¼¾Brandish Fireï¼¾Bow Skill
+166ï¼¾Phoenix Rizeï¼¾Phoenix Rizeï¼¾ã—ã‚“ã›ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+167ï¼¾Divine Crossï¼¾Divine Crossï¼¾å¼·çƒˆãªå¨åŠ›ã‚’èª‡ã‚‹åå­—æ–¬ã‚Šã€€å‰£ã®è»Œè·¡ãŒå…‰ã‚’å¸¯ã³ã‚‹
+168ï¼¾Matrix Submergeï¼¾Matrix Submergeï¼¾ã—ã‚“ã›ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+169ï¼¾Unicorn Chargeï¼¾Unicorn Chargeï¼¾æ°´å¹³ã«æ§‹ãˆãŸå‰£ã§ã®å¼·åŠ›ãªçªæ’ƒçªãã€€èµ¤ã„é–ƒå…‰ã‚’å¸¯ã³ã¦ã„ã‚‹
+170ï¼¾Dominion Blessï¼¾Dominion Blessï¼¾ã—ã‚“ã›ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+171ï¼¾Guardian Of Honorï¼¾Guardian Of Honorï¼¾æ‹³ã¨å‰£ã‚’çµ„ã¿åˆã‚ã›ãŸé«˜å¨åŠ›ã®è¤‡åˆæŠ€ã€€é›·å…‰ãŒèµ°ã‚‹
+172ï¼¾Divine Assaultï¼¾Divine Assaultï¼¾ã—ã‚“ã›ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+173ï¼¾Gospel Squareï¼¾Gospel Squareï¼¾å››é€£å‰£æ’ƒã§ç›¸æ‰‹ã®å››æ–¹ã«è¡æ’ƒæ³¢ã§å›²ã†ã‚¹ã‚­ãƒ«
+174ï¼¾Advent Valkyrieï¼¾Advent Valkyrieï¼¾ã—ã‚“ã›ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+175ï¼¾Physical Creedï¼¾Physical Creedï¼¾ã—ã‚“ã›ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+176ï¼¾Akashic Armageddonï¼¾Akashic Armageddonï¼¾å‰£ã‚’æŒ¯ã‚‹ã†ã ã‘ã§å¤©åœ°ã‚’ã‚†ã‚‹ãŒã™å¨åŠ›ã‚’ç§˜ã‚ãŸç¥è–å‰£å¥¥ç¾©
+177ï¼¾Jihad Menaceï¼¾Jihad Menaceï¼¾ã—ã‚“ã›ã„ã‘ã‚“ã‚¹ã‚­ãƒ«
+178ï¼¾Exact Onslaughtï¼¾Exact Onslaughtï¼¾Battle Skill
+179ï¼¾Exact Onslaughtï¼¾Exact Onslaughtï¼¾Battle Skill
+180ï¼¾Tactical Bashï¼¾Tactical Bashï¼¾Battle Skill
+181ï¼¾Skill Linkï¼¾Skill Linkï¼¾Rank 1 Link-Tech
+182ï¼¾Skill Linkï¼¾Skill Linkï¼¾Rank 2 Link-Tech
+183ï¼¾Skill Linkï¼¾Skill Linkï¼¾Rank 3 Link-Tech
+184ï¼¾Skill Linkï¼¾Skill Linkï¼¾åŒæ™‚é€£æº
+185ï¼¾Skill Linkï¼¾Skill Linkï¼¾èƒŒå¾Œé€£æº
+186ï¼¾Skill Linkï¼¾Skill Linkï¼¾æŠ€ä¸­é€£æº
+187ï¼¾Skill Linkï¼¾Skill Linkï¼¾Rank 4 Link-Tech
+188ï¼¾Skill Linkï¼¾Skill Linkï¼¾çŠ¶æ…‹ç•°å¸¸é€£æº
+189ï¼¾Divine Guardianï¼¾Divine Guardianï¼¾Special Sword Skill
+190ï¼¾Divine Guardianï¼¾Divine Guardianï¼¾Special Sword Skill
+191ï¼¾Head Hammerï¼¾Head Hammerï¼¾Bore Special Attack
+192ï¼¾Raise Hornï¼¾Raise Hornï¼¾Bore Special Attack
+193ï¼¾Shield Bashï¼¾Shield Bashï¼¾Elder LizardMan Special Attack
+194ï¼¾Poison Blowï¼¾Poison Blowï¼¾Scorpion Special Attack
+195ï¼¾Scorpion Impactï¼¾Scorpion Impactï¼¾Scorpion Special Attack
+196ï¼¾Palys Showerï¼¾Palys Showerï¼¾Hornet Special Attack
+197ï¼¾Death Needleï¼¾Death Needleï¼¾Hornet Special Attack
+198ï¼¾Needle Danceï¼¾Needle Danceï¼¾Hornet Special Attack
+199ï¼¾Kumo no Itoï¼¾Kumo no Itoï¼¾Tarantula Special Attack
+200ï¼¾Tarantu Impactï¼¾Tarantu Impactï¼¾Tarantula Special Attack
+201ï¼¾Nenekiï¼¾Nenekiï¼¾Blue Slime Special Attack
+202ï¼¾Slime Impactï¼¾Slime Impactï¼¾Blue Slime Special Attack
+203ï¼¾Acid Breakï¼¾Acid Breakï¼¾Ant Worker Special Attack
+204ï¼¾Ant Impactï¼¾Ant Impactï¼¾Ant Worker Special Attack
+205ï¼¾Acid Downï¼¾Acid Downï¼¾Ant Lion Special Attack
+206ï¼¾Sand Smokeï¼¾Sand Smokeï¼¾Ant Lion Special Attack
+207ï¼¾Dragon Breathï¼¾Dragon Breathï¼¾Green Dragon Special Attack
+208ï¼¾Kamichigiruï¼¾Kamichigiruï¼¾Green Dragon Special Attack
+209ï¼¾Poison Netï¼¾Poison Netï¼¾Giant Spider Special Attack
+210ï¼¾Twine Netï¼¾Twine Netï¼¾Crimson Spinner Special Attack
+211ï¼¾Sharp Spearï¼¾Sharp Spearï¼¾Giant Spider Special Attack
+212ï¼¾Poison Mistï¼¾Poison Mistï¼¾Crimson Spinner Special Attack
+213ï¼¾Cursed Zephyrï¼¾Cursed Zephyrï¼¾Baphomet-Type(Red) Special Attack 3
+214ï¼¾Howling Breathï¼¾Howling Breathï¼¾Baphomet-Type Special Attack 1
+215ï¼¾Stan Blowï¼¾Stan Blowï¼¾Bishop LizardMan Special Attack
+216ï¼¾Vanish Burstï¼¾Vanish Burstï¼¾Bishop LizardMan Special Attack
+217ï¼¾Stan Quakeï¼¾Stan Quakeï¼¾Stone Golem Special Attack
+218ï¼¾Cyclone Cannonï¼¾Cyclone Cannonï¼¾Stone Golem Special Attack
+219ï¼¾Demonic Clawï¼¾Demonic Clawï¼¾Arc Demon Special Attack
+220ï¼¾Striker Burstï¼¾Striker Burstï¼¾Arc Demon Special Attack
+221ï¼¾Bloody Rushï¼¾Bloody Rushï¼¾Cyclope-Type Special Attack 1
+222ï¼¾Evil Colliderï¼¾Evil Colliderï¼¾Cyclope-Type Special Attack 2
+223ï¼¾Jyagan Kaihouï¼¾Jyagan Kaihouï¼¾Cyclope-Type Special Attack 3
+224ï¼¾Vanishing Hollowï¼¾Vanishing Hollowï¼¾Final Boss 2nd form Special Attack 1
+225ï¼¾Bluster Hollowï¼¾Bluster Hollowï¼¾Final Boss 2nd form Special Attack 2
+226ï¼¾Triple Breathï¼¾Triple Breathï¼¾Cerberos-type Special Attack 1
+227ï¼¾Deadly Biteï¼¾Deadly Biteï¼¾Cerberos-type Special Attack 2
+228ï¼¾Spike Flailï¼¾Spike Flailï¼¾Hydra-type Special Attack 1
+229ï¼¾Hydra Blastï¼¾Hydra Blastï¼¾Hydra-type Special Attack 2
+230ï¼¾ Dancing Burstï¼¾ Dancing Burstï¼¾Centaur-type Special Attack 1
+231ï¼¾ Sword Impactï¼¾ Sword Impactï¼¾Centaur-type Special Attack 2
+232ï¼¾Zetubou no Kaihouï¼¾Zetubou no Kaihouï¼¾Final Boss 1st form Special Attack 1
+233ï¼¾Shi no Senreiï¼¾Shi no Senreiï¼¾Final Boss 1st form Special Attack 2
+234ï¼¾Scythe Spinï¼¾Scythe Spinï¼¾Phantom Special Attack
+235ï¼¾Badly Eyeï¼¾Badly Eyeï¼¾Fake-Door Special Attack
+236ï¼¾Hells Eyeï¼¾Hells Eyeï¼¾Hell's Wall Special Attack
+237ï¼¾Paralyze Salivaï¼¾Paralyze Salivaï¼¾Mimic Special Attack
+238ï¼¾Slip Blowï¼¾Slip Blowï¼¾Fresh Crab Special Attack
+239ï¼¾Poison Blowï¼¾Poison Blowï¼¾Poison Crab Special Attack
+240ï¼¾Cruel Stormï¼¾Cruel Stormï¼¾Scorpion-Boss-type Special Attack 2
+241ï¼¾Tail Hazardï¼¾Tail Hazardï¼¾Scorpion-Boss-type Special Attack 3
+242ï¼¾Trinity Crisisï¼¾Trinity Crisisï¼¾Hydra-type Special Attack 3
+243ï¼¾Death Cycloneï¼¾Death Cycloneï¼¾Reaper-type Special Attack 2
+244ï¼¾The Darknessï¼¾The Darknessï¼¾Reaper-type Special Attack 3
+245ï¼¾Omega Cannonï¼¾Omega Cannonï¼¾Golem-Boss-type Special Attack 3
+246ï¼¾Trinity Fallï¼¾Trinity Fallï¼¾Hydra-type(Black) Special Attack 3
+247ï¼¾Poison Cloudï¼¾Poison Cloudï¼¾Skeleton-King-type Special Attack 3
+248ï¼¾Bugs Impactï¼¾Bugs Impactï¼¾Ant-Lion-Boss-type Special Attack 3
+249ï¼¾Deep Kissï¼¾Deep Kissï¼¾Cerberos-type Special Attack 3
+250ï¼¾Deep Screamï¼¾Deep Screamï¼¾Centaur-type Special Attack 3
+251ï¼¾Jyagan Kaiganï¼¾Jyagan Kaiganï¼¾Cyclope-type(Blue) Special Attack 3
+252ï¼¾Heavy Eaterï¼¾Heavy Eaterï¼¾Dragon-Boss-type Special Attack 3
+253ï¼¾Destiny Netï¼¾Destiny Netï¼¾Spider-Boss-type Special Attack 2
+254ï¼¾Night Requiemï¼¾Night Requiemï¼¾Spider-Boss-type Special Attack 3
+255ï¼¾Deadly Talonï¼¾Deadly Talonï¼¾Cerberos-type(Red) Special Attack 2
+256ï¼¾Strike Loaï¼¾Strike Loaï¼¾Cerberos-type(Red) Special Attack 3
+257ï¼¾Crimson Flareï¼¾Crimson Flareï¼¾Dragon-Boss-type(White) Special Attack 3
+258ï¼¾Super Novaï¼¾Super Novaï¼¾Centaur-type(Red) Special Attack 3
+259ï¼¾Hikari no Syuenï¼¾Hikari no Syuenï¼¾Final Boss 1st form Special Attack 3
+260ï¼¾Dominion Hollowï¼¾Dominion Hollowï¼¾Final Boss 2nd form Special Attack 3
+261ï¼¾Poison Lanceï¼¾Poison Lanceï¼¾Scorpion-Boss-type Special Attack 1
+262ï¼¾Scythe Tornadoï¼¾Scythe Tornadoï¼¾Reaper-type Special Attack 1
+263ï¼¾Dying Quakeï¼¾Dying Quakeï¼¾Golem-Boss-type Special Attack 1
+264ï¼¾Typhoon Cannonï¼¾Typhoon Cannonï¼¾Golem-Boss-type Special Attack 2
+265ï¼¾Acid Rainï¼¾Acid Rainï¼¾Ant-Queen-type(Red) Special Attack 1
+266ï¼¾Ant Dynamiteï¼¾Ant Dynamiteï¼¾Ant-Queen-type(Red) Special Attack 2
+267ï¼¾Acid Squallï¼¾Acid Squallï¼¾Ant-Lion-Boss-type Special Attack 1
+268ï¼¾Sand Stormï¼¾Sand Stormï¼¾Ant-Lion-Boss-type Special Attack 2
+269ï¼¾Kamikudakuï¼¾Kamikudakuï¼¾Dragon-Boss-type Special Attack 1
+270ï¼¾Dragon Flareï¼¾Dragon Flareï¼¾Dragon-Boss-type Special Attack 2
+271ï¼¾Poison Denseï¼¾Poison Denseï¼¾Spider-Boss-type Special Attack 1
+272ï¼¾Scissor Impulseï¼¾Scissor Impulseï¼¾Scorpion Special Attack
+273ï¼¾Death Slaughterï¼¾Death Slaughterï¼¾Reaper-type Special Attack 2
+274ï¼¾Weapon Netï¼¾Weapon Netï¼¾Spider-Boss-type Special Attack 2
+275ï¼¾Bloody Attackï¼¾Bloody Attackï¼¾Cyclope-Type Special Attack 1
+276ï¼¾Evil Laserï¼¾Evil Laserï¼¾Cyclope-Type Special Attack 2
+277ï¼¾Boast Breathï¼¾Boast Breathï¼¾Baphomet-type Special Attack 1
+278ï¼¾Wind Blastï¼¾Wind Blastï¼¾Wyvern-type Special Attack
+279ï¼¾Typhoon Stormï¼¾Typhoon Stormï¼¾Harpy-type Special Attack
+280ï¼¾Aero Diveï¼¾Aero Diveï¼¾Griffon-type Special Attack
+281ï¼¾Forest Pikeï¼¾Forest Pikeï¼¾Tree-type Special Attack
+282ï¼¾Plant Juiceï¼¾Plant Juiceï¼¾Flower-type Special Attack
+283ï¼¾Fall Hazardï¼¾Fall Hazardï¼¾Mushroom-type Special Attack
+284ï¼¾Suck Mindï¼¾Suck Mindï¼¾Mite-type Special Attack
+285ï¼¾Limit Liberalizationï¼¾Limit Liberalizationï¼¾ãƒœã‚¹å…±é€šã€€ã¶ã£é£›ã°ã—æ¼”å‡º
+286ï¼¾Acid Cloudï¼¾Acid Cloudï¼¾Ant-Queen-type Special Attack 3
+287ï¼¾Enemy Attack Dummy 95ï¼¾Enemy Attack Dummy 95ï¼¾
+288ï¼¾Enemy Attack Dummy 96ï¼¾Enemy Attack Dummy 96ï¼¾
+289ï¼¾Enemy Attack Dummy 97ï¼¾Enemy Attack Dummy 97ï¼¾
+290ï¼¾Enemy Attack Dummy 98ï¼¾Enemy Attack Dummy 98ï¼¾
+291ï¼¾Enemy Attack Dummy 99ï¼¾Enemy Attack Dummy 99ï¼¾
+292ï¼¾Enemy Attack Dummy 100ï¼¾Enemy Attack Dummy 100ï¼¾
+293ï¼¾Enemy Attack Dummy 101ï¼¾Enemy Attack Dummy 101ï¼¾
+294ï¼¾Enemy Attack Dummy 102ï¼¾Enemy Attack Dummy 102ï¼¾
+295ï¼¾Enemy Attack Dummy 103ï¼¾Enemy Attack Dummy 103ï¼¾
