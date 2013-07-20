@@ -1,299 +1,309 @@
-1OŒ• 1OBattle SkillO
-2O“ 1OBattle SkillO
-3OƒnƒCƒfƒBƒ“ƒOƒXƒ‰ƒCƒhOBattle SkillOŒ¶˜f‚µ‚È‚ª‚ç“G‚Ì‰¡‘¤‚Ö‘f‘‚­ƒXƒeƒbƒv‚·‚éBƒwƒCƒg•â³ƒ}ƒCƒiƒX
-4OƒXƒeƒ‹ƒXƒ|ƒWƒVƒ‡ƒ“OBattle SkillOƒwƒCƒg‚Ì•â³‚Éƒ}ƒCƒiƒX‚ÌŒø‰ÊB“G‚É‘_‚í‚ê‚É‚­‚­‚È‚é
-5OƒXƒPƒAƒNƒƒEOBattle SkillOˆêu‚ÅƒwƒCƒg‚ğ‘å•‚ÉÁ¸‚³‚¹A“G‚Ì‘_‚¢‚ğç]‚·
-6OƒoƒbƒNƒXƒ^ƒuOBattle SkillOˆê’èŠÔAŒã‚ë‚©‚ç‚ÌUŒ‚‚ÉƒNƒŠƒeƒBƒJƒ‹ƒ{[ƒiƒX‚ğ“¾‚é
-7OƒCƒ“ƒrƒWƒuƒ‹OBattle SkillO“§–¾‚É‚È‚èA“G‚Ì‹ŠoŠ´’m‚©‚ç“¦‚ê‚é
-8OƒXƒj[ƒLƒ“ƒOOBattle SkillO‰¹‚ğö‚ßA“G‚Ì’®ŠoŠ´’m‚©‚ç“¦‚ê‚é
-9OHIDEƒ|[ƒVƒ‡ƒ“g—pOBattle SkillO“G‚Ì‹ŠoŠ´’m‚Æ’®ŠoŠ´’m‚©‚ç“¦‚ê‚é
-10Oƒ~ƒXƒfƒBƒŒƒNƒVƒ‡ƒ“OBattle SkillO­‚µ‚ÌŠÔ‚¾‚¯A“G‚Ì–½’†‚ğ‘å‚«‚­‰º‚°‚Ä“¯‚É‚‚¢ƒwƒCƒg‚à“¾‚é
-11OƒGƒlƒ~[ƒT[ƒ`OBattle SkillOƒ}ƒbƒv‚É•\¦‚³‚ê‚é“G‚Ìõ“G”ÍˆÍ‚ğL‚°‚é
-12OƒfƒBƒeƒNƒgƒŒƒxƒ‹OBattle SkillO“G‚Ì‹­‚³‚ğF‚Åƒ}ƒbƒv‚É•\¦‚·‚éB“G‚Ìã“_‚ğŒ©‹É‚ß‚ç‚ê‚é‚©‚à‚µ‚ê‚È‚¢
-13OƒQƒCƒ“ƒGƒNƒXƒyƒŠƒGƒ“ƒXOBattle SkillO“¾‚ç‚ê‚éŒoŒ±’l‚ğ‘‰Á‚³‚¹‚é
-14OƒNƒ‰ƒCƒ€ƒT[ƒoƒ“ƒgOBattle SkillO“¾‚ç‚ê‚éŒoŒ±’l‚ğ‘S‚Äƒp[ƒgƒi[‚ÖŒ£ã‚·‚é
-15OƒoƒbƒNƒXƒeƒbƒvOBattle SkillO”wŒã‚ÉƒXƒeƒbƒv‚µ‚Ä‰ñ”ğ‚µ‚½ã‚ÅA‚»‚Ì“Ëi—Í‚ğ‹­—Í‚ÈUŒ‚—Í‚É•Ï‚¦‚é
-16OƒTƒCƒhƒXƒeƒbƒvOBattle SkillOƒ^[ƒQƒbƒg‘ÎÛ‚ğ’†S‚É’Z‚­ƒXƒeƒbƒvù‰ñBˆê“I‚ÉƒNƒŠƒeƒBƒJƒ‹—¦ã¸
-17Oƒ^[ƒ“ƒEƒBƒ“ƒhOBattle SkillO‚µ‚Î‚ç‚­‚ÌŠÔA‰ñ”ğ—ÍƒAƒbƒv
-18OƒCƒ“ƒ^[ƒZƒvƒeƒBƒ“ƒOOBattle SkillOu‚É‚‚¢‰ñ”ğ‚ğ“¾‚ÄA‚»‚ÌŒã‰ñ”ğ—Í‚ªŒ¸Š‚·‚é
-19OƒXƒ^[ƒZƒCƒo[OBattle SkillO–hŒä‚ğÌ‚Ä‚Ä‚‚¢‰ñ”ğ‚ÆUŒ‚‘¬“x‚ğ“¾‚é
-20Oƒoƒgƒ‹ƒVƒƒƒEƒgOBattle SkillOuŠÔ“I‚É”ñí‚É‚‚¢ƒwƒCƒg‚ğ“¾‚é
-21Oƒ\ƒEƒ‹ƒtƒH[ƒXOBattle SkillOˆê’èŠÔAƒwƒCƒg•â³‚Éƒvƒ‰ƒX
-22OƒEƒFƒ|ƒ“ƒoƒbƒVƒ…OBattle SkillO•Ší‚Å‹­‘Å‚µ‚ÄA‘Šè‚Ì“®‚«‚ğ~‚ß‚é
-23OSPƒ`ƒƒ[ƒWOBattle SkillOSP150‚ğ“¾‚é
-24OƒVƒƒƒCƒjƒ“ƒOƒGƒR[OBattle SkillO“G‚É‘å‚«‚È‰ñ”ğƒ_ƒEƒ“‚ÌŒø‰ÊB“¯‚Éƒp[ƒeƒB‘Sˆõ‚ÌUŒ‚—ÍƒAƒbƒv
-25OƒfƒBƒtƒFƒ“ƒXƒR[ƒ‹OBattle SkillO‚µ‚Î‚ç‚­‚ÌŠÔAƒp[ƒeƒBƒƒ“ƒo[‚Ì–hŒä—Í‚ğƒAƒbƒvB‘ã‚í‚è‚É©g‚ÌUŒ‚‘¬“xƒ_ƒEƒ“
-26OƒV[ƒ‹ƒhƒR[ƒeƒBƒ“ƒOOBattle SkillO–hŒä—Í‚ğˆê’èŠÔƒAƒbƒv‚³‚¹‚é
-27OƒfƒBƒtƒFƒ“ƒXƒXƒ^ƒ“ƒXOBattle SkillOUŒ‚—Í‚ğÌ‚Ä‚ÄA‚‚¢–hŒä—Í‚ÆHPƒŠƒWƒFƒl‚ğ“¾‚é
-28Oƒ_ƒ[ƒWƒJƒbƒgOBattle SkillO‚µ‚Î‚ç‚­‚ÌŠÔAaE“ËE‘Å‘Ï«‚Ì‚ ‚éƒA[ƒ}[‚ğ‚Ü‚Æ‚¤
-29OƒvƒƒeƒNƒVƒ‡ƒ“ƒV[ƒ‹OBattle SkillO•¨—ƒoƒŠƒA‚ÌŒø‰ÊBˆê’è—Ê‚Ìƒ_ƒ[ƒW‚ğ–³Œø‰»
-30Oƒgƒ‰ƒCƒŒƒWƒXƒgOBattle SkillO©g‚Ìó‘ÔˆÙí‚É’ïR‚ğ‚İ‚é
-31OƒTƒoƒCƒoƒ‹ƒŠƒrƒh[OBattle SkillOMAXHP‚ğã¸‚³‚¹‚é‚Æ“¯‚ÉHPƒŠƒWƒFƒl‚ğ“¾‚é
-32OƒŠƒWƒFƒlƒŒ[ƒVƒ‡ƒ“OBattle SkillOHP‚ğ‹}‘¬‰ñ•œ‚·‚é
-33OƒtƒBƒWƒJƒ‹ƒr[ƒgOBattle SkillO“÷‘ÌŒnó‘ÔˆÙí‚É‘Î‚·‚é‚‚¢’ïR‚ÆA‚í‚¸‚©‚È‚g‚oƒŠƒWƒFƒl‚ğ“¾‚é
-34Oƒoƒgƒ‹ƒq[ƒŠƒ“ƒOOBattle SkillO‚‚¢HPƒŠƒWƒFƒl‚ğ“¾‚é
-35OƒXƒƒEƒEƒB[ƒNƒlƒXOBattle SkillOˆê“I‚ÉA“G‚ÌUŒ‚ŠÔŠu‚ğ”ñí‚É’x‚­‚·‚é
-36OƒXƒs[ƒhƒ}ƒXƒ^[OBattle SkillOUŒ‚ŠÔŠu‚Ì’ZkŒø‰Ê‚ğ“¾‚é
-37Oƒ‰ƒCƒgƒjƒ“ƒOƒAƒ^ƒbƒNOBattle SkillOˆêu‚É‚µ‚ÄSP‚ğMAX‚É‚·‚éB‚©‚í‚è‚Éˆê’èŠÔ–hŒä—Íƒ_ƒEƒ“
-38Oƒ\[ƒhƒ_ƒ“ƒT[OBattle SkillOƒ\[ƒhƒXƒLƒ‹‚Ì”­“®ŠÔ‚ğ’Zk‚µAUŒ‚ŠÔŠu‚ğ­‚µ‘‚ß‚é
-39OƒuƒŒƒCƒuƒXƒgƒŠ[ƒ€OBattle SkillOUŒ‚‘¬“x‚ğ‘å•‚Éã¸‚³‚¹Aƒ_ƒuƒ‹ƒAƒ^ƒbƒNŠm—¦‚ª‘‰Á
-40OSPDƒ|[ƒVƒ‡ƒ“g—pOBattle SkillOUŒ‚ŠÔŠu‚Ì’ZkŒø‰Ê‚ğ“¾‚é
-41Oƒ^[ƒQƒbƒgƒTƒCƒgOBattle SkillOˆê“I‚É–½’†—¦‚ğ‘å•‚Éã¸‚³‚¹‚é
-42OƒfƒNƒXƒ^ƒŠƒeƒBOBattle SkillOˆê“I‚ÉDEX‚ğ‘‰Á‚³‚¹AƒXƒLƒ‹d’¼‚ğŒ¸­‚³‚¹‚é
-43Oƒ_ƒuƒ‹ƒnƒ“ƒhOBattle SkillOƒ_ƒuƒ‹ƒAƒ^ƒbƒNŠm—¦‚ªã¸‚·‚é‚Æ“¯‚ÉAƒNƒŠƒeƒBƒJƒ‹—¦‚ğã¸‚³‚¹‚é
-44OƒNƒŠƒeƒBƒJƒ‹ƒoƒCƒgOBattle SkillOUŒ‚‚É‡‚í‚¹Aƒ^ƒCƒ~ƒ“ƒO—Ç‚­ƒXƒLƒ‹‚ğ”­“®‚·‚é‚ÆAƒNƒŠƒeƒBƒJƒ‹—¦‚ªã¸‚·‚é
-45Oƒp[ƒtƒFƒNƒVƒ‡ƒ“ƒXƒ^ƒCƒ‹OBattle SkillOˆê’èŠÔA•ŠíUŒ‚‚É•K’†‚ğ“¾‚éB“¯‚ÉƒNƒŠƒeƒBƒJƒ‹—¦ã¸
-46ODEXƒ|[ƒVƒ‡ƒ“g—pOBattle SkillOˆê“I‚ÉDEX‚ğ‘‰Á‚³‚¹AƒXƒLƒ‹d’¼‚ğŒ¸­‚³‚¹‚é
-47OHITƒ|[ƒVƒ‡ƒ“g—pOBattle SkillOˆê’èŠÔA•ŠíUŒ‚‚É•K’†‚ğ“¾‚éB“¯‚ÉƒNƒŠƒeƒBƒJƒ‹—¦ã¸
-48OSPƒŠƒWƒFƒlOBattle SkillO‚µ‚Î‚ç‚­‚ÌŠÔASP‚Ì‰ñ•œ‚ğ‘‚ß‚é
-49Oƒ\ƒEƒ‹ƒŒƒWƒXƒgOBattle SkillO¸_ŒnUŒ‚‚É‘Î‚µA‚‚¢‘Ï«‚ğ“¾‚é
-50OƒXƒgƒ‰ƒCƒNƒGƒ“ƒhOBattle SkillOUŒ‚‚ğ‰ñ”ğ‚·‚é‚±‚Æ‚ÅSP‚ğ“¾‚éó‘Ô‚É‚È‚é
-51OƒXƒsƒŠƒbƒgƒŠƒ“ƒNOBattle SkillOˆê’èŠÔASP—Ê‚É‰‚¶‚ÄUŒ‚—Í‚ğã¸‚³‚¹‚é
-52Oƒ\ƒEƒ‹ƒtƒ‹ƒXƒ^ƒ“ƒhOBattle SkillOMAXSP‚ğ+150ã¸‚³‚¹‚é
-53OƒpƒŠƒ“ƒOOBattle SkillO‘Šè‚ÌUŒ‚‚É‡‚í‚¹‚Ä”­“®‚·‚é‚ÆAUŒ‚‚ğ–³Œø‰»‚·‚é
-54OƒGƒOƒUƒNƒgƒIƒ“ƒXƒ[ƒgOBattle SkillO’É—ó‚ÈˆêŒ‚‚ğ—^‚¦A“G‚ğ‚Ì‚¯‚¼‚èó‘Ô‚É‚·‚éBƒŠƒLƒƒƒXƒg’†‚ÍŒø‰Ê‚ª—‚¿‚é
-55OƒGƒAƒŠ[ƒV[ƒ‹ƒhOBattle SkillO“G‚ÌƒuƒŒƒXUŒ‚‚ğ–h‚®
-56Oƒtƒ@ƒ“ƒgƒ€ƒuƒŒƒCƒNOBattle SkillO¬Œ÷‚·‚ê‚ÎA‚µ‚Î‚ç‚­‚ÌŠÔƒ‚ƒ“ƒXƒ^[‚ÌƒXƒLƒ‹‚ğ••ˆó‚·‚é
-57OƒuƒŒƒCƒWƒ“ƒOƒEƒFƒ|ƒ“OBattle SkillOƒ^ƒCƒ~ƒ“ƒO—Ç‚­ƒXƒLƒ‹‚ğ”­“®‚·‚é‚±‚Æ‚Åƒ‚ƒ“ƒXƒ^[‚Ì–½’†—¦‚ğ‰º‚°‘±‚¯‚é
-58Oƒtƒ@[ƒXƒgƒXƒeƒbƒvOBattle SkillOƒp[ƒeƒB‘S‘Ì‚ÌUŒ‚‘¬“x‚ğ‘‰Á‚³‚¹‚é
-59OƒAƒ{ƒCƒfƒ“ƒXƒXƒLƒ‹OBattle SkillO“G‚ÌUŒ‚‚ğó‚¯‚éuŠÔAƒ^ƒCƒ~ƒ“ƒO—Ç‚­ƒXƒLƒ‹‚ğ”­“®‚·‚é‚ÆA‰ñ”ğ—¦‚ªã¸‚·‚é
-60Oƒ_ƒ“ƒVƒ“ƒOƒuƒŒƒCƒhOBattle SkillOƒp[ƒeƒB‘S‘Ì‚Ìƒ_ƒuƒ‹ƒAƒ^ƒbƒNŠm—¦‚ğã¸‚³‚¹‚é
-61Oƒq[ƒŠƒ“ƒOƒT[ƒNƒ‹OBattle SkillOƒp[ƒeƒB‘S‘Ì‚ÌHP‚ğˆê’è—Ê‰ñ•œ‚³‚¹‚é
-62Oƒ~ƒ…[ƒeƒbƒhƒGƒbƒWOBattle SkillOUŒ‚ŠÔŠu‚ğ‘‚ßA•Ší‚Ì’ÇŒ‚Œø‰Ê‚ğ+2‚·‚é(Å‘å’ÇŒ‚5‰ñ‚É‚È‚é)
-63OçŒì‚Ì‹F‚èOBattle SkillOƒp[ƒeƒB‘S‘Ì‚ÌHPƒŠƒWƒFƒl”\—Í‚ğ‚‚ß‚é
-64OŒì–@‚ÌŒ¶‰eOBattle SkillO•¨—UŒ‚‚É‘Î‚·‚é•ªg‚ğ“¾‚é
-65OĞ‚Ö‚Ìç‚èOBattle SkillOó‘ÔˆÙí‚É‘Î‚·‚é•ªg‚ğ“¾‚é
-66Oœ”ß‚ÌˆßOBattle SkillOƒp[ƒeƒB‘S‘Ì‚É•¨—UŒ‚‚É‘Î‚·‚é•ªg‚ğ“¾‚é
-67Oò‰»‚Ì‰ŠOBattle SkillOƒp[ƒeƒB‘Sˆõ‚ÌAó‘ÔˆÙí‚ğ‰ñ•œ‚·‚é
-68OƒnƒCƒp[ƒA[ƒ}[OBattle SkillOˆê’èŠÔAƒ_ƒ[ƒW‚ğ–³Œø‰»‚·‚éƒA[ƒ}[‚ğ“Z‚¤
-69OƒXƒgƒŒƒ“ƒOƒXOBattle SkillOˆê“I‚ÉSTR‚ÆUŒ‚—Í‚ğ‘‰Á‚³‚¹‚é
-70OƒoƒCƒ^ƒŠƒeƒBOBattle SkillOˆê“I‚ÉVIT‚ÆUŒ‚—Í‚ğ‘‰Á‚³‚¹‚é
-71Oƒ}ƒbƒXƒ‹ƒŒƒWƒXƒgOBattle SkillOó‘ÔˆÙí‚É‘Î‚µ‚ÄƒŒƒWƒXƒg‚ğ‚İ‚éB‚»‚ÌŒã‚µ‚Î‚ç‚­‚ÌŠÔ‚l‚`‚w‚g‚o‚ªã¸
-72OƒOƒƒEƒXƒQƒCƒ“OBattle SkillOMAXHP‚ğ‘å•‚É‘‹­
-73OSTRƒ|[ƒVƒ‡ƒ“g—pOBattle SkillOˆê“I‚ÉSTR‚ÆUŒ‚—Í‚ğ‘‰Á‚³‚¹‚é
-74OVITƒ|[ƒVƒ‡ƒ“g—pOBattle SkillOˆê“I‚ÉVIT‚ÆUŒ‚—Í‚ğ‘‰Á‚³‚¹‚é
-75OƒNƒŠƒ€ƒ]ƒ“ƒEƒFƒ|ƒ“OBattle SkillOHP‚ªŒ¸‚é‘ã‚í‚è‚ÉUŒ‚—ÍƒAƒbƒv
-76Oƒ}ƒbƒhƒlƒXƒuƒƒEOBattle SkillO–hŒä—Í‚ªŒ¸‚é‘ã‚í‚è‚ÉUŒ‚—ÍƒAƒbƒv
-77OƒXƒgƒ‹ƒ[ƒgƒVƒƒƒ“ƒOƒŠƒ‰OBattle SkillO‰ñ”ğ‚ªŒ¸‚é‘ã‚í‚è‚ÉƒNƒŠƒeƒBƒJƒ‹—¦ƒAƒbƒv
-78Oƒuƒ‰ƒbƒfƒBƒr[ƒNOBattle SkillOˆê’èŠÔAHP‹zûŒø‰Ê‚ğ“¾‚é
-79OƒCƒ“ƒTƒjƒeƒBƒiƒCƒgOBattle SkillO‚R‰ñ‚Ì”½Ë‚·‚éƒI[ƒ‰‚ğ“Z‚¢Aó‚¯‚½ƒ_ƒ[ƒW‚ğ‹ò‚ç‚Á‚½•ª‚¾‚¯‘Šè‚É•Ô‚·
-80OƒEƒH[ƒNƒ‰ƒCOBattle SkillOƒp[ƒeƒB‘Sˆõ‚ÌUŒ‚—Í‚ÆHP‰ñ•œ—Í‚ğ‚‚ß‚é
-81OƒuƒŒƒCƒuƒ\ƒEƒ‹OBattle SkillOƒp[ƒeƒB‘Sˆõ‚Ì–½’†‚ğƒAƒbƒv‚·‚é
-82OƒXƒg[ƒ€ƒ}ƒCƒ“ƒhOBattle SkillOƒp[ƒeƒB‘Sˆõ‚ÉSPƒŠƒWƒFƒl‚ÌŒø‰Ê
-83OƒVƒƒ[ƒvƒŒƒCƒWOBattle SkillOƒp[ƒeƒB‘Sˆõ‚ÉƒNƒŠƒeƒBƒJƒ‹—¦ã¸
-84OƒoƒŠƒAƒuƒ‹ƒXƒg[ƒ€OBattle SkillOƒp[ƒeƒB‘Sˆõ‚ªSP‚ğ“¾‚é
-85Oƒ_ƒuƒ‹ƒAƒ^ƒbƒNOBattle SkillOƒ_ƒuƒ‹ƒAƒ^ƒbƒNŠm—¦‚ªã¸‚·‚é
-86OƒJƒEƒ“ƒ^[OBattle SkillO“G‚ÌUŒ‚‚ğç]‚µA”½Œ‚‚·‚é
-87Oƒpƒ[ƒGƒ“ƒtƒH[ƒT[OBattle SkillOƒ^ƒCƒ~ƒ“ƒO—Ç‚­ƒXƒLƒ‹‚ğ”­“®‚·‚é‚ÆUŒ‚—Í‚ªã¸B”­“®‚ª‘‚·‚¬‚é‚ÆŒø‰Ê‚ÍÁ¸‚·‚é
-88Oƒo[ƒXƒgƒGƒ‰[OBattle SkillOHP‚ªŒ¸‚è‘±‚¯‚é‘ã‚í‚è‚ÉSPƒŠƒWƒFƒl‚ğ“¾‚é
-89Oƒ‰ƒXƒgƒŠƒ][ƒgOBattle SkillOUŒ‚—Í‚ªã¸‚µA‘S‚Ä‚ÌUŒ‚‚ª‘Šè‚Ì–hŒä—Í‚ğ–³‹B‘ã‚Éˆê’èŠÔSPŒ¸­
-90OƒvƒƒeƒNƒgƒXƒ‰ƒbƒVƒ…OBattle SkillOa‘®«‚É‚‚¢–hŒä—Í‚ğ“¾‚é
-91OƒvƒƒeƒNƒgƒXƒ‰ƒXƒgOBattle SkillO“Ë‘®«‚É‚‚¢–hŒä—Í‚ğ“¾‚é
-92OƒvƒƒeƒNƒgƒuƒƒEOBattle SkillO‘Å‘®«‚É‚‚¢–hŒä—Í‚ğ“¾‚é
-93OƒvƒƒeƒNƒVƒ‡ƒ“ƒA[ƒ}[OBattle SkillOƒp[ƒeƒB‘Sˆõ‚ÉAƒ_ƒ[ƒW–³Œø‚ÌŒø‰Ê‚ğ•t—^
-94OƒwƒCƒgƒ`ƒFƒ“ƒWOBattle SkillOƒp[ƒgƒi[‚ÆƒwƒCƒg‚ğŒğŠ·‚·‚é
-95OŠëŒ¯‰ñ”ğ‚Ìw¦OBattle SkillOƒp[ƒeƒB‘Sˆõ‚ÉA‚‚¢‰ñ”ğ”\—Í‚ğ—^‚¦‚é
-96OƒAƒCƒeƒ€g—p‘¬“xUPOBattle SkillO‚µ‚Î‚ç‚­‚ÌŠÔAƒAƒCƒeƒ€‚Ìg—p‘¬“x‚ğã¸‚³‚¹‚é
-97O©ŒÈ‹]µ‚ÌSOBattle SkillOƒp[ƒeƒB‘Sˆõ‚ÌHP‚ğ‰ñ•œB‚½‚¾‚µ©g‚Íˆê’èŠÔHP‚ª™X‚ÉŒ¸‚éó‘Ô‚Æ‚È‚é
-98OŒÇ‚‚Ì—EÒOBattle SkillO•¨—•ªg‚ğ“¾‚Â‚ÂA‚‚¢ƒwƒCƒg‚ğ‰Ò‚®B‚½‚¾‚µAˆê’èŠÔ–hŒä—ÍŒ¸­
-99OƒXƒLƒ‹‹Ö~OBattle SkillOˆê’èŠÔƒ‚ƒ“ƒXƒ^[‚ÌƒXƒLƒ‹‚ğ‹Ö~‚·‚é
-100O–hŒä–³ŒøOBattle SkillO‚µ‚Î‚ç‚­‚ÌŠÔA‘S‚Ä‚ÌUŒ‚‚ª‘Šè‚Ì–hŒä—Í‚ğ–³‹‚·‚é
-101OƒNƒCƒbƒNƒXƒLƒ‹OBattle SkillOƒ\[ƒhƒXƒLƒ‹”­“®‚Ü‚Å‚ÌŠÔ‚ÆA‹ZŒã‚Ìd’¼ŠÔ‚ğ‘å•‚É’Z‚­‚·‚é
-102OƒeƒNƒjƒJƒ‹ƒr[ƒXƒgOBattle SkillOUŒ‚—Í‚Æˆø‚«Š·‚¦‚ÉAAGI‚Æ‰ñ”ğ‚Æ–½’†‚ğã¸‚³‚¹‚é
-103Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹OBattle SkillOƒ^ƒCƒ~ƒ“ƒO—Ç‚­ƒXƒLƒ‹‚ğ”­“®‚µ‘±‚¯‚é‚±‚Æ‚ÅA“G‚Éã‘ÌŒø‰Ê‚ğ—^‚¦ƒ‰ƒ“ƒN‚ğã‚°‚é
-104Oƒ~ƒ[ƒ‰ƒuƒ‹ƒn[ƒgOBattle SkillOƒ‚ƒ“ƒXƒ^[‚ÉŠ|‚Á‚Ä‚¢‚éó‘ÔˆÙí‚ÌŒø‰Ê‚ğˆø‚«ã‚°‚é
-105OAGIƒ|[ƒVƒ‡ƒ“g—pOBattle SkillOAGI‚ğã¸‚³‚¹‚éB“¯‚É‰ñ”ğ‚ğã¸
-106O–½’†ƒ_ƒEƒ“Lv1OPinaSkillO
-107O–½’†ƒ_ƒEƒ“Lv2OPinaSkillO
-108O–½’†ƒ_ƒEƒ“Lv3OPinaSkillO
-109O–½’†ƒ_ƒEƒ“Lv4OPinaSkillO
-110OUŒ‚—ÍƒAƒbƒvLv1OPinaSkillO
-111OUŒ‚—ÍƒAƒbƒvLv2OPinaSkillO
-112OUŒ‚—ÍƒAƒbƒvLv3OPinaSkillO
-113O–hŒä—ÍƒAƒbƒvLv1OPinaSkillO
-114O–hŒä—ÍƒAƒbƒvLv2OPinaSkillO
-115O–hŒä—ÍƒAƒbƒvLv3OPinaSkillO
-116O‘¬“xƒAƒbƒvLv1OPinaSkillO
-117O‘¬“xƒAƒbƒvLv2OPinaSkillO
-118O‘¬“xƒAƒbƒvLv3OPinaSkillO
-119OHP‰ñ•œLv1OPinaSkillO
-120OHP‰ñ•œLv2OPinaSkillO
-121OHP‰ñ•œLv3OPinaSkillO
-122OHP‰ñ•œLv4OPinaSkillO
-123OSP‰ñ•œLv1OPinaSkillO
-124OSP‰ñ•œLv2OPinaSkillO
-125OSP‰ñ•œLv3OPinaSkillO
-126Oó‘Ô‰ñ•œLv1OPinaSkillO
-127Oó‘Ô‰ñ•œLv2OPinaSkillO
-128Oó‘Ô‰ñ•œLv3OPinaSkillO
-129O‚«”ò‚Î‚µOPinaSkillO
-130OƒfƒoƒbƒOƒnƒCƒp[ƒA[ƒ}[OBattle SkillOˆê“I‚É‚·‚×‚Ä‚Ìƒ_ƒ[ƒW‚ğ–³Œø‰»‚·‚éB¦ƒfƒoƒbƒO—p
-131Oƒfƒ…ƒGƒ‹ƒVƒƒƒEƒgOBattle SkillO
-132OƒV[ƒ‹ƒhƒfƒBƒtƒFƒ“ƒXOBattle SkillO‘Sˆõ‚É–hŒä—Íã¸‚ÆHPƒŠƒWƒFƒl‚ğ—^‚¦‚éB¦‚‘•”õ’†‚Ì‚İg—p‰Â”\
-133Oƒƒ“ƒOƒLƒƒƒXƒgOBattle SkillO
-134OƒXƒeƒbƒvƒCƒ“OBattle SkillO‘ÎÛ‚Æ‚Ì‹——£‚ğ‹l‚ßA¨‚¢‚Ì‚Ü‚Ü‚ÉUŒ‚‚·‚é
-135Oƒ\[ƒhEƒAƒTƒ‹ƒgOBattle SkillO
-136Os“®‘jŠQi–¡•ûjOAlly Attack ObstructO“G‚ªUŒ‚‚µ‚æ‚¤‚Æ‚·‚é‚Ì‚ğ–WŠQ‚·‚éB©“®”­“®‚Ì‚İ‚ÌƒXƒLƒ‹
-137OƒpƒŠƒ“ƒOi–¡•ûjOAllyParryingO“G‚ªUŒ‚‚µ‚Ä‚«‚½‚Ì‚ğ’e‚­B©“®”­“®‚Ì‚İ‚ÌƒXƒLƒ‹
-138O‚r‚s‚qƒoƒti–¡•ûjOAlly STR PlusO©•ª‚Æ–¡•û‚ÌSTR‚ğˆê“x‚Éã¸‚³‚¹‚éB©“®”­“®‚Ì‚İ‚ÌƒXƒLƒ‹
-139O‰ï˜bó‘Ô‚ÌˆÛOTalk StatusO•Ô“šƒXƒLƒ‹i‰¼j
-140O‰ï˜bó‘Ô‚ÌíœOTalk DeleteO
-141O‚g‚o{‚R‚O‚O^‚R‚O‚“ORegenerate‡TOƒAƒCƒeƒ€—pŒø‰Ê
-142O‚g‚o{‚U‚O‚O^‚U‚O‚“ORegenerate‡UOƒAƒCƒeƒ€—pŒø‰Ê
-143O‚g‚o{‚P‚O‚O‚O^‚U‚O‚“ORegenerate‡VOƒAƒCƒeƒ€—pŒø‰Ê
-144O‚r‚o{‚P‚O^‚R‚O‚“OSPCharge‡TOƒAƒCƒeƒ€—pŒø‰Ê
-145O‚r‚o{‚Q‚O^‚U‚O‚“OSPCharge‡UOƒAƒCƒeƒ€—pŒø‰Ê
-146O‚r‚o{‚T‚O^‚P‚Q‚O‚“OSPCharge‡VOƒAƒCƒeƒ€—pŒø‰Ê
-147O“]ˆÚOTeleporterO
-148O‚g‚o{‚R‚O“OHeal‡TOƒAƒCƒeƒ€—pŒø‰Ê
-149O‚g‚o{‚U‚O“OHeal‡UOƒAƒCƒeƒ€—pŒø‰Ê
-150O‚g‚o{‚P‚O‚O“OHeal‡VOƒAƒCƒeƒ€—pŒø‰Ê
-151O‚r‚o{‚R‚O“OGetSP‡TOƒAƒCƒeƒ€—pŒø‰Ê
-152O‚r‚o{‚U‚O“OGetSP‡UOƒAƒCƒeƒ€—pŒø‰Ê
-153O‚r‚o{‚P‚O‚O“OGetSP‡VOƒAƒCƒeƒ€—pŒø‰Ê
-154Oó‘Ô‰ñ•œF“ÅOCurePoisonOƒAƒCƒeƒ€—pŒø‰Ê
-155Oó‘Ô‰ñ•œFoŒŒOCureBleedOƒAƒCƒeƒ€—pŒø‰Ê
-156Oó‘Ô‰ñ•œF–ƒáƒOCureParalyzeOƒAƒCƒeƒ€—pŒø‰Ê
-157Oó‘Ô‰ñ•œFˆÃˆÅOCureBlindOƒAƒCƒeƒ€—pŒø‰Ê
-158Oó‘Ô‰ñ•œFŒ‡‘¹OCureBreakOƒAƒCƒeƒ€—pŒø‰Ê
-159Oó‘Ô‰ñ•œFˆÚ“®OCureStopOƒAƒCƒeƒ€—pŒø‰Ê
-160Oó‘Ô‰ñ•œFô‚¢OCureCurseOƒAƒCƒeƒ€—pŒø‰Ê
-161Oó‘Ô‰ñ•œF••ˆóOCureSealOƒAƒCƒeƒ€—pŒø‰Ê
-162Oó‘Ô‰ñ•œFƒXƒŠƒbƒvOCureDisperseOƒAƒCƒeƒ€—pŒø‰Ê
-163Oó‘Ô‰ñ•œF‡–°OCureSleepOƒAƒCƒeƒ€—pŒø‰Ê
-164Oó‘Ô‰ñ•œF‘S•”OCureAllOƒAƒCƒeƒ€—pŒø‰Ê
-165Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv1OStun Lv1Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv1
-166Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv2OStun Lv2Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv2
-167Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv3OStun Lv3Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv3
-168Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv4OBody BreakOƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv4
-169Oƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv5OArm BreakOƒ}[ƒVƒiƒŠ[ƒfƒrƒ‹Lv5
-170O‹|’ÊíUŒ‚OBowO‹|‚Å’ÊíUŒ‚‚ğ‚·‚éê‡‚Í‚±‚ê‚ğg—p‚·‚é
-171OƒOƒbƒhm‹C‚Ìã¸OGOODOGOOD‚ğ‚µ‚½‚Æ‚«‚ÌSP‰ñ•œs“®
-172O•ŠíƒWƒFƒl—pOWeap GeneO•ŠíƒWƒFƒl—p‚ÌŒø‰Ê
-173O•ŠíƒWƒFƒl—pOWeap GeneO•ŠíƒWƒFƒl—p‚ÌŒø‰Ê
-174OƒfƒoƒbƒOƒƒjƒ…[—pODebug MenuOƒfƒoƒbƒOƒƒjƒ…[—p‚ÌŒø‰Ê
-175OŒø‰ÊFƒXƒ^ƒ“Lv1OStun Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-176OŒø‰ÊFƒXƒ^ƒ“Lv2OStun Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-177OŒø‰ÊFƒXƒ^ƒ“Lv3OStun Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-178OŒø‰ÊF“·•”Œ‡‘¹OBody BreakOó‘ÔˆÙí—p‚ÌŒø‰Ê
-179OŒø‰ÊF˜r•”Œ‡‘¹OArm BreakOó‘ÔˆÙí—p‚ÌŒø‰Ê
-180OŒø‰ÊF‹r•”Œ‡‘¹OLeg BreakOó‘ÔˆÙí—p‚ÌŒø‰Ê
-181OŒø‰ÊFˆÚ“®•s‰ÂLv1OStop Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-182OŒø‰ÊFˆÚ“®•s‰ÂLv2OStop Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-183OŒø‰ÊF“İ‘«Lv1OSlow Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-184OŒø‰ÊF“İ‘«Lv2OSlow Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-185OŒø‰ÊFƒXƒLƒ‹••ˆóLv1OSeal Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-186OŒø‰ÊFƒXƒLƒ‹••ˆóLv2OSeal Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-187OŒø‰ÊF–½’†ƒ_ƒEƒ“Lv1OBreak Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-188OŒø‰ÊF‰ñ”ğƒ_ƒEƒ“Lv1OBreak Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-189OŒø‰ÊFUŒ‚—Íƒ_ƒEƒ“Lv1OBreak Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-190OŒø‰ÊF–hŒä—Íƒ_ƒEƒ“Lv1OBreak Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-191OŒø‰ÊFHPMAXƒ_ƒEƒ“Lv1OBreak Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-192OŒø‰ÊFSPMAXƒ_ƒEƒ“Lv1OBreak Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-193OŒø‰ÊF–½’†ƒ_ƒEƒ“Lv2OBreak Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-194OŒø‰ÊF‰ñ”ğƒ_ƒEƒ“Lv2OBreak Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-195OŒø‰ÊFUŒ‚—Íƒ_ƒEƒ“Lv2OBreak Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-196OŒø‰ÊF–hŒä—Íƒ_ƒEƒ“Lv2OBreak Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-197OŒø‰ÊFHPMAXƒ_ƒEƒ“Lv2OBreak Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-198OŒø‰ÊFSPMAXƒ_ƒEƒ“Lv2OBreak Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-199OŒø‰ÊF–Ú‚­‚ç‚Ü‚µODizzinessOó‘ÔˆÙí—p‚ÌŒø‰Ê
-200OŒø‰ÊFƒŠƒXƒN‰ÁZORiskOó‘ÔˆÙí—p‚ÌŒø‰Ê
-201OŒø‰ÊFƒŠƒXƒNŒÅ’èORiskOó‘ÔˆÙí—p‚ÌŒø‰Ê
-202OŒø‰ÊF–ƒáƒLv1OParalyze Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-203OŒø‰ÊF–ƒáƒLv2OParalyze Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-204OŒø‰ÊF–ƒáƒLv3OParalyze Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-205OŒø‰ÊFoŒŒLv1OBleed Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-206OŒø‰ÊFoŒŒLv2OBleed Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-207OŒø‰ÊFoŒŒLv3OBleed Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-208OŒø‰ÊFoŒŒLv4OBleed Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-209OŒø‰ÊFoŒŒLv5OBleed Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-210OŒø‰ÊF“ÅLv1OPoison Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-211OŒø‰ÊF“ÅLv2OPoison Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-212OŒø‰ÊF“ÅLv3OPoison Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-213OŒø‰ÊF“ÅLv4OPoison Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-214OŒø‰ÊF“ÅLv5OPoison Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-215OŒø‰ÊFSPƒXƒŠƒbƒvLv1ODisperse Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-216OŒø‰ÊFSPƒXƒŠƒbƒvLv2ODisperse Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-217OŒø‰ÊFSPƒXƒŠƒbƒvLv3ODisperse Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-218OŒø‰ÊFSPƒXƒŠƒbƒvLv4ODisperse Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-219OŒø‰ÊFSPƒXƒŠƒbƒvLv5ODisperse Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-220OŒø‰ÊFˆÃˆÅLv1OBlind Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-221OŒø‰ÊFˆÃˆÅLv2OBlind Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-222OŒø‰ÊFˆÃˆÅLv3OBlind Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-223OŒø‰ÊFˆÃˆÅLv4OBlind Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-224OŒø‰ÊFˆÃˆÅLv5OBlind Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-225OŒø‰ÊFUŒ‚‘¬“xƒ_ƒEƒ“Lv1OATK Speed Down Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-226OŒø‰ÊFUŒ‚‘¬“xƒ_ƒEƒ“Lv2OATK Speed Down Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-227OŒø‰ÊFUŒ‚‘¬“xƒ_ƒEƒ“Lv3OATK Speed Down Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-228OŒø‰ÊFUŒ‚‘¬“xƒ_ƒEƒ“Lv4OATK Speed Down Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-229OŒø‰ÊFUŒ‚‘¬“xƒ_ƒEƒ“Lv5OATK Speed Down Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-230OŒø‰ÊFô‚¢Lv1OCurse Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-231OŒø‰ÊFô‚¢Lv2OCurse Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-232OŒø‰ÊFô‚¢Lv3OCurse Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-233OŒø‰ÊFô‚¢Lv4OCurse Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-234OŒø‰ÊFô‚¢Lv5OCurse Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-235OŒø‰ÊFSTRƒ_ƒEƒ“Lv1OSTR Down Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-236OŒø‰ÊFSTRƒ_ƒEƒ“Lv2OSTR Down Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-237OŒø‰ÊFSTRƒ_ƒEƒ“Lv3OSTR Down Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-238OŒø‰ÊFSTRƒ_ƒEƒ“Lv4OSTR Down Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-239OŒø‰ÊFSTRƒ_ƒEƒ“Lv5OSTR Down Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-240OŒø‰ÊFVITƒ_ƒEƒ“Lv1OVIT Down Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-241OŒø‰ÊFVITƒ_ƒEƒ“Lv2OVIT Down Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-242OŒø‰ÊFVITƒ_ƒEƒ“Lv3OVIT Down Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-243OŒø‰ÊFVITƒ_ƒEƒ“Lv4OVIT Down Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-244OŒø‰ÊFVITƒ_ƒEƒ“Lv5OVIT Down Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-245OŒø‰ÊFAGIƒ_ƒEƒ“Lv1OAGI Down Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-246OŒø‰ÊFAGIƒ_ƒEƒ“Lv2OAGI Down Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-247OŒø‰ÊFAGIƒ_ƒEƒ“Lv3OAGI Down Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-248OŒø‰ÊFAGIƒ_ƒEƒ“Lv4OAGI Down Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-249OŒø‰ÊFAGIƒ_ƒEƒ“Lv5OAGI Down Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-250OŒø‰ÊFDEXƒ_ƒEƒ“Lv1ODEX Down Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-251OŒø‰ÊFDEXƒ_ƒEƒ“Lv2ODEX Down Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-252OŒø‰ÊFDEXƒ_ƒEƒ“Lv3ODEX Down Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-253OŒø‰ÊFDEXƒ_ƒEƒ“Lv4ODEX Down Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-254OŒø‰ÊFDEXƒ_ƒEƒ“Lv5ODEX Down Lv5Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-255OŒø‰ÊF“G—p˜rŒ‡‘¹OArm Break ENOó‘ÔˆÙí—p‚ÌŒø‰Ê
-256OŒø‰ÊF“G—p‘«Œ‡‘¹OLeg Break ENOó‘ÔˆÙí—p‚ÌŒø‰Ê
-257OŒø‰ÊFd—Êƒyƒiƒ‹ƒeƒBOWeight penaltyOó‘ÔˆÙí—p‚ÌŒø‰Ê
-258OŒø‰ÊF–½’†—¦ƒ_ƒEƒ“Lv1 ƒsƒi—pOPinaEff HitDown Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-259OŒø‰ÊF–½’†—¦ƒ_ƒEƒ“Lv2 ƒsƒi—pOPinaEff HitDown Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-260OŒø‰ÊF–½’†—¦ƒ_ƒEƒ“Lv3@ƒsƒi—pOPinaEff HitDown Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-261OŒø‰ÊF–½’†—¦ƒ_ƒEƒ“Lv4@ƒsƒi—pOPinaEff HitDown Lv4Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-262OŒø‰ÊFUŒ‚—ÍƒAƒbƒvLv1@ƒsƒi—pOPinaEff AtkUp Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-263OŒø‰ÊFUŒ‚—ÍƒAƒbƒvLv2@ƒsƒi—pOPinaEff AtkUp Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-264OŒø‰ÊFUŒ‚—ÍƒAƒbƒvLv3@ƒsƒi—pOPinaEff AtkUp Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-265OŒø‰ÊF–hŒä—ÍƒAƒbƒvLv1@ƒsƒi—pOPinaEff DefUp Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-266OŒø‰ÊF–hŒä—ÍƒAƒbƒvLv2@ƒsƒi—pOPinaEff DefUp Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-267OŒø‰ÊF–hŒä—ÍƒAƒbƒvLv3@ƒsƒi—pOPinaEff DefUp Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-268OŒø‰ÊF‘¬“xƒAƒbƒvLv1@ƒsƒi—pOPinaEff SpdUp Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-269OŒø‰ÊF‘¬“xƒAƒbƒvLv2@ƒsƒi—pOPinaEff SpdUp Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-270OŒø‰ÊF‘¬“xƒAƒbƒvLv3@ƒsƒi—pOPinaEff SpdUp Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-271OƒEƒB[ƒNƒlƒXƒtƒH[ƒ`ƒ…ƒ“OFortune CrtUpOè‚¢‚É‚æ‚è”­¶‚·‚éó‘ÔˆÙí—p‚ÌŒø‰ÊBƒvƒ‰ƒXŒø‰ÊBˆê“úŒo‰ß‚É‰ğœ‚³‚ê‚é
-272OƒhƒƒbƒvƒtƒH[ƒ`ƒ…ƒ“OFortune DropUpOè‚¢‚É‚æ‚è”­¶‚·‚éó‘ÔˆÙí—p‚ÌŒø‰ÊBƒvƒ‰ƒXŒø‰ÊBˆê“úŒo‰ß‚É‰ğœ‚³‚ê‚é
-273OƒRƒ‹ƒtƒH[ƒ`ƒ…ƒ“OFortuneColUpOè‚¢‚É‚æ‚è”­¶‚·‚éó‘ÔˆÙí—p‚ÌŒø‰ÊBƒvƒ‰ƒXŒø‰ÊBˆê“úŒo‰ß‚É‰ğœ‚³‚ê‚é
-274OƒGƒNƒXƒtƒH[ƒ`ƒ…ƒ“OFortuneExpUpOè‚¢‚É‚æ‚è”­¶‚·‚éó‘ÔˆÙí—p‚ÌŒø‰ÊBƒvƒ‰ƒXŒø‰ÊBˆê“úŒo‰ß‚É‰ğœ‚³‚ê‚é
-275OƒoƒbƒhƒtƒH[ƒ`ƒ…ƒ“OFortuneStatusDownOè‚¢‚É‚æ‚è”­¶‚·‚éó‘ÔˆÙí—p‚ÌŒø‰ÊBƒ}ƒCƒiƒXŒø‰ÊBˆê“úŒo‰ß‚É‰ğœ‚³‚ê‚é
-276Oƒoƒgƒ‹ƒXƒLƒ‹ƒ_ƒ~[‚P‚W‚OOPlayer Battle Dummy 180Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-277OŒø‰ÊFƒNƒŠƒ€ƒ]ƒ“—p“ÅOCrimson PoisonOó‘ÔˆÙí—p‚ÌŒø‰Ê
-278O‰ğ“ÅŒ‹»OCrimson Poison DelOó‘ÔˆÙí—p‚ÌŒø‰Ê
-279O[Œø‰Ê]ƒ{ƒX“·”j‰ó_UŒ‚—Íƒ_ƒEƒ“OBAD StatusO
-280O[Œø‰Ê]ƒ{ƒX“·”j‰ó_–hŒä—Íƒ_ƒEƒ“OBAD StatusO
-281O[Œø‰Ê]ƒ{ƒX“·”j‰ó_–½’†ƒ_ƒEƒ“OBAD StatusO
-282O[Œø‰Ê]ƒ{ƒX“·”j‰ó_‰ñ”ğƒ_ƒEƒ“OBAD StatusO
-283O[Œø‰Ê]ƒ{ƒX˜r”j‰ó_UŒ‚—Íƒ_ƒEƒ“OBAD StatusO
-284O[Œø‰Ê]ƒ{ƒX˜r”j‰ó_–½’†ƒ_ƒEƒ“OBAD StatusO
-285O[Œø‰Ê]ƒ{ƒX‘«”j‰ó_–½’†ƒ_ƒEƒ“OBAD StatusO
-286O[Œø‰Ê]ƒ{ƒX‘«”j‰ó_‰ñ”ğƒ_ƒEƒ“OBAD StatusO
-287OŒø‰ÊF“Áêó‘ÔLv1OSP_Lv1Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-288OŒø‰ÊF“Áêó‘ÔLv2OSP_Lv2Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-289OŒø‰ÊF“Áêó‘ÔLv3OSP_Lv3Oó‘ÔˆÙí—p‚ÌŒø‰Ê
-290Oã‘Ì‰»OJyakutaikaOƒ_ƒ~[‚æ‚¤‚ÌƒGƒlƒ~[ƒoƒgƒ‹ƒXƒLƒ‹‚³‚¬‚å‚¤‚æ‚¤‚É‚Í‚¢‚Á‚Ä‚é‚¾‚¯
-291O”S‘Ì‘‰ÁONentaizoukaOƒ_ƒ~[‚æ‚¤‚ÌƒGƒlƒ~[ƒoƒgƒ‹ƒXƒLƒ‹‚³‚¬‚å‚¤‚æ‚¤‚É‚Í‚¢‚Á‚Ä‚é‚¾‚¯
-292O”­‹¶OGO MadOƒ_ƒ~[‚æ‚¤‚ÌƒGƒlƒ~[ƒoƒgƒ‹ƒXƒLƒ‹‚³‚¬‚å‚¤‚æ‚¤‚É‚Í‚¢‚Á‚Ä‚é‚¾‚¯
-293Oƒƒ‹ƒgƒ`ƒƒ[ƒWOMelt ChargeOƒ~ƒmƒ^ƒEƒƒXŒn@“ÁêUŒ‚‚R©ŒÈ‹­‰»FUŒ‚—Í+30%
-294OƒCƒ“ƒtƒBƒjƒeƒBƒK[ƒhOInfinity GuardOƒ_[ƒNƒiƒCƒgŒn@“ÁêUŒ‚‚R©ŒÈ‹­‰»Fˆê’èŠÔ–³“G
-295OƒŠƒ~ƒbƒgƒvƒŠƒYƒ“OLimit PrisonOƒ~ƒmƒ^ƒEƒƒXŒniŠZj@“ÁêUŒ‚‚R©ŒÈ‹­‰»F–hŒä—Í+50%
-296OƒLƒ‹ƒAƒxƒ“ƒWƒƒ[OKill AvengerOƒ_[ƒNƒiƒCƒgŒniÔj@“ÁêUŒ‚‚R©ŒÈ‹­‰»FUŒ‚—Í+50%
-297OƒmƒbƒNƒoƒbƒNOKnock Back Oƒ{ƒX’ÊíUŒ‚—p
-298O‰“–i‚¦OBerserkOˆê’èŠÔAUŒ‚—Í‚ğã¸‚·‚éB“ÁêŒø‰ÊyUŒ‚—ÍƒAƒbƒv¬z
-299OƒŠƒ~ƒbƒgƒuƒŒƒCƒNOLimit BreakOƒ_ƒ~[‚æ‚¤‚ÌƒGƒlƒ~[ƒoƒgƒ‹ƒXƒLƒ‹‚³‚¬‚å‚¤‚æ‚¤‚É‚Í‚¢‚Á‚Ä‚é‚¾‚¯
+1^Sword Smithing 1^Battle Skill^
+2^Katana Smithing 1^Battle Skill^
+3^Hiding Slide^Battle Skill^Step Quickly to the Side of the Enemy, Causing Confusion. Hate Correction Down
+4^Stealth Position^Battle Skill^Enemy Has Difficulty Targeting You.  Hate Correction Down
+5^Scarecrow^Battle Skill^Dodge Enemy Attack. Hate Correction Down Greatly
+6^Backstab^Battle Skill^Wait, Then Attack, Critical Bonus to Attacks From Behind
+7^Invisible^Battle Skill^Become Transparent, Enemies Can Not See You
+8^Sneaking^Battle Skill^Conceal Sound, Enemies Can Not Hear You
+9^Use Hide Potion^Battle Skill^Enemies Can Not See or Hear You
+10^Misdirection^Battle Skill^Briefly Greatly Reduce Enemy Accuracy.  Hate Greatly Up
+11^Enemy Search^Battle Skill^Widens Search Area for Enemies, Displayed on Map
+12^Detect Level^Battle Skill^Enemy Strength Color Coded on Map, May Identify Enemy Weakness
+13^Gain Experience^Battle Skill^Increase the Amount of Experience Gained
+14^Climb Servant^Battle Skill^Give All Experience Gained to Allies  									Tsuna Check
+15^Step Back^Battle Skill^Step Back to Avoid Attack,If Successful Perform a Powerful Attack				Tsuna Check
+16^Side Step^Battle Skill^Short Step Around Target Object, Critical Rate Up Temporarily
+17^Turn Wind^Battle Skill^For a Little While Avoid Powering Up
+18^Intercepting^Battle Skill^Evasion Becomes Very High for an Instant, Then Lowered For a While
+19^Star Saber^Battle Skill^Gain High Attack Speed and Evasion by Lowering Defense
+20^Battle Shout^Battle Skill^Hate Instantly Gets Very High
+21^Soul Force^Battle Skill^For a While, Hate Correction Up
+22^Weapon Bash^Battle Skill^Hit the Enemy With Weapon to Stop Opponent
+23^SP Charge^Battle Skill^Restore 150 SP
+24^Shining Echo^Battle Skill^Enemy Evasion Down Greatly, and Entire Party's Attack Up
+25^Defense Call^Battle Skill^For a While, Entire Party's Defense Up, Attack Speed Down
+26^Shield Coating^Battle Skill^For a While, Defense Up
+27^Defensive Stance^Battle Skill^Reduce Attack to Increaser HP Regen and Defense
+28^Damage Cut^Battle Skill^For a While, Your Armor Will Resist Slash, Thrust, and Strike Damage		Tsuna Check
+29^Protection Seal^Battle Skill^Creates a Physical Barrier, a Certain Amount of Damage is Cancelled
+30^Tri-Resist^Battle Skill^User Will Try to Resist Abnormal Status Changes
+31^Survival Libido^Battle Skill^Increase Max HP and HP Regen
+32^Regeneration^Battle Skill^Rapidly Recover HP
+33^Physical Beat^Battle Skill^High Resistance to Physical Status Changes, and Slightly Increase HP Regen
+34^Battle Healing^Battle Skill^Gain High HP Regen
+35^Slow Weakness^Battle Skill^Enemy Attack Speed Temporarily Becomes Very Slow
+36^Speed Master^Battle Skill^Reduce Attack Interval
+37^Lightning Attack^Battle Skill^SP Instantly Becomes Max, Defense is Down for a While
+38^Sword Dancer^Battle Skill^Shortens the Casting Time of Sword Skills, and Slightly Reduces Attack Interval
+39^Brave Stream^Battle Skill^Significantly Raise Attack Speed, Increase Chance of Double Attack
+40^Use Speed Potion^Battle Skill^Reduce Attack Interval
+41^Target Sight^Battle Skill^Temporarily Raises Hit Rate Greatly
+42^Dexterity^Battle Skill^Increases DEX Temporarily, Reduces Skill Rigidity
+43^Double Hand^Battle Skill^Increase Chance of Double Attack and Critical Rate
+44^Critical Bite^Battle Skill^Used With an Attack, Used at the Right Time Critical Rate Up
+45^Perfection Style^Battle Skill^For a While Weapon Attacks Will Hit, and Critical Rate Up
+46^Use Dexterity Potion^Battle Skill^Temporarily Increases DEX, Skill Rigidity Down
+47^Use Hit Potion^Battle Skill^For a While Weapon Attacks Will Hit, and Critical Rate Up
+48^SP Regen^Battle Skill^For a While, SP Regen Increases
+49^Soul Resist^Battle Skill^High Resistance to Spirit Based Attacks
+50^Strike End^Battle Skill^Increase Evasion and Restore SP												Tsuna Check
+51^Spirit Link^Battle Skill^For a While, Increase Attack Power Based on SP
+52^Soulful Stand^Battle Skill^Max SP +150
+53^Parrying^Battle Skill^Activate When Opponent Attacks, Cancel Enemy Attack							Tsuna Check
+Note: Could be "Parry" 
+54^Execute Onslaught^Battle Skill^Crushing Blow to the Enemy, Effects Fall on Each Recast
+55^Airy Shield^Battle Skill^Prevents Enemy Breath Attack												Tsuna Check
+Note: Could be "Defends Against"
+56^Phantom Break^Battle Skill^If Successful, Seal Monster Skills for Some Time
+57^Blazing Weapon^Battle Skill^Used With Correct Timing, Lowers Monster Hit Rate
+58^First Step^Battle Skill^Increase the Attack Speed of the Entire Party
+59^Avoidance Skill^Battle Skill^When Being Attacked, Use With Good Timing and Avoidance Goes Up
+60^Dancing Blade^Battle Skill^Entire Party's Double Attack Rate Up
+61^Healing Circle^Battle Skill^Restore Some HP to Entire Party
+62^Muted Edge^Battle Skill^Attack Speed Up for Next Two Attacks (Stacks Up to 5 Uses)					Tsuna Check
+63^Prayer of Protection^Battle Skill^Raises Entire Party's HP Regen
+64^Phantom's Protection^Battle Skill^Creates a Double to Absorb Physical Attacks						Tsuna Check
+Note: This looks totally wrong.
+65^Defense Against Disaster^Battle Skill^Creates a Double for Abnormal Status Changes					Tsuna Check
+Note: Also Wrong
+66^Clothing of Mercy^Battle Skill^Creates a Double to Absorb Physical Attacks for Entire Part
+67^Flame of Purification^Battle Skill^Restores Entire Party to Normal Status
+68^Hyper Armor^Battle Skill^For a While, Have Armor Which Nullifies Damage
+69^Strength^Battle Skill^Increase Attack and STR Temporarily
+70^Vitality^Battle Skill^Increase Attack and VIT Temporarily
+71^Muscle Resist^Battle Skill^Increases Resistance to Abnormal Status, Also Raises Max HP Temporarily
+72^Growth Gain^Battle Skill^Greatly Increases Max HP
+73^Use Strength Potion^Battle Skill^Increase Attack and STR Temporarily
+74^Use Vitality Potion^Battle Skill^Increase Attack and VIT Temporarily
+75^Crimson Weapon^Battle Skill^Sacrifice HP to Increase Attack Power
+76^Madness Blow^Battle Skill^Increase Attack and Decrease Defense
+77^Stalwart Shangri-La^Battle Skill^Critical Rate Increased and Evasion is Decreased
+78^Bloody Beak^Battle Skill^For a While Have HP Absorption Effect
+79^Insanity Night^Battle Skill^Create an Aura to Reflect Damage Back on Opponent, Works 3 Times
+80^War Cry^Battle Skill^Increase HP Regen and Attack of the Entire Party
+81^Brave Soul^Battle Skill^Entire Party's Hit Rate Up
+82^Mind Storm^Battle Skill^Entire Party's SP Regenerates
+83^Sharp Rage^Battle Skill^Entire Party's Crit Rate Up
+84^Variable Storm^Battle Skill^Restore SP to Entire Party
+85^Double Attack^Battle Skill^Double Attack Rate Up
+86^Counter^Battle Skill^Dodge Enemy Attack and Strike Back
+87^Power Enforcer^Battle Skill^If Used At the Right Time, Attack Increased, Effect Disappears if Used Too Soon
+88^Burst Error^Battle Skill^HP Increases and SP Regenerates
+89^Last Resort^Battle Skill^Attack Increased, Attacks Ignore Defense. Effect Length Determined by SP Spent
+90^Protect Slash^Battle Skill^Gain High Defense Against Slash Attacks								Tsuna Check
+91^Protect Thrust^Battle Skill^Gain High Defense Against Thrust Attacks								Tsuna Check
+92^Protect Blow^Battle Skill^Gain High Defense Against Strike Attacks								Tsuna Check
+93^Protection Armor^Battle Skill^Entire Party Gains Armor Which Nullifies Damage
+94^Hate Change^Battle Skill^Exchange Hate With Ally
+95^Avoid Danger^Battle Skill^Entire Party's Evasion Greatly Up
+Note: Lit "Indication of Risk Aversion"  Any ideas on something better than "Avoid Danger?"
+96^Item Use Speed Up^Battle Skill^For a While, Items Can Be Used Faster
+97^Soul of Self-Sacrifice^Battle Skill^Restore HP to Entire Party, Then Gradually Reduces For a While
+98^Solitary Hero^Battle Skill^Create a Double to Absorb Enemy Hate, However Defense is Reduced for a While
+99^Skill Ban^Battle Skill^Monster Cannot Use Skills for a While
+100^Nullify Defense^Battle Skill^For a While, All Attacks Ignore Enemy Defense
+101^Quick Skill^Battle Skill^Use a Sword Skill Faster, Increases Skill Rigidity
+102^Technical Beast^Battle Skill^Evasion, Accuracy, and AGI Increased, In Exchange for Lowered Attack
+103^Machinery Devil^Battle Skill^By Continuously Using With Good Timing, Enemy is Weakened
+104^Miserable Heart^Battle Skill^Abnormal Status Effects on Enemies are More Effective				Tsuna Check
+Note: I don't know if this says the enemy will be more likely to change status or that e.g. poison will do more damage.
+105^Use Agility Potion^Battle Skill^Raise Evasion and AGI
+106^Hit Down Lvl 1^PinaSkill^
+107^Hit Down Lvl 2^PinaSkill^
+108^Hit Down Lvl 3^PinaSkill^
+109^Hit Down Lvl 4^PinaSkill^
+110^Attack Up Lvl 1^PinaSkill^
+111^Attack Up Lvl 2^PinaSkill^
+112^Attack Up Lvl 3^PinaSkill^
+113^Defense Up Lvl 1^PinaSkill^
+114^Defense Up Lvl 2^PinaSkill^
+115^Defense Up Lvl 3^PinaSkill^
+116^Speed Up Lvl 1^PinaSkill^
+117^Speed Up Lvl 2^PinaSkill^
+118^Speed Up Lvl 3^PinaSkill^
+119^HP Recovery Lvl 1^PinaSkill^
+120^HP Recovery Lvl 2^PinaSkill^
+121^HP Recovery Lvl 3^PinaSkill^
+122^HP Recovery Lvl 4^PinaSkill^
+123^SP Recovery Lvl 1^PinaSkill^
+124^SP Recovery Lvl 2^PinaSkill^
+125^SP Recovery Lvl 3^PinaSkill^
+126^Status Recovery Lvl 1^PinaSkill^
+127^Status Recovery Lvl 2^PinaSkill^
+128^Status Recovery Lvl 3^PinaSkill^
+129^Blow^PinaSkill^
+130^Debug Hyper Armor^Battle Skill^Nullify Damage Temporarily, Debugging
+131^Duel Shout^Battle Skill^
+132^Shield Defense^Battle Skill^Increase HP and Defense to Entire Party, Shield Must be Equipped
+133^Long Cast^Battle Skill^
+134^Step-In^Battle Skill^Move Toward Target and Attack With Force								Tsuna Check
+135^Sword Assault^Battle Skill^
+136^Behavioural Inhibition (Ally)^Ally Attack Obstruct^Prevents Enemy Attack, Skill Activates Automatically
+137^Parrying (Ally)^AllyParrying^Activate When Attacked, Cancels Enemy Attack, Skill Activates Automatically
+138^Strength Buff (Ally)^Ally STR Plus^Instantly Raises User's STR, Skill Activates Automatically
+139^Maintain the Conversation State^Talk Status^Reply Skill (Debug)
+140^Delete the Conversation State^Talk Delete^
+141^HP +300/30s^RegenerateI^Item-Effect
+142^HP +600/60s^RegenerateII^Item-Effect
+143^Hp +1000/60s^RegenerateIII^Item-Effect
+144^SP +10/30s^SPChargeI^Item-Effect
+145^SP +20/60s^SPChargeII^Item-Effect
+146^SP +50/120s^SPChargeIII^Item-Effect
+147^Teleport^Teleporter^
+Note:Lit "Transition"
+148^HP +30%^HealI^Item-Effect
+149^HP +60%^HealII^Item-Effect
+150^HP +100%^HealIII^Item-Effect
+151^SP +30%^GetSPI^Item-Effect
+152^SP +60%^GetSPII^Item-Effect
+153^SP +100%^GetSPIII^Item-Effect
+154^Status Recovery: Poison^CurePoison^Item-Effect
+155^Status Recovery: Bleeding^CureBleeding^Item-Effect
+156^Status Recovery: Paralysis^CureParalyze^Item-Effect
+157^Status Recovery: Blindness^CureBlind^Item-Effect
+158^Status Recovery: Break^CureBreak^Item-Effect
+159^Status Recovery: Stop^CureStop^Item-Effect
+160^Status Recovery: Curse^CureCurse^Item-Effect
+161^Status Recovery: Seal^CureSeal^Item-Effect
+162^Status Recovery: Slip^CureDisperse^Item-Effect
+163^Status Recovery: Sleep^CureSleep^Item-Effect
+164^Status Recovery: All^CureAll^Item-Effect
+165^Machinery Devil Lvl 1^Stun Lv1^Machinery Devil Lvl 1
+166^Machinery Devil Lvl 2^Stun Lv2^Machinery Devil Lvl 2
+167^Machinery Devil Lvl 3^Stun Lv3^Machinery Devil Lvl 3
+168^Machinery Devil Lvl 4^Body Break^Machinery Devil Lvl 4
+169^Machinery Devil Lvl 5^Arm Break^Machinery Devil Lvl 5
+Note: Could be "Devil Machinery" as well.  At some point a better description would be good too.
+170^Bow Normal Attack^Bow^Normal Attack With a Bow
+171^Raise Morale^GOOD^Recover SP													Tsuna Check
+Note: Not sure about the description.
+172^Weapon Generator^Weap Gene^Weapon Generator Skill
+173^Weapon Generator^Weap Gene^Weapon Generator Skill
+174^Debug Menu^Debug Menu^Debug Menu Skill
+175^Effect: Stun^Stun Lv1^Abnormal Status Effect
+176^Effect: Stun^Stun Lv2^Abnormal Status Effect
+177^Effect: Stun^Stun Lv3^Abnormal Status Effect
+178^Effect: Missing Body Parts^Body Break^Abnormal Status Effect
+179^Effect: Missing Arm^Arm Break^Abnormal Status Effect
+180^Effect: Missing Leg^Leg Break^Abnormal Status Effect
+181^Effect: Stop Lvl 1^Stop Lv1^Abnormal Status Effect
+182^Effect: Stop Lvl 2^Stop Lv2^Abnormal Status Effect
+183^Effect: Slow Lvl 1^Slow Lv1^Abnormal Status Effect
+184^Effect: Slow Lvl 2^Slow Lv2^Abnormal Status Effect
+185^Effect: Seal Lvl 1^Seal Lv1^Abnormal Status Effect
+186^Effect: Seal Lvl 2^Seal Lv2^Abnormal Status Effect
+187^Effect: Hit Down Lvl 1^Break Lv1^Abnormal Status Effect
+188^Effect: Evasion Down Lvl 1^Break Lv1^Abnormal Status Effect
+189^Effect: Attack Down Lvl 1^Break Lv1^Abnormal Status Effect
+190^Effect: Defense Down Lvl 1^Break Lv1^Abnormal Status Effect
+191^Effect: Max HP Down Lvl 1^Break Lv1^Abnormal Status Effect
+192^Effect: Max SP Down Lvl 1^Break Lv1^Abnormal Status Effect
+193^Effect: Hit Down Lvl 2^Break Lv2^Abnormal Status Effect
+194^Effect: Evasion Down Lvl 2^Break Lv2^Abnormal Status Effect
+195^Effect: Attack Down Lvl 2^Break Lv2^Abnormal Status Effect
+196^Effect: Defense Down Lvl 2^Break Lv2^Abnormal Status Effect
+197^Effect: Max HP Down Lvl 2^Break Lv2^Abnormal Status Effect
+198^Effect: Max SP Down Lvl 2^Break Lv2^Abnormal Status Effect
+199^Effect: Blind^Dizziness^Abnormal Status Effect
+Note: Should be tested in game.
+200^Effect: Added Risk^Risk^Abnormal Status Effect
+201^Effect: Fixed Risk^Risk^Abnormal Status Effect
+202^Effect: Paralysis Lvl 1^Paralyze Lv1^Abnormal Status Effect
+203^Effect: Paralysis Lvl 2^Paralyze Lv2^Abnormal Status Effect
+204^Effect: Paralysis Lvl 3^Paralyze Lv3^Abnormal Status Effect
+205^Effect: Bleeding Lvl 1^Bleed Lv1^Abnormal Status Effect
+206^Effect: Bleeding Lvl 2^Bleed Lv2^Abnormal Status Effect
+207^Effect: Bleeding Lvl 3^Bleed Lv3^Abnormal Status Effect
+208^Effect: Bleeding Lvl 4^Bleed Lv4^Abnormal Status Effect
+209^Effect: Bleeding Lvl 5^Bleed Lv5^Abnormal Status Effect
+210^Effect: Poison Lvl 1^Poison Lv1^Abnormal Status Effect
+211^Effect: Poison Lvl 2^Poison Lv2^Abnormal Status Effect
+212^Effect: Poison Lvl 3^Poison Lv3^Abnormal Status Effect
+213^Effect: Poison Lvl 4^Poison Lv4^Abnormal Status Effect
+214^Effect: Poison Lvl 5^Poison Lv5^Abnormal Status Effect
+215^Effect: SP Slip Lvl 1^Disperse Lv1^Abnormal Status Effect
+216^Effect: SP Slip Lvl 2^Disperse Lv2^Abnormal Status Effect
+217^Effect: SP Slip Lvl 3^Disperse Lv3^Abnormal Status Effect
+218^Effect: SP Slip Lvl 4^Disperse Lv4^Abnormal Status Effect
+219^Effect: SP Slip Lvl 5^Disperse Lv5^Abnormal Status Effect
+220^Effect: Darkness Lvl 1^Blind Lv1^Abnormal Status Effect
+221^Effect: Darkness Lvl 2^Blind Lv1^Abnormal Status Effect
+222^Effect: Darkness Lvl 3^Blind Lv1^Abnormal Status Effect
+223^Effect: Darkness Lvl 4^Blind Lv1^Abnormal Status Effect
+224^Effect: Darkness Lvl 5^Blind Lv1^Abnormal Status Effect
+225^Effect: Attack Speed Down Lvl 1^ATK Speed Down Lv1ï¼¾Abnormal Status Effect
+226^Effect: Attack Speed Down Lvl 2^ATK Speed Down Lv2ï¼¾Abnormal Status Effect
+227^Effect: Attack Speed Down Lvl 3^ATK Speed Down Lv3ï¼¾Abnormal Status Effect
+228^Effect: Attack Speed Down Lvl 4^ATK Speed Down Lv4ï¼¾Abnormal Status Effect
+229^Effect: Attack Speed Down Lvl 5^ATK Speed Down Lv5ï¼¾Abnormal Status Effect
+230^Effect: Curse Lvl 1^Curse Lv1^Abnormal Status Effect
+231^Effect: Curse Lvl 2^Curse Lv2^Abnormal Status Effect
+232^Effect: Curse Lvl 3^Curse Lv3^Abnormal Status Effect
+233^Effect: Curse Lvl 4^Curse Lv4^Abnormal Status Effect
+234^Effect: Curse Lvl 5^Curse Lv5^Abnormal Status Effect
+235^Effect: Strength Down Lvl 1^STR Down Lv1^Abnormal Status Effect
+236^Effect: Strength Down Lvl 2^STR Down Lv2^Abnormal Status Effect
+237^Effect: Strength Down Lvl 3^STR Down Lv3^Abnormal Status Effect
+238^Effect: Strength Down Lvl 4^STR Down Lv4^Abnormal Status Effect
+239^Effect: Strength Down Lvl 5^STR Down Lv5^Abnormal Status Effect
+240^Effect: Vitality Down Lvl 1^VIT Down Lv1^Abnormal Status Effect
+241^Effect: Vitality Down Lvl 2^VIT Down Lv2^Abnormal Status Effect
+242^Effect: Vitality Down Lvl 3^VIT Down Lv3^Abnormal Status Effect
+243^Effect: Vitality Down Lvl 4^VIT Down Lv4^Abnormal Status Effect
+244^Effect: Vitality Down Lvl 5^VIT Down Lv5^Abnormal Status Effect
+245^Effect: Agility Down Lvl 1^AGI Down Lv1^Abnormal Status Effect
+246^Effect: Agility Down Lvl 2^AGI Down Lv2^Abnormal Status Effect
+247^Effect: Agility Down Lvl 3^AGI Down Lv3^Abnormal Status Effect
+248^Effect: Agility Down Lvl 4^AGI Down Lv4^Abnormal Status Effect
+249^Effect: Agility Down Lvl 5^AGI Down Lv5^Abnormal Status Effect
+250^Effect: Dexterity Down Lvl 1^DEX Down Lv1^Abnormal Status Effect
+251^Effect: Dexterity Down Lvl 2^DEX Down Lv2^Abnormal Status Effect
+252^Effect: Dexterity Down Lvl 3^DEX Down Lv3^Abnormal Status Effect
+253^Effect: Dexterity Down Lvl 4^DEX Down Lv4^Abnormal Status Effect
+254^Effect: Dexterity Down Lvl 5^DEX Down Lv5^Abnormal Status Effect
+255^Effect: Enemy Arm Missing^Arm Break EN^Abnormal Status Effect
+256^Effect: Enemy Leg Missing^Leg Break EN^Abnormal Status Effect
+257^Effect: Weight Penalty^Weight penalty^Abnormal Status Effect
+258^Pina's Hit Rate Down Lvl 1^PinaEff HitDown Lv1ï¼¾Abnormal Status Effect
+259^Pina's Hit Rate Down Lvl 2^PinaEff HitDown Lv2ï¼¾Abnormal Status Effect
+260^Pina's Hit Rate Down Lvl 3^PinaEff HitDown Lv3ï¼¾Abnormal Status Effect
+261^Pina's Hit Rate Down Lvl 4^PinaEff HitDown Lv4ï¼¾Abnormal Status Effect
+262^Pina's Attack Up Lvl 1^PinaEff AtkUp Lv1^Abnormal Status Effect
+263^Pina's Attack Up Lvl 2^PinaEff AtkUp Lv2^Abnormal Status Effect
+264^Pina's Attack Up Lvl 3^PinaEff AtkUp Lv3^Abnormal Status Effect
+265^Pina's Defense Up Lvl 1^PinaEff DefUp Lv1^Abnormal Status Effect
+266^Pina's Defense Up Lvl 2^PinaEff DefUp Lv2^Abnormal Status Effect
+267^Pina's Defense Up Lvl 3^PinaEff DefUp Lv3^Abnormal Status Effect
+268^Pina's Speed Up Lvl 1^PinaEff SpdUp Lv3^Abnormal Status Effect
+269^Pina's Speed Up Lvl 2^PinaEff SpdUp Lv3^Abnormal Status Effect
+270^Pina's Speed Up Lvl 3^PinaEff SpdUp Lv3^Abnormal Status Effect
+271^Weakness Fortune^Fortune CrtUp^Fortune Telling Induced Positive Status Effect, Lasts One Day
+272^Drop Fortune^Fortune DropUpï¼¾Fortune Telling Induced Positive Status Effect, Lasts One Day
+273^Color Fortune^FortuneColUp^Fortune Telling Induced Positive Status Effect, Lasts One Day
+274^X Fortune^FortuneExpUp^Fortune Telling Induced Positive Status Effect, Lasts One Day
+275^Bad Fortune^FortuneStatusDown^Fortune Telling Induced Negative Status Effect, Lasts One Day
+276^Battle Dummy Skill 180^Player Battle Dummy 180^Abnormal Status Effect
+277^Effect: Crimson Poison^Crimson Poison^Abnormal Status Effect
+278^Detoxification Crystal^Crimson Poison Del^Abnormal Status Effect
+279^[Effect]Boss Body Break_Atk Down^BAD Status^
+280^[Effect]Boss Body Break_Def Down^BAD Status^
+281^[Effect]Boss Body Break_Hit Down^BAD Status^
+282^[Effect]Boss Body Break_Avd Down^BAD Status^
+283^[Effect]Boss Arm Break_Atk Down^BAD Status^
+284^[Effect]Boss Arm Break_Hit Down^BAD Status^
+285^[Effect]Boss Foot Break_Hit Down^BAD Status^
+286^[Effect]Boss Foot Break_Avd Down^BAD Status^
+287^Effect: Special State Lvl 1^SP_Lv1^
+288^Effect: Special State Lvl 2^SP_Lv2^
+289^Effect: Special State Lvl 3^SP_Lv3^
+290^Weaken^Jyakutaikaï¼¾Enemy Battle Skill Dummy
+291^Become Stickier^Nentaizouka^Enemy Battle Skill Dummy
+292^Madness^GO Mad^Enemy Battle Skill Dummy
+293^Melt Charge^Melt Charge^Minotaur Special Attack, 3 Self-Reinforcement, Attack +30%
+294^Infinity Guard^Infinity Guard^Dark Knight Special Attack, 3 Self-Reinforcement, Become Briefly Invincible
+295^Limit Prison^Limit Prison^Minotaur Special Attack, 3 Self-Reinforcement (Armor), Defense +50%
+296^Kill Avenger^Kill Avenger^Dark Knight Special Attack, 3 Self-Reinforcement (Red), Attack +50%
+297^Knock Back^Knock Back^Boss Normal Attack
+298^Howling^Berserk^For a While Attack Up (Small), Special Effect
+299^Limit Break^Limit Break^Enemy Battle Skill Dummy
